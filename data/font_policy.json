@@ -1,0 +1,80 @@
+{
+  "selected_family": "Yeongdeok Blueroad",
+  "source_file": "1-Yeongdeok-Blueroad.ttf (user attachment)",
+  "source_url": "https://www.yd.go.kr/?page_id=120264",
+  "license": "Free use including commercial use; paid sale or distortion of the font itself prohibited by Yeongdeok-gun",
+  "ttf_sha256": "0cb7ee0dca070a387888bb03224bb3fed3ba73ae94078ac5cacf55c3bf477944",
+  "cpro_layout": {
+    "raster_font_size_px": 22,
+    "display_cell_px": [
+      24,
+      24
+    ],
+    "rendering": "monochrome threshold at 96; common baseline and proportional punctuation",
+    "fullwidth_advance_px": 26,
+    "punctuation_advance": "font natural advance plus 2px",
+    "line_advance_px": 26,
+    "baseline_first_line_px": 19,
+    "dense_card_overrides_px": {
+      "CPRO02.PVR": 25,
+      "CPRO03.PVR": 25,
+      "CPRO04.PVR": 25,
+      "CPRO06.PVR": 25,
+      "CPRO07.PVR": 25,
+      "CPRO08.PVR": 25,
+      "CPRO09.PVR": 25,
+      "CPRO10.PVR": 25,
+      "CPRO13.PVR": 25,
+      "CPRO14.PVR": 25,
+      "CPRO15.PVR": 25,
+      "CPRO17.PVR": 25,
+      "CPRO25.PVR": 24,
+      "CPRO26.PVR": 24,
+      "CPRO28.PVR": 25,
+      "CPRO41.PVR": 24,
+      "CPRO42.PVR": 24,
+      "CPRO51.PVR": 24,
+      "CPRO53.PVR": 24,
+      "CPRO60.PVR": 24,
+      "CPRO62.PVR": 24,
+      "CPRO71.PVR": 25,
+      "CPRO72.PVR": 25
+    },
+    "original_ink_bounds_px": [
+      0,
+      4,
+      384,
+      205
+    ],
+    "prototype_ink_bounds_px": [
+      3,
+      1,
+      366,
+      205
+    ],
+    "basis": "CPRO01 original first-line glyph starts near x=2,28,54 and line tops near y=4,29,55,81,107,133,159,186",
+    "original_card_ink_height_exception_px": {
+      "CPRO56.PVR": 231
+    }
+  },
+  "previous_trials": [
+    "NeoDunggeunmo 16x16 1bpp enlarged to 24x24",
+    "Galmuri14 bitmap fitted to 24x24",
+    "Moneygraphy Pixel 22px in 24x24 cell",
+    "Hakgyoansim Geurimilgi 24px in 24x24 cell"
+  ],
+  "status": "CPRO01-79 image prototypes packed into same-length PVRs and generated disc copy; gameplay appearance unverified",
+  "stage_caption_atlases": {
+    "font": "Yeongdeok Blueroad",
+    "font_size_px": 22,
+    "original_row_height_px": 26,
+    "fullwidth_advance_px": [
+      24,
+      23,
+      22
+    ],
+    "UV_rectangles": "original positions and extents retained",
+    "English": "original glyph pixels copied; with suffix pixels retained in place",
+    "decorations": "original square glyphs and game-drawn pink bars retained"
+  }
+}

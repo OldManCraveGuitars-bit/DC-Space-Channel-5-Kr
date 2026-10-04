@@ -1,0 +1,509 @@
+[
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 0,
+    "window": [
+      0.12,
+      2.63
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うらら前方から踊る宇宙人が来るぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 0,
+    "window": [
+      0.12,
+      2.63
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うらら前方から驚いた",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": 0,
+    "window": [
+      0,
+      1.15
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "キレが悪いぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": 0,
+    "window": [
+      0,
+      1.15
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "キレが悪いぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 3,
+    "window": [
+      8.760000000000002,
+      10.51
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うららゴミ箱の中から来るぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 3,
+    "window": [
+      8.760000000000002,
+      10.51
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うららゴミ箱の中から来るぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 3,
+    "window": [
+      10.3,
+      12.89
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うららせんエスカレーターの方から来るぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 3,
+    "window": [
+      10.3,
+      12.89
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うららせんエスカレーターの方から来るぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 1,
+    "window": [
+      2.5,
+      3.37
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "何ですって",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 1,
+    "window": [
+      2.5,
+      3.37
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "何ですって",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 5,
+    "window": [
+      13.58,
+      16.99
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "私の名前は女王",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 5,
+    "window": [
+      13.58,
+      16.99
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "私の名前は",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": 4,
+    "window": [
+      9.3,
+      11.33
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "あじゃがめ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": 4,
+    "window": [
+      9.3,
+      11.33
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "ああじゃがめ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 0,
+    "window": [
+      0.49999999999999994,
+      3.09
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "よしスクーパーばっちり撮れたぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 0,
+    "window": [
+      0.49999999999999994,
+      3.09
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "よしスクーパーマッチ取れたぞ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 7,
+    "window": [
+      21.78,
+      23.61
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "この映っているもの何",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 7,
+    "window": [
+      21.78,
+      23.61
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "この映っているもの何",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": 0,
+    "window": [
+      0,
+      2.15
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "あらかた脱出",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": 0,
+    "window": [
+      0,
+      2.15
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "あら方脱出",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 0,
+    "window": [
+      0.15999999999999998,
+      3.33
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "ただの操り人形にリポートは無理だったようね",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 0,
+    "window": [
+      0.15999999999999998,
+      3.33
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "ただのあやつり人形にリポートは無理だったようね",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": 0,
+    "window": [
+      0.48000000000000004,
+      1.69
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "し市長に",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": 0,
+    "window": [
+      0.48000000000000004,
+      1.69
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "し市長に",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": 0,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うそ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": 0,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "speed": 1.15,
+    "pitch_preserved": true,
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "うそ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 0,
+    "window": [
+      0.12,
+      2.63
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "うらぁ!前方から驚う中陣が来るぞ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": 0,
+    "window": [
+      0,
+      1.15
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "いれが悪いぞ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 3,
+    "window": [
+      8.760000000000002,
+      10.51
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "ウララ、小磯箱の中から来るぞ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 3,
+    "window": [
+      10.3,
+      12.89
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "グララ、アセンスカレーターの方から来るぞ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 1,
+    "window": [
+      2.5,
+      3.37
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "なんでして?",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 5,
+    "window": [
+      13.58,
+      16.99
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "私の名前は ジョー!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": 4,
+    "window": [
+      9.3,
+      11.33
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "うぅぅ、じゃがめ",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 0,
+    "window": [
+      0.49999999999999994,
+      3.09
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "よし!スクーパーはチートルだぞ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 7,
+    "window": [
+      21.78,
+      23.61
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "この写っているのに、やべぇ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": 0,
+    "window": [
+      0,
+      2.15
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "あらかだだしつ!",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 0,
+    "window": [
+      0.15999999999999998,
+      3.33
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "ただの怪しい人形に、リポーター無理だったよね。",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": 0,
+    "window": [
+      0.48000000000000004,
+      1.69
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "し、し、し、し、し、し、し、し、し、し、し、し、し、し、し、し、し、し、し、し、",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": 0,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "speed": 0.8,
+    "pitch_preserved": true,
+    "recognizer": "whisper-small",
+    "recognized": "さあ、お前は何かが欲しいのか? 何かが欲しいのか? 何かが欲しいのか? うそ!",
+    "original_audio_listening_completed": false
+  }
+]

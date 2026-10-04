@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "VOICEDATA.AFS:002",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.67
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6329744458198547,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7700569970267159
+    ],
+    "no_speech_prob": [
+      0.2355385422706604
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:002",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.67
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7700569970267159
+    ],
+    "no_speech_prob": [
+      0.2355385422706604
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:007",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      15.850000000000001,
+      17.01
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.3567580580711365,
+    "recognized": "れしゅう",
+    "avg_logprob": [
+      -0.644536979496479
+    ],
+    "no_speech_prob": [
+      0.18976914882659912
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:007",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      15.850000000000001,
+      17.01
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7131867579051426
+    ],
+    "no_speech_prob": [
+      0.18976914882659912
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:008",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.69
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6391356587409973,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7170367240905762
+    ],
+    "no_speech_prob": [
+      0.19616352021694183
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:008",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.69
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7170367240905762
+    ],
+    "no_speech_prob": [
+      0.19616352021694183
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッドデンス!",
+    "window": [
+      5.83,
+      7.27
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.7307072877883911,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.5382144110543388
+    ],
+    "no_speech_prob": [
+      0.20121796429157257
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッドデンス!",
+    "window": [
+      5.83,
+      7.27
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.5382144110543388
+    ],
+    "no_speech_prob": [
+      0.20121796429157257
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:011",
+    "segment": 7,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.91,
+      17.01
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6199202537536621,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.49895693574632916
+    ],
+    "no_speech_prob": [
+      0.21066400408744812
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:011",
+    "segment": 7,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.91,
+      17.01
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.49895693574632916
+    ],
+    "no_speech_prob": [
+      0.21066400408744812
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:012",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      7.49,
+      8.333
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6329221725463867,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.6486793756484985
+    ],
+    "no_speech_prob": [
+      0.23048974573612213
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:012",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      7.49,
+      8.333
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.6486793756484985
+    ],
+    "no_speech_prob": [
+      0.23048974573612213
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:013",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッツデンス!",
+    "window": [
+      7.43,
+      8.93
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.862387478351593,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.49326370443616596
+    ],
+    "no_speech_prob": [
+      0.22398017346858978
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:013",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッツデンス!",
+    "window": [
+      7.43,
+      8.93
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.49326370443616596
+    ],
+    "no_speech_prob": [
+      0.22398017346858978
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:016",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.829999999999998,
+      16.990000000000002
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.5701998472213745,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5130798646381923
+    ],
+    "no_speech_prob": [
+      0.26904672384262085
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:016",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.829999999999998,
+      16.990000000000002
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5130798646381923
+    ],
+    "no_speech_prob": [
+      0.26904672384262085
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:017",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.55,
+      8.629999999999999
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6253898739814758,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.6672870601926532
+    ],
+    "no_speech_prob": [
+      0.23744326829910278
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:017",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.55,
+      8.629999999999999
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.6672870601926532
+    ],
+    "no_speech_prob": [
+      0.23744326829910278
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:020",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      13.07,
+      14.31
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6360728740692139,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5371102605547223
+    ],
+    "no_speech_prob": [
+      0.18067187070846558
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:020",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      13.07,
+      14.31
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5371102605547223
+    ],
+    "no_speech_prob": [
+      0.18067187070846558
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:121",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.31,
+      3.81
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.4326181709766388,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5595470468203226
+    ],
+    "no_speech_prob": [
+      0.2023385465145111
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:121",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.31,
+      3.81
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5595470468203226
+    ],
+    "no_speech_prob": [
+      0.2023385465145111
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:124",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.47,
+      4.05
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "ko",
+    "language_probability": 0.4319149851799011,
+    "recognized": "나이스 슈팅!",
+    "avg_logprob": [
+      -0.5967539151509603
+    ],
+    "no_speech_prob": [
+      0.17492510378360748
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:124",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.47,
+      4.05
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5868900815645853
+    ],
+    "no_speech_prob": [
+      0.17492510378360748
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:134",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "列衆!",
+    "window": [
+      24.17,
+      25.290000000000003
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6110050082206726,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5631982939583915
+    ],
+    "no_speech_prob": [
+      0.23891039192676544
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:134",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "列衆!",
+    "window": [
+      24.17,
+      25.290000000000003
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5631982939583915
+    ],
+    "no_speech_prob": [
+      0.23891039192676544
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      12.51,
+      13.709999999999999
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.3221818804740906,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5145882368087769
+    ],
+    "no_speech_prob": [
+      0.2627922296524048
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      12.51,
+      13.709999999999999
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5145882368087769
+    ],
+    "no_speech_prob": [
+      0.2627922296524048
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.850000000000001,
+      17.05
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6080080270767212,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7327247858047485
+    ],
+    "no_speech_prob": [
+      0.18157117068767548
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.850000000000001,
+      17.05
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7327247858047485
+    ],
+    "no_speech_prob": [
+      0.18157117068767548
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:201",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      19.15,
+      20.0
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.6117385625839233,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5502433776855469
+    ],
+    "no_speech_prob": [
+      0.19578327238559723
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:201",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      19.15,
+      20.0
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5502433776855469
+    ],
+    "no_speech_prob": [
+      0.19578327238559723
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.43,
+      8.75
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.7819591164588928,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.5820832933698382
+    ],
+    "no_speech_prob": [
+      0.2113848328590393
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.43,
+      8.75
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.5820832933698382
+    ],
+    "no_speech_prob": [
+      0.2113848328590393
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:130",
+    "segment": 1,
+    "anchor": true,
+    "source_japanese": "Nice shooting!",
+    "window": [
+      2.35,
+      3.333
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.3516528010368347,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5131428937117258
+    ],
+    "no_speech_prob": [
+      0.21523885428905487
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:130",
+    "segment": 1,
+    "anchor": true,
+    "source_japanese": "Nice shooting!",
+    "window": [
+      2.35,
+      3.333
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5131428937117258
+    ],
+    "no_speech_prob": [
+      0.21523885428905487
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:135",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.51,
+      8.93
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.7015866041183472,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.5306548220770699
+    ],
+    "no_speech_prob": [
+      0.11898525804281235
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:135",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.51,
+      8.93
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.5306548220770699
+    ],
+    "no_speech_prob": [
+      0.11898525804281235
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:002",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.67
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.7676442265510559,
+    "recognized": "練習",
+    "avg_logprob": [
+      -0.48229355812072755
+    ],
+    "no_speech_prob": [
+      0.39916935563087463
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:002",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.67
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "LESHU!",
+    "avg_logprob": [
+      -0.8774162977933884
+    ],
+    "no_speech_prob": [
+      0.39916935563087463
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:007",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      15.850000000000001,
+      17.01
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.8761761784553528,
+    "recognized": "レッシュ",
+    "avg_logprob": [
+      -0.47816087518419537
+    ],
+    "no_speech_prob": [
+      0.16581404209136963
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:007",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      15.850000000000001,
+      17.01
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7552822147096906
+    ],
+    "no_speech_prob": [
+      0.16581404209136963
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:008",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.69
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.7750174403190613,
+    "recognized": "練習!",
+    "avg_logprob": [
+      -0.5224958062171936
+    ],
+    "no_speech_prob": [
+      0.3429296016693115
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:008",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.53,
+      8.69
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "LESHU!",
+    "avg_logprob": [
+      -0.8120487928390503
+    ],
+    "no_speech_prob": [
+      0.3429296016693115
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッドデンス!",
+    "window": [
+      5.83,
+      7.27
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.7347366213798523,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.4112279840878078
+    ],
+    "no_speech_prob": [
+      0.21456274390220642
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッドデンス!",
+    "window": [
+      5.83,
+      7.27
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.4112279840878078
+    ],
+    "no_speech_prob": [
+      0.21456274390220642
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:011",
+    "segment": 7,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.91,
+      17.01
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.795375406742096,
+    "recognized": "レッシュ",
+    "avg_logprob": [
+      -0.3664490410259792
+    ],
+    "no_speech_prob": [
+      0.24416323006153107
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:011",
+    "segment": 7,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.91,
+      17.01
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5394187484468732
+    ],
+    "no_speech_prob": [
+      0.24416323006153107
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:012",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      7.49,
+      8.333
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.722941517829895,
+    "recognized": "レッシュ!",
+    "avg_logprob": [
+      -0.5796799063682556
+    ],
+    "no_speech_prob": [
+      0.38707590103149414
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:012",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      7.49,
+      8.333
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.7423115628106254
+    ],
+    "no_speech_prob": [
+      0.38707590103149414
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:013",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッツデンス!",
+    "window": [
+      7.43,
+      8.93
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.8338155746459961,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.4024865882737296
+    ],
+    "no_speech_prob": [
+      0.2696317136287689
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:013",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "レッツデンス!",
+    "window": [
+      7.43,
+      8.93
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.4024865882737296
+    ],
+    "no_speech_prob": [
+      0.2696317136287689
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:016",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.829999999999998,
+      16.990000000000002
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.748023271560669,
+    "recognized": "レッシュ",
+    "avg_logprob": [
+      -0.35034224816731047
+    ],
+    "no_speech_prob": [
+      0.3407033383846283
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:016",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.829999999999998,
+      16.990000000000002
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5558311087744576
+    ],
+    "no_speech_prob": [
+      0.3407033383846283
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:017",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.55,
+      8.629999999999999
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.5829243659973145,
+    "recognized": "練習!",
+    "avg_logprob": [
+      -0.5131192008654276
+    ],
+    "no_speech_prob": [
+      0.40665051341056824
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:017",
+    "segment": 3,
+    "anchor": false,
+    "source_japanese": "練習!",
+    "window": [
+      7.55,
+      8.629999999999999
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoe",
+    "avg_logprob": [
+      -0.7190770904223124
+    ],
+    "no_speech_prob": [
+      0.40665051341056824
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:020",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      13.07,
+      14.31
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.4215330183506012,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.4597428355898176
+    ],
+    "no_speech_prob": [
+      0.32384416460990906
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:020",
+    "segment": 2,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      13.07,
+      14.31
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.4597428355898176
+    ],
+    "no_speech_prob": [
+      0.32384416460990906
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:121",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.31,
+      3.81
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.5608303546905518,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.49241647124290466
+    ],
+    "no_speech_prob": [
+      0.27190035581588745
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:121",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.31,
+      3.81
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.49241647124290466
+    ],
+    "no_speech_prob": [
+      0.27190035581588745
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:124",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.47,
+      4.05
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.4758666157722473,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5495753884315491
+    ],
+    "no_speech_prob": [
+      0.25811290740966797
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:124",
+    "segment": 1,
+    "anchor": false,
+    "source_japanese": "ナイスシューティン!",
+    "window": [
+      2.47,
+      4.05
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.5495753884315491
+    ],
+    "no_speech_prob": [
+      0.25811290740966797
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:134",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "列衆!",
+    "window": [
+      24.17,
+      25.290000000000003
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.8195282220840454,
+    "recognized": "練習",
+    "avg_logprob": [
+      -0.47931509017944335
+    ],
+    "no_speech_prob": [
+      0.18773594498634338
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:134",
+    "segment": 6,
+    "anchor": false,
+    "source_japanese": "列衆!",
+    "window": [
+      24.17,
+      25.290000000000003
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5093831164496285
+    ],
+    "no_speech_prob": [
+      0.18773594498634338
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      12.51,
+      13.709999999999999
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.3970005512237549,
+    "recognized": "練習!",
+    "avg_logprob": [
+      -0.5627343058586121
+    ],
+    "no_speech_prob": [
+      0.42116254568099976
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      12.51,
+      13.709999999999999
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.5930759566170829
+    ],
+    "no_speech_prob": [
+      0.42116254568099976
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.850000000000001,
+      17.05
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.7547553777694702,
+    "recognized": "練習",
+    "avg_logprob": [
+      -0.48548297882080077
+    ],
+    "no_speech_prob": [
+      0.33745911717414856
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      15.850000000000001,
+      17.05
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.8110184158597674
+    ],
+    "no_speech_prob": [
+      0.33745911717414856
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:201",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      19.15,
+      20.0
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.790313720703125,
+    "recognized": "レッシュ",
+    "avg_logprob": [
+      -0.44279750755855013
+    ],
+    "no_speech_prob": [
+      0.34221747517585754
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:201",
+    "segment": 4,
+    "anchor": false,
+    "source_japanese": "レッシュ!",
+    "window": [
+      19.15,
+      20.0
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's shoot!",
+    "avg_logprob": [
+      -0.6374436787196568
+    ],
+    "no_speech_prob": [
+      0.34221747517585754
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.43,
+      8.75
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.5839049816131592,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.3966753142220633
+    ],
+    "no_speech_prob": [
+      0.20744167268276215
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.43,
+      8.75
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.3966753142220633
+    ],
+    "no_speech_prob": [
+      0.20744167268276215
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:130",
+    "segment": 1,
+    "anchor": true,
+    "source_japanese": "Nice shooting!",
+    "window": [
+      2.35,
+      3.333
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.5512393116950989,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.4927327235539754
+    ],
+    "no_speech_prob": [
+      0.32287973165512085
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:130",
+    "segment": 1,
+    "anchor": true,
+    "source_japanese": "Nice shooting!",
+    "window": [
+      2.35,
+      3.333
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Nice shooting!",
+    "avg_logprob": [
+      -0.4927327235539754
+    ],
+    "no_speech_prob": [
+      0.32287973165512085
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:135",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.51,
+      8.93
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "en",
+    "language_probability": 0.7113821506500244,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.40897518396377563
+    ],
+    "no_speech_prob": [
+      0.29977741837501526
+    ],
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:135",
+    "segment": 3,
+    "anchor": true,
+    "source_japanese": "Let's dance!",
+    "window": [
+      7.51,
+      8.93
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "recognized": "Let's dance!",
+    "avg_logprob": [
+      -0.40897518396377563
+    ],
+    "no_speech_prob": [
+      0.29977741837501526
+    ],
+    "original_audio_listening_completed": false
+  }
+]

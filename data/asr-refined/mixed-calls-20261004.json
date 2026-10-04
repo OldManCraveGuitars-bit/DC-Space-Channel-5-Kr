@@ -1,0 +1,787 @@
+[
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.42514926195144653,
+    "source_japanese": "お前、いいわ。ごま。",
+    "recognized": "お前、いいわ。ごま。",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.14,
+        "word": "お",
+        "probability": 0.8058041930198669
+      },
+      {
+        "start": 0.14,
+        "end": 0.3,
+        "word": "前、",
+        "probability": 0.7591313123703003
+      },
+      {
+        "start": 0.4,
+        "end": 0.52,
+        "word": "いい",
+        "probability": 0.8872367739677429
+      },
+      {
+        "start": 0.52,
+        "end": 0.7,
+        "word": "わ。",
+        "probability": 0.9947816729545593
+      },
+      {
+        "start": 1.2,
+        "end": 1.38,
+        "word": "ご",
+        "probability": 0.2009768933057785
+      },
+      {
+        "start": 1.38,
+        "end": 1.52,
+        "word": "ま。",
+        "probability": 0.7505725026130676
+      }
+    ],
+    "avg_logprob": [
+      -0.8323565473159155
+    ],
+    "no_speech_prob": [
+      0.18832546472549438
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "お前、いいわ。ごま。",
+    "recognized": "Oh my eva",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.16,
+        "word": " Oh",
+        "probability": 0.34918609261512756
+      },
+      {
+        "start": 0.16,
+        "end": 0.3,
+        "word": " my",
+        "probability": 0.7154690027236938
+      },
+      {
+        "start": 0.3,
+        "end": 1.06,
+        "word": " eva",
+        "probability": 0.18090379983186722
+      }
+    ],
+    "avg_logprob": [
+      -0.9047336237771171
+    ],
+    "no_speech_prob": [
+      0.18832546472549438
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.58,
+      9.82
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.66864013671875,
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "recognized": "宇宙人、ダンアップクリーズ!",
+    "words": [
+      {
+        "start": 6.08,
+        "end": 6.86,
+        "word": "宇",
+        "probability": 0.6416869610548019
+      },
+      {
+        "start": 6.86,
+        "end": 6.96,
+        "word": "宙",
+        "probability": 0.9967909157276154
+      },
+      {
+        "start": 6.96,
+        "end": 7.12,
+        "word": "人、",
+        "probability": 0.8750385046005249
+      },
+      {
+        "start": 7.34,
+        "end": 7.6,
+        "word": "ダ",
+        "probability": 0.4893933832645416
+      },
+      {
+        "start": 7.6,
+        "end": 7.8,
+        "word": "ン",
+        "probability": 0.24369607865810394
+      },
+      {
+        "start": 7.8,
+        "end": 7.98,
+        "word": "ア",
+        "probability": 0.8083735704421997
+      },
+      {
+        "start": 7.98,
+        "end": 8.18,
+        "word": "ップ",
+        "probability": 0.9974138736724854
+      },
+      {
+        "start": 8.18,
+        "end": 8.46,
+        "word": "ク",
+        "probability": 0.9141461253166199
+      },
+      {
+        "start": 8.46,
+        "end": 8.74,
+        "word": "リ",
+        "probability": 0.7438778877258301
+      },
+      {
+        "start": 8.74,
+        "end": 8.98,
+        "word": "ー",
+        "probability": 0.7259471416473389
+      },
+      {
+        "start": 8.98,
+        "end": 9.54,
+        "word": "ズ!",
+        "probability": 0.9093409180641174
+      }
+    ],
+    "avg_logprob": [
+      -0.5693351593282487
+    ],
+    "no_speech_prob": [
+      0.39447885751724243
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.58,
+      9.82
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "recognized": "Choojin! Down-up quiz!",
+    "words": [
+      {
+        "start": 6.08,
+        "end": 7.1,
+        "word": " Choojin!",
+        "probability": 0.31924718618392944
+      },
+      {
+        "start": 7.44,
+        "end": 7.72,
+        "word": " Down",
+        "probability": 0.2670462131500244
+      },
+      {
+        "start": 7.72,
+        "end": 8.08,
+        "word": "-up",
+        "probability": 0.39106451719999313
+      },
+      {
+        "start": 8.08,
+        "end": 8.54,
+        "word": " quiz!",
+        "probability": 0.4138808250427246
+      }
+    ],
+    "avg_logprob": [
+      -0.9868879743984768,
+      -0.9868879743984768
+    ],
+    "no_speech_prob": [
+      0.39447885751724243,
+      0.39447885751724243
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.600000000000001,
+      16.66
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.37422674894332886,
+    "source_japanese": "ビエット!",
+    "recognized": "ディエプター!",
+    "words": [
+      {
+        "start": 15.68,
+        "end": 15.98,
+        "word": "デ",
+        "probability": 0.637336254119873
+      },
+      {
+        "start": 15.98,
+        "end": 16.02,
+        "word": "ィ",
+        "probability": 0.8097469806671143
+      },
+      {
+        "start": 16.02,
+        "end": 16.06,
+        "word": "エ",
+        "probability": 0.7690573930740356
+      },
+      {
+        "start": 16.06,
+        "end": 16.14,
+        "word": "プ",
+        "probability": 0.6915166974067688
+      },
+      {
+        "start": 16.14,
+        "end": 16.36,
+        "word": "ター!",
+        "probability": 0.6876200437545776
+      }
+    ],
+    "avg_logprob": [
+      -0.6415361298455132
+    ],
+    "no_speech_prob": [
+      0.19508570432662964
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.600000000000001,
+      16.66
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "ビエット!",
+    "recognized": "Victor!",
+    "words": [
+      {
+        "start": 15.1,
+        "end": 16.2,
+        "word": " Victor!",
+        "probability": 0.1569083333015442
+      }
+    ],
+    "avg_logprob": [
+      -0.9988669395446778
+    ],
+    "no_speech_prob": [
+      0.19508570432662964
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "model": "small",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.7209050059318542,
+    "source_japanese": "マレー、イッ!",
+    "recognized": "マレー! ビッ!",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.2,
+        "word": "マ",
+        "probability": 0.11135654151439667
+      },
+      {
+        "start": 0.2,
+        "end": 0.38,
+        "word": "レ",
+        "probability": 0.8703626394271851
+      },
+      {
+        "start": 0.38,
+        "end": 0.86,
+        "word": "ー!",
+        "probability": 0.41258496046066284
+      },
+      {
+        "start": 0.86,
+        "end": 1.16,
+        "word": "ビ",
+        "probability": 0.09387758374214172
+      },
+      {
+        "start": 1.16,
+        "end": 1.38,
+        "word": "ッ!",
+        "probability": 0.7180510759353638
+      }
+    ],
+    "avg_logprob": [
+      -1.1750893592834473,
+      -1.1750893592834473
+    ],
+    "no_speech_prob": [
+      0.5570141077041626,
+      0.5570141077041626
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "model": "small",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "マレー、イッ!",
+    "recognized": "Marry me!",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.54,
+        "word": " Marry",
+        "probability": 0.2126326709985733
+      },
+      {
+        "start": 0.54,
+        "end": 1.1,
+        "word": " me!",
+        "probability": 0.6931024193763733
+      }
+    ],
+    "avg_logprob": [
+      -0.9672900949205671
+    ],
+    "no_speech_prob": [
+      0.5570141077041626
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.83824223279953,
+    "source_japanese": "お前、いいわ。ごま。",
+    "recognized": "お前、いいわ!",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.2,
+        "word": "お",
+        "probability": 0.7185527682304382
+      },
+      {
+        "start": 0.2,
+        "end": 0.4,
+        "word": "前、",
+        "probability": 0.8273540139198303
+      },
+      {
+        "start": 0.54,
+        "end": 0.6,
+        "word": "いい",
+        "probability": 0.867480993270874
+      },
+      {
+        "start": 0.6,
+        "end": 1.1,
+        "word": "わ!",
+        "probability": 0.9513245820999146
+      }
+    ],
+    "avg_logprob": [
+      -0.5502554045783149
+    ],
+    "no_speech_prob": [
+      0.22519716620445251
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "お前、いいわ。ごま。",
+    "recognized": "Omae Iiwa! Oma!",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.48,
+        "word": " Omae",
+        "probability": 0.5234321629007658
+      },
+      {
+        "start": 0.48,
+        "end": 1.02,
+        "word": " Iiwa!",
+        "probability": 0.6881757974624634
+      },
+      {
+        "start": 1.38,
+        "end": 1.58,
+        "word": " Oma!",
+        "probability": 0.6770274788141251
+      }
+    ],
+    "avg_logprob": [
+      -0.7180981085850642
+    ],
+    "no_speech_prob": [
+      0.22519716620445251
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.58,
+      9.82
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.8261289000511169,
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "recognized": "宇宙人、ダウンアップクイズ!",
+    "words": [
+      {
+        "start": 6.08,
+        "end": 6.08,
+        "word": "宇",
+        "probability": 0.9530143439769745
+      },
+      {
+        "start": 6.08,
+        "end": 7.0,
+        "word": "宙",
+        "probability": 0.9997575879096985
+      },
+      {
+        "start": 7.0,
+        "end": 7.4,
+        "word": "人、",
+        "probability": 0.9983431100845337
+      },
+      {
+        "start": 7.7,
+        "end": 7.76,
+        "word": "ダ",
+        "probability": 0.5973339676856995
+      },
+      {
+        "start": 7.76,
+        "end": 7.86,
+        "word": "ウ",
+        "probability": 0.5668208003044128
+      },
+      {
+        "start": 7.86,
+        "end": 8.02,
+        "word": "ン",
+        "probability": 0.8547364473342896
+      },
+      {
+        "start": 8.02,
+        "end": 8.14,
+        "word": "ア",
+        "probability": 0.9708983302116394
+      },
+      {
+        "start": 8.14,
+        "end": 8.34,
+        "word": "ップ",
+        "probability": 0.9997206330299377
+      },
+      {
+        "start": 8.34,
+        "end": 8.64,
+        "word": "ク",
+        "probability": 0.9794042110443115
+      },
+      {
+        "start": 8.64,
+        "end": 8.9,
+        "word": "イ",
+        "probability": 0.9290257096290588
+      },
+      {
+        "start": 8.9,
+        "end": 9.52,
+        "word": "ズ!",
+        "probability": 0.7807921171188354
+      }
+    ],
+    "avg_logprob": [
+      -0.34351983500851524
+    ],
+    "no_speech_prob": [
+      0.5708007216453552
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.58,
+      9.82
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "recognized": "宇宙人、ダウンアップクイズ!",
+    "words": [
+      {
+        "start": 8.18,
+        "end": 9.58,
+        "word": " 宇宙人、ダウンアップクイズ!",
+        "probability": 0.7640345479051273
+      }
+    ],
+    "avg_logprob": [
+      -0.6674928414194208
+    ],
+    "no_speech_prob": [
+      0.5708007216453552
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.600000000000001,
+      16.66
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.3501902222633362,
+    "source_japanese": "ビエット!",
+    "recognized": "ディレクター!",
+    "words": [
+      {
+        "start": 15.1,
+        "end": 15.12,
+        "word": "デ",
+        "probability": 0.3206891417503357
+      },
+      {
+        "start": 15.12,
+        "end": 15.14,
+        "word": "ィ",
+        "probability": 0.8928233981132507
+      },
+      {
+        "start": 15.14,
+        "end": 16.14,
+        "word": "レ",
+        "probability": 0.8850592374801636
+      },
+      {
+        "start": 16.14,
+        "end": 16.3,
+        "word": "ク",
+        "probability": 0.9905734658241272
+      },
+      {
+        "start": 16.3,
+        "end": 16.5,
+        "word": "ター!",
+        "probability": 0.9139572978019714
+      }
+    ],
+    "avg_logprob": [
+      -0.6364951133728027
+    ],
+    "no_speech_prob": [
+      0.2045968621969223
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.600000000000001,
+      16.66
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "ビエット!",
+    "recognized": "Director!",
+    "words": [
+      {
+        "start": 15.1,
+        "end": 16.32,
+        "word": " Director!",
+        "probability": 0.49760621786117554
+      }
+    ],
+    "avg_logprob": [
+      -0.8039905548095703
+    ],
+    "no_speech_prob": [
+      0.2045968621969223
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "model": "medium",
+    "language_constraint": null,
+    "detected_language": "ja",
+    "language_probability": 0.6163531541824341,
+    "source_japanese": "マレー、イッ!",
+    "recognized": "マレー、イッ!",
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.32,
+        "word": "マ",
+        "probability": 0.1771288514137268
+      },
+      {
+        "start": 0.32,
+        "end": 0.72,
+        "word": "レ",
+        "probability": 0.5561301112174988
+      },
+      {
+        "start": 0.72,
+        "end": 1.12,
+        "word": "ー、",
+        "probability": 0.7440030574798584
+      },
+      {
+        "start": 1.16,
+        "end": 1.24,
+        "word": "イ",
+        "probability": 0.12201986461877823
+      },
+      {
+        "start": 1.24,
+        "end": 1.46,
+        "word": "ッ!",
+        "probability": 0.7778103947639465
+      }
+    ],
+    "avg_logprob": [
+      -0.9236282229423523
+    ],
+    "no_speech_prob": [
+      0.6500182747840881
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "model": "medium",
+    "language_constraint": "en",
+    "detected_language": "en",
+    "language_probability": 1,
+    "source_japanese": "マレー、イッ!",
+    "recognized": "",
+    "words": [],
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  }
+]

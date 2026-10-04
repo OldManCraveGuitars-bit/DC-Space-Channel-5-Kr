@@ -1,0 +1,96 @@
+{"id": "R11.PVM:000", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R11.PVM:000", "segment": 1, "japanese": "宇宙人の動きをマネるのが有効！", "source_text": "宇宙人の動きをマネるのが有効！", "korean": "외계인 동작을 따라 하면 효과적!", "region": [0, 26, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 2, "japanese": "「チュー」といったらＡボタン！", "source_text": "「チュー」といったらＡボタン！", "korean": "「츄」라고 하면 A 버튼!", "region": [0, 52, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 3, "japanese": "宇宙人にはＡボタンビームが有効", "source_text": "宇宙人にはＡボタンビームが有効", "korean": "외계인에게는 A 버튼 빔이 효과적", "region": [0, 78, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 4, "japanese": "地球人にはＢボタンビームが有効", "source_text": "地球人にはＢボタンビームが有効", "korean": "지구인에게는 B 버튼 빔이 효과적", "region": [0, 104, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 5, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 130, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R11.PVM:000", "segment": 6, "japanese": "『スペース　ニホン人』", "source_text": "『スペース　ニホン人』", "korean": "『스페이스 일본인』", "region": [0, 156, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R12.PVM:001", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [26, 0, 130, 26], "source_x": 26, "align": "center"}
+{"id": "R12.PVM:001", "segment": 1, "japanese": "『スペース犬』", "source_text": "『スペース犬』", "korean": "『스페이스 개』", "region": [0, 26, 182, 26], "source_x": 0, "align": "center"}
+{"id": "R13.PVM:000", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 0, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R13.PVM:000", "segment": 1, "japanese": "『スペースサラリーマン』", "source_text": "『スペースサラリーマン』", "korean": "『스페이스 샐러리맨』", "region": [0, 26, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R13.PVM:000", "segment": 2, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 52, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R13.PVM:000", "segment": 3, "japanese": "『ハードセクシーマン』", "source_text": "『ハードセクシーマン』", "korean": "『하드 섹시맨』", "region": [0, 78, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R14.PVM:000", "segment": 0, "japanese": "チャンネル４２『プリン』", "source_text": "チャンネル４２『プリン』", "korean": "채널 42『프린』", "region": [0, 0, 312, 26], "source_x": 0, "align": "left"}
+{"id": "R14.PVM:000", "segment": 1, "japanese": "プリン　ｗｉｔｈ", "source_text": "プリン　ｗｉｔｈ", "korean": "프린 with", "region": [26, 26, 208, 26], "source_x": 26, "align": "center", "fixed_english": {"text": "with", "x": 130, "width": 104}}
+{"id": "R14.PVM:000", "segment": 2, "japanese": "親衛隊＆ギターマン", "source_text": "親衛隊＆ギターマン", "korean": "친위대 & 기타맨", "region": [0, 52, 234, 26], "source_x": 0, "align": "left"}
+{"id": "R15.PVM:137", "segment": 0, "japanese": "侵略舞踏メカ", "source_text": "侵略舞踏メカ", "korean": "침략 무도 메카", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R15.PVM:137", "segment": 1, "japanese": "『ココ★タピオカ』", "source_text": "『ココ★タピオカ』", "korean": "『코코★타피오카』", "region": [0, 26, 234, 26], "source_x": 0, "align": "center"}
+{"id": "R21.PVM:000", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 0, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R21.PVM:000", "segment": 1, "japanese": "『スペースシップキャプテン』", "source_text": "『スペースシップキャプテン』", "korean": "『스페이스십 캡틴』", "region": [0, 26, 364, 26], "source_x": 0, "align": "center"}
+{"id": "R22.PVM:004", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 0, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R22.PVM:004", "segment": 1, "japanese": "『スペースレスキュウポリス』", "source_text": "『スペースレスキュウポリス』", "korean": "『스페이스 구조 경찰』", "region": [0, 26, 364, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 0, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R23.PVM:001", "segment": 1, "japanese": "『スペーススーパーモデル』", "source_text": "『スペーススーパーモデル』", "korean": "『스페이스 슈퍼모델』", "region": [0, 26, 338, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 2, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 52, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R23.PVM:001", "segment": 3, "japanese": "『スペースおばあちゃん』", "source_text": "『スペースおばあちゃん』", "korean": "『스페이스 할머니』", "region": [0, 78, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 4, "japanese": "宇宙海賊放送艇", "source_text": "宇宙海賊放送艇", "korean": "우주 해적 방송선", "region": [52, 104, 182, 26], "source_x": 52, "align": "center"}
+{"id": "R23.PVM:001", "segment": 5, "japanese": "『バッドチューニング号』", "source_text": "『バッドチューニング号』", "korean": "『배드 튜닝호』", "region": [0, 130, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 6, "japanese": "リポーター『ジャガー』", "source_text": "リポーター『ジャガー』", "korean": "리포터『재규어』", "region": [0, 156, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 7, "japanese": "ジャガー　ｗｉｔｈ", "source_text": "ジャガー　ｗｉｔｈ", "korean": "재규어 with", "region": [26, 182, 234, 26], "source_x": 26, "align": "center", "fixed_english": {"text": "with", "x": 156, "width": 104}}
+{"id": "R23.PVM:001", "segment": 8, "japanese": "宇宙海賊＆ブラスマン", "source_text": "宇宙海賊＆ブラスマン", "korean": "우주 해적 & 브라스맨", "region": [0, 208, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 9, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 234, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R23.PVM:001", "segment": 10, "japanese": "各方向に出現する集団は", "source_text": "各方向に出現する集団は", "korean": "각 방향에 나타나는 무리는", "region": [0, 260, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 11, "japanese": "左のヤツから撃ってくるぞ", "source_text": "左のヤツから撃ってくるぞ", "korean": "왼쪽 놈부터 쏜다", "region": [0, 286, 338, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R24.PVM:174", "segment": 1, "japanese": "スペース小学生にはＢボタンが有効", "source_text": "スペース小学生にはＢボタンが有効", "korean": "스페이스 초등학생에겐 B 버튼이 유효", "region": [0, 26, 416, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 2, "japanese": "重力発生装置が破壊されました", "source_text": "重力発生装置が破壊されました", "korean": "중력 발생 장치가 파괴되었습니다", "region": [0, 52, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 3, "japanese": "えっちな舞踏メカ", "source_text": "えっちな舞踏メカ", "korean": "야한 무도 메카", "region": [0, 78, 234, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 4, "japanese": "『モロリ〜ナ』", "source_text": "『モロリ〜ナ』", "korean": "『모로리~나』", "region": [0, 104, 208, 26], "source_x": 0, "align": "center"}
+{"id": "R31.PVM:060", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R31.PVM:060", "segment": 1, "japanese": "なんでもかんでもＡボタンビーム", "source_text": "なんでもかんでもＡボタンビーム", "korean": "무엇이든 A 버튼 빔", "region": [0, 26, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R32.PVM:060", "segment": 0, "japanese": "緊急警告", "source_text": "緊急警告", "korean": "긴급 경고", "region": [26, 0, 104, 26], "source_x": 26, "align": "center"}
+{"id": "R32.PVM:060", "segment": 1, "japanese": "部屋を明るくしてＴＶから離れてね", "source_text": "部屋を明るくしてＴＶから離れてね", "korean": "방을 밝게 하고 TV에서 떨어져 있어", "region": [0, 26, 416, 26], "source_x": 0, "align": "left"}
+{"id": "R32.PVM:060", "segment": 2, "japanese": "踊らされた『プリン』", "source_text": "踊らされた『プリン』", "korean": "춤추게 된『프린』", "region": [0, 52, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R33.PVM:145", "segment": 1, "japanese": "モニタをよく見て撃ち分けよう！", "source_text": "モニタをよく見て撃ち分けよう！", "korean": "모니터를 잘 보고 구별해서 쏘자!", "region": [0, 26, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 2, "japanese": "宇宙人は洗脳されていたと判明。", "source_text": "宇宙人は洗脳されていたと判明。", "korean": "외계인이 세뇌당했음이 밝혀짐.", "region": [0, 52, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 3, "japanese": "その背後に黒幕がいる模様です。", "source_text": "その背後に黒幕がいる模様です。", "korean": "그 배후에 흑막이 있는 듯합니다.", "region": [0, 78, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 4, "japanese": "最強舞踏メカ", "source_text": "最強舞踏メカ", "korean": "최강 무도 메카", "region": [78, 104, 156, 26], "source_x": 78, "align": "center"}
+{"id": "R33.PVM:145", "segment": 5, "japanese": "『モロリン！モンロー！』", "source_text": "『モロリン！モンロー！』", "korean": "『모로린! 몬로!』", "region": [0, 130, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R33.PVM:145", "segment": 6, "japanese": "「踊らせろ！踊らせろ！」", "source_text": "「踊らせろ！踊らせろ！」", "korean": "「춤추게 해라! 춤추게 해라!」", "region": [0, 156, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R33.PVM:145", "segment": 7, "japanese": "「地球人を　踊らせろ！」", "source_text": "「地球人を　踊らせろ！」", "korean": "「지구인을 춤추게 해라!」", "region": [0, 182, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R34.PVM:015", "segment": 0, "japanese": "緊急警告", "source_text": "緊急警告", "korean": "긴급 경고", "region": [26, 0, 104, 26], "source_x": 26, "align": "center"}
+{"id": "R34.PVM:015", "segment": 1, "japanese": "部屋を明るくしてＴＶから離れてね", "source_text": "部屋を明るくしてＴＶから離れてね", "korean": "방을 밝게 하고 TV에서 떨어져 있어", "region": [0, 26, 416, 26], "source_x": 0, "align": "left"}
+{"id": "R34.PVM:015", "segment": 2, "japanese": "楽器ビト『タイコマン』", "source_text": "楽器ビト『タイコマン』", "korean": "악기인『타이코맨』", "region": [0, 52, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R41.PVM:000", "segment": 1, "japanese": "宇宙人には、", "source_text": "宇宙人には、", "korean": "외계인에게는,", "region": [0, 26, 156, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 2, "japanese": "デラックスＡボタンビーム！！", "source_text": "デラックスＡボタンビーム！！", "korean": "디럭스 A 버튼 빔!!", "region": [0, 52, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 3, "japanese": "スペースチャンネル５局長", "source_text": "スペースチャンネル５局長", "korean": "스페이스 채널 5 국장", "region": [0, 78, 312, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 4, "japanese": "『ブランク』", "source_text": "『ブランク』", "korean": "『블랭크』", "region": [78, 104, 156, 26], "source_x": 78, "align": "center"}
+{"id": "R41.PVM:000", "segment": 5, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 130, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R41.PVM:000", "segment": 6, "japanese": "『チャンネル５警備ロボ』", "source_text": "『チャンネル５警備ロボ』", "korean": "『채널 5 경비 로봇』", "region": [0, 156, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R41.PVM:000", "segment": 7, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 182, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R41.PVM:000", "segment": 8, "japanese": "『スペースマイケル（本人）』", "source_text": "『スペースマイケル（本人）』", "korean": "『스페이스 마이클(본인)』", "region": [0, 208, 364, 26], "source_x": 0, "align": "center"}
+{"id": "R42.PVM:000", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 0, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R42.PVM:000", "segment": 1, "japanese": "『スペースクンフーマン』", "source_text": "『スペースクンフーマン』", "korean": "『스페이스 쿵후맨』", "region": [0, 26, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R43.PVM:000", "segment": 0, "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [52, 0, 130, 26], "source_x": 52, "align": "center"}
+{"id": "R43.PVM:000", "segment": 1, "japanese": "『キーボードギャル』", "source_text": "『キーボードギャル』", "korean": "『키보드 걸』", "region": [0, 26, 260, 26], "source_x": 0, "align": "center"}
+{"id": "R44.PVM:115", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R44.PVM:115", "segment": 1, "japanese": "ディレクターが宇宙中継艇ごと", "source_text": "ディレクターが宇宙中継艇ごと", "korean": "디렉터가 우주 중계정째로", "region": [0, 26, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 2, "japanese": "捕まった模様", "source_text": "捕まった模様", "korean": "잡힌 듯함", "region": [0, 52, 156, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 3, "japanese": "続報", "source_text": "続報", "korean": "속보", "region": [26, 78, 52, 26], "source_x": 26, "align": "center"}
+{"id": "R44.PVM:115", "segment": 4, "japanese": "指示とは逆方向に入力してから", "source_text": "指示とは逆方向に入力してから", "korean": "지시와 반대 방향을 입력한 뒤", "region": [0, 104, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 5, "japanese": "Ａボタンビーム！", "source_text": "Ａボタンビーム！", "korean": "A 버튼 빔!", "region": [0, 130, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 6, "japanese": "うららの顔マークには", "source_text": "うららの顔マークには", "korean": "울랄라 얼굴 표식에는", "region": [0, 156, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 7, "japanese": "Ｂボタンビーム！", "source_text": "Ｂボタンビーム！", "korean": "B 버튼 빔!", "region": [0, 182, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 8, "japanese": "パーフェクトリポーター", "source_text": "パーフェクトリポーター", "korean": "퍼펙트 리포터", "region": [0, 208, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 9, "japanese": "『イビラ』", "source_text": "『イビラ』", "korean": "『이비라』", "region": [52, 234, 156, 26], "source_x": 52, "align": "center"}
+{"id": "R44.PVM:115", "segment": 10, "japanese": "『ジャイアントイビラ』", "source_text": "『ジャイアントイビラ』", "korean": "『자이언트 이비라』", "region": [0, 260, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R44.PVM:115", "segment": 11, "japanese": "格闘球技舞踏メカ", "source_text": "格闘球技舞踏メカ", "korean": "격투 구기 무도 메카", "region": [0, 286, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 12, "japanese": "『ブランクＴＶ』", "source_text": "『ブランクＴＶ』", "korean": "『블랭크 TV』", "region": [0, 312, 208, 26], "source_x": 0, "align": "center"}
+{"id": "R44.PVM:115", "segment": 13, "japanese": "あやつるなんて非道いモロ！", "source_text": "あやつるなんて非道いモロ！", "korean": "조종하다니 잔인해 모로!", "region": [0, 338, 338, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 0, "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R45.PVM:084", "segment": 1, "japanese": "ディレクターが宇宙中継艇ごと", "source_text": "ディレクターが宇宙中継艇ごと", "korean": "디렉터가 우주 중계정째로", "region": [0, 26, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 2, "japanese": "捕まった模様", "source_text": "捕まった模様", "korean": "잡힌 듯함", "region": [0, 52, 156, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 3, "japanese": "続報", "source_text": "続報", "korean": "속보", "region": [26, 78, 52, 26], "source_x": 26, "align": "center"}
+{"id": "R45.PVM:084", "segment": 4, "japanese": "指示とは逆方向に入力してから", "source_text": "指示とは逆方向に入力してから", "korean": "지시와 반대 방향을 입력한 뒤", "region": [0, 104, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 5, "japanese": "Ａボタンビーム！", "source_text": "Ａボタンビーム！", "korean": "A 버튼 빔!", "region": [0, 130, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 6, "japanese": "うららの顔マークには", "source_text": "うららの顔マークには", "korean": "울랄라 얼굴 표식에는", "region": [0, 156, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 7, "japanese": "Ｂボタンビーム！", "source_text": "Ｂボタンビーム！", "korean": "B 버튼 빔!", "region": [0, 182, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 8, "japanese": "パーフェクトリポーター", "source_text": "パーフェクトリポーター", "korean": "퍼펙트 리포터", "region": [0, 208, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 9, "japanese": "『イビラ』", "source_text": "『イビラ』", "korean": "『이비라』", "region": [52, 234, 156, 26], "source_x": 52, "align": "center"}
+{"id": "R45.PVM:084", "segment": 10, "japanese": "『ジャイアントイビラ』", "source_text": "『ジャイアントイビラ』", "korean": "『자이언트 이비라』", "region": [0, 260, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R45.PVM:084", "segment": 11, "japanese": "格闘球技舞踏メカ", "source_text": "格闘球技舞踏メカ", "korean": "격투 구기 무도 메카", "region": [0, 286, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 12, "japanese": "『ブランクＴＶ』", "source_text": "『ブランクＴＶ』", "korean": "『블랭크 TV』", "region": [0, 312, 208, 26], "source_x": 0, "align": "center"}
+{"id": "R45.PVM:084", "segment": 13, "japanese": "あやつるなんて非道いモロ！", "source_text": "あやつるなんて非道いモロ！", "korean": "조종하다니 잔인해 모로!", "region": [0, 338, 338, 26], "source_x": 0, "align": "left"}

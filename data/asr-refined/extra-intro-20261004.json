@@ -1,0 +1,38 @@
+[
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 0,
+    "window": [
+      0,
+      2.8
+    ],
+    "recognizer": "reazonspeech-k2-v2",
+    "recognized": "宇宙人と踊らされたスペース日本人が来ます",
+    "source_japanese": "宇宙人と踊らされたスペースニッポン人が来ます。",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 0,
+    "window": [
+      0,
+      2.8
+    ],
+    "recognizer": "whisper-small",
+    "recognized": "宇宙人と照らされたスペース日本人が来ます",
+    "source_japanese": "宇宙人と踊らされたスペースニッポン人が来ます。",
+    "original_audio_listening_completed": false
+  },
+  {
+    "id": "VOICEDATA.AFS:003",
+    "segment": 0,
+    "window": [
+      0,
+      2.8
+    ],
+    "recognizer": "whisper-medium",
+    "recognized": "宇宙人とおずらされたスペース日本人が来ます",
+    "source_japanese": "宇宙人と踊らされたスペースニッポン人が来ます。",
+    "original_audio_listening_completed": false
+  }
+]

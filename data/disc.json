@@ -1,0 +1,2744 @@
+{
+  "source": "SELECT_ORIGINAL_DISC_FOLDER",
+  "tracks": {
+    "track3": "Space Channel 5 (Japan) (Track 3).bin",
+    "track5": "Space Channel 5 (Japan) (Track 5).bin"
+  },
+  "layout": {
+    "volume_start_lba": 45000,
+    "track5_start_lba": 58499,
+    "volume_blocks": 504150
+  },
+  "files": [
+    {
+      "name": "0GDTEX.PVR",
+      "lba": 58724,
+      "size": 18464,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "1ST_READ.BIN",
+      "lba": 547784,
+      "size": 2490368,
+      "flags": 0,
+      "category": "binary"
+    },
+    {
+      "name": "ADXDATA_R1.AFS",
+      "lba": 118740,
+      "size": 62408704,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "ADXDATA_R2.AFS",
+      "lba": 257587,
+      "size": 41230336,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "ADXDATA_R3.AFS",
+      "lba": 348664,
+      "size": 28311552,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "ADXDATA_R4.AFS",
+      "lba": 422001,
+      "size": 68085760,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "C00.POF",
+      "lba": 542978,
+      "size": 5848,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C00.PVM",
+      "lba": 542559,
+      "size": 93984,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C00.RB",
+      "lba": 542605,
+      "size": 762180,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C01.POF",
+      "lba": 543349,
+      "size": 5724,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C01.PVM",
+      "lba": 542981,
+      "size": 214144,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C01.RB",
+      "lba": 543086,
+      "size": 538412,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C02.POF",
+      "lba": 543515,
+      "size": 3964,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C02.PVM",
+      "lba": 543352,
+      "size": 123136,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C02.RB",
+      "lba": 543413,
+      "size": 207876,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C03.POF",
+      "lba": 543699,
+      "size": 3648,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C03.PVM",
+      "lba": 543517,
+      "size": 177472,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C03.RB",
+      "lba": 543604,
+      "size": 194136,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C04.POF",
+      "lba": 543863,
+      "size": 3596,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C04.PVM",
+      "lba": 543701,
+      "size": 122528,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C04.RB",
+      "lba": 543761,
+      "size": 207404,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C05.POF",
+      "lba": 543942,
+      "size": 2472,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C05.PVM",
+      "lba": 543865,
+      "size": 55424,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C05.RB",
+      "lba": 543893,
+      "size": 99460,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C06.POF",
+      "lba": 544169,
+      "size": 3748,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C06.PVM",
+      "lba": 543944,
+      "size": 89280,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C06.RB",
+      "lba": 543988,
+      "size": 370124,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C07.POF",
+      "lba": 544431,
+      "size": 3484,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C07.PVM",
+      "lba": 544171,
+      "size": 110240,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C07.RB",
+      "lba": 544225,
+      "size": 420000,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C08.POF",
+      "lba": 544667,
+      "size": 2816,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C08.PVM",
+      "lba": 544433,
+      "size": 70624,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C08.RB",
+      "lba": 544468,
+      "size": 406844,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C09.POF",
+      "lba": 544748,
+      "size": 3084,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C09.PVM",
+      "lba": 544669,
+      "size": 14592,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C09.RB",
+      "lba": 544677,
+      "size": 144864,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C10.POF",
+      "lba": 544947,
+      "size": 3412,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C10.PVM",
+      "lba": 544750,
+      "size": 128768,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C10.RB",
+      "lba": 544813,
+      "size": 273500,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "C11.POF",
+      "lba": 545097,
+      "size": 1912,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C11.PVM",
+      "lba": 544949,
+      "size": 168352,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C11.RB",
+      "lba": 545032,
+      "size": 132556,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "COMMON_DATA.POF",
+      "lba": 59920,
+      "size": 96,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "COMMON_DATA.PVM",
+      "lba": 59533,
+      "size": 784544,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "COMMON_DATA.RB",
+      "lba": 59917,
+      "size": 5884,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "CPRO01.PVR",
+      "lba": 545098,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO02.PVR",
+      "lba": 545132,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO03.PVR",
+      "lba": 545166,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO04.PVR",
+      "lba": 545200,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO05.PVR",
+      "lba": 545234,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO06.PVR",
+      "lba": 545268,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO07.PVR",
+      "lba": 545302,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO08.PVR",
+      "lba": 545336,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO09.PVR",
+      "lba": 545370,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO10.PVR",
+      "lba": 545404,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO11.PVR",
+      "lba": 545438,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO12.PVR",
+      "lba": 545472,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO13.PVR",
+      "lba": 545506,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO14.PVR",
+      "lba": 545540,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO15.PVR",
+      "lba": 545574,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO16.PVR",
+      "lba": 545608,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO17.PVR",
+      "lba": 545642,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO18.PVR",
+      "lba": 545676,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO19.PVR",
+      "lba": 545710,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO20.PVR",
+      "lba": 545744,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO21.PVR",
+      "lba": 545778,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO22.PVR",
+      "lba": 545812,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO23.PVR",
+      "lba": 545846,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO24.PVR",
+      "lba": 545880,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO25.PVR",
+      "lba": 545914,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO26.PVR",
+      "lba": 545948,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO27.PVR",
+      "lba": 545982,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO28.PVR",
+      "lba": 546016,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO29.PVR",
+      "lba": 546050,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO30.PVR",
+      "lba": 546084,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO31.PVR",
+      "lba": 546118,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO32.PVR",
+      "lba": 546152,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO33.PVR",
+      "lba": 546186,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO34.PVR",
+      "lba": 546220,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO35.PVR",
+      "lba": 546254,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO36.PVR",
+      "lba": 546288,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO37.PVR",
+      "lba": 546322,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO38.PVR",
+      "lba": 546356,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO39.PVR",
+      "lba": 546390,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO40.PVR",
+      "lba": 546424,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO41.PVR",
+      "lba": 546458,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO42.PVR",
+      "lba": 546492,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO43.PVR",
+      "lba": 546526,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO44.PVR",
+      "lba": 546560,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO45.PVR",
+      "lba": 546594,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO46.PVR",
+      "lba": 546628,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO47.PVR",
+      "lba": 546662,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO48.PVR",
+      "lba": 546696,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO49.PVR",
+      "lba": 546730,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO50.PVR",
+      "lba": 546764,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO51.PVR",
+      "lba": 546798,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO52.PVR",
+      "lba": 546832,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO53.PVR",
+      "lba": 546866,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO54.PVR",
+      "lba": 546900,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO55.PVR",
+      "lba": 546934,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO56.PVR",
+      "lba": 546968,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO57.PVR",
+      "lba": 547002,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO58.PVR",
+      "lba": 547036,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO59.PVR",
+      "lba": 547070,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO60.PVR",
+      "lba": 547104,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO61.PVR",
+      "lba": 547138,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO62.PVR",
+      "lba": 547172,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO63.PVR",
+      "lba": 547206,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO64.PVR",
+      "lba": 547240,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO65.PVR",
+      "lba": 547274,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO66.PVR",
+      "lba": 547308,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO67.PVR",
+      "lba": 547342,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO68.PVR",
+      "lba": 547376,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO69.PVR",
+      "lba": 547410,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO70.PVR",
+      "lba": 547444,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO71.PVR",
+      "lba": 547478,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO72.PVR",
+      "lba": 547512,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO73.PVR",
+      "lba": 547546,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO74.PVR",
+      "lba": 547580,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO75.PVR",
+      "lba": 547614,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO76.PVR",
+      "lba": 547648,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO77.PVR",
+      "lba": 547682,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO78.PVR",
+      "lba": 547716,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "CPRO79.PVR",
+      "lba": 547750,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "C_COMMON.POF",
+      "lba": 542556,
+      "size": 6096,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "C_COMMON.PVM",
+      "lba": 542056,
+      "size": 270976,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "C_COMMON.RB",
+      "lba": 542189,
+      "size": 750056,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "DANRAN.SFD",
+      "lba": 61577,
+      "size": 9101312,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "ENDING.PVM",
+      "lba": 61318,
+      "size": 528544,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "MANATEE.DRV",
+      "lba": 58734,
+      "size": 36480,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "OP.SFD",
+      "lba": 66021,
+      "size": 60362752,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1.MLT",
+      "lba": 117712,
+      "size": 1579168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R10.POF",
+      "lba": 153167,
+      "size": 43840,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R10.PVM",
+      "lba": 152120,
+      "size": 631404,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R10.RB",
+      "lba": 152429,
+      "size": 1511008,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R11.FPB",
+      "lba": 155240,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R11.MPB",
+      "lba": 155242,
+      "size": 597728,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R11.MSB",
+      "lba": 155534,
+      "size": 25760,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R11.POF",
+      "lba": 155218,
+      "size": 44392,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R11.PVM",
+      "lba": 153189,
+      "size": 202976,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R11.RB",
+      "lba": 153289,
+      "size": 3949164,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R12.FPB",
+      "lba": 157779,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R12.MPB",
+      "lba": 157781,
+      "size": 768960,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R12.MSB",
+      "lba": 158157,
+      "size": 27968,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R12.POF",
+      "lba": 157751,
+      "size": 55556,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R12.PVM",
+      "lba": 155547,
+      "size": 104672,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R12.RB",
+      "lba": 155599,
+      "size": 4406060,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R13.FPB",
+      "lba": 160237,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R13.MPB",
+      "lba": 160239,
+      "size": 641888,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R13.MSB",
+      "lba": 160553,
+      "size": 25792,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R13.POF",
+      "lba": 160211,
+      "size": 51928,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R13.PVM",
+      "lba": 158171,
+      "size": 92512,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R13.RB",
+      "lba": 158217,
+      "size": 4082168,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R14.FPB",
+      "lba": 162791,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R14.MPB",
+      "lba": 162793,
+      "size": 777600,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R14.MSB",
+      "lba": 163173,
+      "size": 44832,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R14.POF",
+      "lba": 162765,
+      "size": 51564,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R14.PVM",
+      "lba": 160566,
+      "size": 67680,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R14.RB",
+      "lba": 160600,
+      "size": 4432412,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R15.POF",
+      "lba": 165590,
+      "size": 43068,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R15.PVM",
+      "lba": 163195,
+      "size": 689728,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R15.RB",
+      "lba": 163532,
+      "size": 4213252,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R1_B1_01.M1V",
+      "lba": 165612,
+      "size": 10992864,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B1_03.M1V",
+      "lba": 170980,
+      "size": 6772203,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B1_05.M1V",
+      "lba": 174287,
+      "size": 6999251,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B1_07.M1V",
+      "lba": 177705,
+      "size": 7007838,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B1_08.M1V",
+      "lba": 181127,
+      "size": 2112076,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B1_09.M1V",
+      "lba": 182159,
+      "size": 684960,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_01.M1V",
+      "lba": 182494,
+      "size": 5657344,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_03.M1V",
+      "lba": 185257,
+      "size": 7489839,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_04.M1V",
+      "lba": 188915,
+      "size": 252390,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_05.M1V",
+      "lba": 189039,
+      "size": 1502598,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_05LOOP.M1V",
+      "lba": 189773,
+      "size": 250854,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_06.M1V",
+      "lba": 189896,
+      "size": 2848805,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_08.M1V",
+      "lba": 191288,
+      "size": 6720004,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_09.M1V",
+      "lba": 194570,
+      "size": 2238382,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B2_10.M1V",
+      "lba": 195663,
+      "size": 909811,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B3_01.M1V",
+      "lba": 196108,
+      "size": 5721603,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B3_03.M1V",
+      "lba": 198902,
+      "size": 6786473,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B3_05.M1V",
+      "lba": 202216,
+      "size": 6432253,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B3_07.M1V",
+      "lba": 205357,
+      "size": 7007765,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B3_08.M1V",
+      "lba": 208779,
+      "size": 3004232,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B4_01.M1V",
+      "lba": 210246,
+      "size": 5917459,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B4_03.M1V",
+      "lba": 213136,
+      "size": 4976550,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B4_05.M1V",
+      "lba": 215566,
+      "size": 5438597,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B4_07.M1V",
+      "lba": 218222,
+      "size": 6400364,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B4_08.M1V",
+      "lba": 221348,
+      "size": 2155456,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B4_09.M1V",
+      "lba": 222401,
+      "size": 772367,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B5_01.M1V",
+      "lba": 222779,
+      "size": 5724553,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B5_02.M1V",
+      "lba": 225575,
+      "size": 5405168,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B5_04.M1V",
+      "lba": 228215,
+      "size": 6776499,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B5_06.M1V",
+      "lba": 231524,
+      "size": 3435349,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B5_08.M1V",
+      "lba": 233202,
+      "size": 3523006,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_B5_09.M1V",
+      "lba": 234923,
+      "size": 5741611,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R1_MAKUMA.SFD",
+      "lba": 114896,
+      "size": 5767168,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2.MLT",
+      "lba": 256525,
+      "size": 1650560,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R20.POF",
+      "lba": 280749,
+      "size": 48836,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R20.PVM",
+      "lba": 279612,
+      "size": 606284,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R20.RB",
+      "lba": 279909,
+      "size": 1719560,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R21.FPB",
+      "lba": 282828,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R21.MPB",
+      "lba": 282830,
+      "size": 681472,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R21.MSB",
+      "lba": 283163,
+      "size": 24256,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R21.POF",
+      "lba": 282806,
+      "size": 44504,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R21.PVM",
+      "lba": 280773,
+      "size": 74656,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R21.RB",
+      "lba": 280810,
+      "size": 4086364,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R22.FPB",
+      "lba": 285110,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R22.MPB",
+      "lba": 285112,
+      "size": 681472,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R22.MSB",
+      "lba": 285445,
+      "size": 24416,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R22.POF",
+      "lba": 285089,
+      "size": 42232,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R22.PVM",
+      "lba": 283175,
+      "size": 141664,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R22.RB",
+      "lba": 283245,
+      "size": 3775016,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R23.FPB",
+      "lba": 287862,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R23.MPB",
+      "lba": 287864,
+      "size": 701408,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R23.MSB",
+      "lba": 288207,
+      "size": 19072,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R23.POF",
+      "lba": 287836,
+      "size": 53068,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R23.PVM",
+      "lba": 285457,
+      "size": 86176,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R23.RB",
+      "lba": 285500,
+      "size": 4782240,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R23_MAKUMA.SFD",
+      "lba": 237761,
+      "size": 32135168,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R24.POF",
+      "lba": 290928,
+      "size": 56736,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R24.PVM",
+      "lba": 288217,
+      "size": 719968,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R24.RB",
+      "lba": 288569,
+      "size": 4829536,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R2_B1_01.M1V",
+      "lba": 290956,
+      "size": 3642018,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B1_03.M1V",
+      "lba": 292735,
+      "size": 3457307,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B1_05.M1V",
+      "lba": 294424,
+      "size": 4541320,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B1_07.M1V",
+      "lba": 296642,
+      "size": 6372817,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B1_08.M1V",
+      "lba": 299754,
+      "size": 1975668,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B1_09.M1V",
+      "lba": 300719,
+      "size": 733551,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B2_01.M1V",
+      "lba": 301078,
+      "size": 4393753,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B2_03.M1V",
+      "lba": 303224,
+      "size": 3976146,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B2_04.M1V",
+      "lba": 305166,
+      "size": 2480986,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B2_06.M1V",
+      "lba": 306378,
+      "size": 7007782,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B2_07.M1V",
+      "lba": 309800,
+      "size": 2476228,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B2_08.M1V",
+      "lba": 311010,
+      "size": 1115783,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_01.M1V",
+      "lba": 311555,
+      "size": 5439531,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_03.M1V",
+      "lba": 314212,
+      "size": 6054908,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_05.M1V",
+      "lba": 317169,
+      "size": 6382792,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_06.M1V",
+      "lba": 320286,
+      "size": 1458388,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_08.M1V",
+      "lba": 320999,
+      "size": 3472773,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_10.M1V",
+      "lba": 322695,
+      "size": 1597443,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_12.M1V",
+      "lba": 323476,
+      "size": 5646342,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_13.M1V",
+      "lba": 326234,
+      "size": 2185494,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B3_14.M1V",
+      "lba": 327302,
+      "size": 831787,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_01.M1V",
+      "lba": 327709,
+      "size": 4404234,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_02.M1V",
+      "lba": 329860,
+      "size": 2803029,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_04.M1V",
+      "lba": 331229,
+      "size": 3771609,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_05_1.M1V",
+      "lba": 333071,
+      "size": 2000601,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_05_2.M1V",
+      "lba": 334048,
+      "size": 2002336,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_05_3.M1V",
+      "lba": 335026,
+      "size": 6007098,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_05_4.M1V",
+      "lba": 337960,
+      "size": 2002223,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_06.M1V",
+      "lba": 338938,
+      "size": 4004827,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_08.M1V",
+      "lba": 340894,
+      "size": 946042,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_09.M1V",
+      "lba": 341356,
+      "size": 1656190,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_B4_10.M1V",
+      "lba": 342165,
+      "size": 5888420,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R2_MAKUMA.PVR",
+      "lba": 237727,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "R2_MAKUMA.SFD",
+      "lba": 253452,
+      "size": 6293504,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3.MLT",
+      "lba": 347576,
+      "size": 1702624,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R30.POF",
+      "lba": 364307,
+      "size": 19844,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R30.PVM",
+      "lba": 363646,
+      "size": 432320,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R30.RB",
+      "lba": 363858,
+      "size": 918392,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R31.POF",
+      "lba": 365328,
+      "size": 26036,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R31.PVM",
+      "lba": 364317,
+      "size": 238912,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R31.RB",
+      "lba": 364434,
+      "size": 1828944,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R32.POF",
+      "lba": 366623,
+      "size": 27712,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R32.PVM",
+      "lba": 365341,
+      "size": 478880,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R32.RB",
+      "lba": 365575,
+      "size": 2145052,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R33.POF",
+      "lba": 368335,
+      "size": 36384,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R33.PVM",
+      "lba": 366637,
+      "size": 639264,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R33.RB",
+      "lba": 366950,
+      "size": 2834784,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R34.POF",
+      "lba": 369153,
+      "size": 19912,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R34.PVM",
+      "lba": 368353,
+      "size": 120064,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R34.RB",
+      "lba": 368412,
+      "size": 1517024,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R3_B1_01.M1V",
+      "lba": 369163,
+      "size": 18526383,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B1_09.M1V",
+      "lba": 378210,
+      "size": 1643624,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_01.M1V",
+      "lba": 379013,
+      "size": 1912884,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_A1.M1V",
+      "lba": 379948,
+      "size": 511331,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_A2.M1V",
+      "lba": 380198,
+      "size": 511573,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_BRK.M1V",
+      "lba": 380448,
+      "size": 1022028,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_MOG1.M1V",
+      "lba": 380948,
+      "size": 1021938,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_MOG3.M1V",
+      "lba": 381447,
+      "size": 2062962,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_Q1.M1V",
+      "lba": 382455,
+      "size": 511809,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B2_Q2.M1V",
+      "lba": 382705,
+      "size": 511704,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_01.M1V",
+      "lba": 382955,
+      "size": 4004991,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_02_1.M1V",
+      "lba": 384911,
+      "size": 300916,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_02_2.M1V",
+      "lba": 385058,
+      "size": 400346,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_03.M1V",
+      "lba": 385254,
+      "size": 3003578,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_05.M1V",
+      "lba": 386721,
+      "size": 2754350,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_07.M1V",
+      "lba": 388066,
+      "size": 3966356,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_09.M1V",
+      "lba": 390003,
+      "size": 4004868,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B3_10.M1V",
+      "lba": 391959,
+      "size": 13665789,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B4_01.M1V",
+      "lba": 398632,
+      "size": 20901505,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_B4_13.M1V",
+      "lba": 408838,
+      "size": 757979,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R3_MAKUMA.PVR",
+      "lba": 345041,
+      "size": 67616,
+      "flags": 0,
+      "category": "image"
+    },
+    {
+      "name": "R3_MAKUMA.SFD",
+      "lba": 345075,
+      "size": 5122048,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4.MLT",
+      "lba": 420912,
+      "size": 1703968,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R40.POF",
+      "lba": 458750,
+      "size": 41584,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R40.PVM",
+      "lba": 457648,
+      "size": 669900,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R40.RB",
+      "lba": 457976,
+      "size": 1584064,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R41.FPB",
+      "lba": 460907,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R41.MPB",
+      "lba": 460909,
+      "size": 781216,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R41.MSB",
+      "lba": 461291,
+      "size": 14112,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R41.POF",
+      "lba": 460883,
+      "size": 48320,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R41.PVM",
+      "lba": 458771,
+      "size": 67680,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R41.RB",
+      "lba": 458805,
+      "size": 4255536,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R42.FPB",
+      "lba": 463449,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R42.MPB",
+      "lba": 463451,
+      "size": 782720,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R42.MSB",
+      "lba": 463834,
+      "size": 20288,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R42.POF",
+      "lba": 463424,
+      "size": 49300,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R42.PVM",
+      "lba": 461298,
+      "size": 67680,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R42.RB",
+      "lba": 461332,
+      "size": 4283992,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R43.FPB",
+      "lba": 466201,
+      "size": 3168,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R43.MPB",
+      "lba": 466203,
+      "size": 763712,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R43.MSB",
+      "lba": 466576,
+      "size": 12448,
+      "flags": 0,
+      "category": "music"
+    },
+    {
+      "name": "R43.POF",
+      "lba": 466176,
+      "size": 50856,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R43.PVM",
+      "lba": 463844,
+      "size": 67680,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R43.RB",
+      "lba": 463878,
+      "size": 4706116,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R44.POF",
+      "lba": 468523,
+      "size": 44980,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R44.PVM",
+      "lba": 466583,
+      "size": 544000,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R44.RB",
+      "lba": 466849,
+      "size": 3427408,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R45.POF",
+      "lba": 470364,
+      "size": 39816,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "R45.PVM",
+      "lba": 468545,
+      "size": 527360,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "R45.RB",
+      "lba": 468803,
+      "size": 3196048,
+      "flags": 0,
+      "category": "scene_data"
+    },
+    {
+      "name": "R4_B1_01.M1V",
+      "lba": 471059,
+      "size": 4451281,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_02.M1V",
+      "lba": 473233,
+      "size": 3414945,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_03.M1V",
+      "lba": 474901,
+      "size": 1425822,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_05.M1V",
+      "lba": 475598,
+      "size": 2506277,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_06.M1V",
+      "lba": 476822,
+      "size": 862910,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_07.M1V",
+      "lba": 477244,
+      "size": 1899851,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_09.M1V",
+      "lba": 478172,
+      "size": 7007900,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_10.M1V",
+      "lba": 481594,
+      "size": 2368763,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B1_11.M1V",
+      "lba": 482751,
+      "size": 702093,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_01.M1V",
+      "lba": 483094,
+      "size": 83192,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_02.M1V",
+      "lba": 483135,
+      "size": 1581646,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_03.M1V",
+      "lba": 483908,
+      "size": 894568,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_04.M1V",
+      "lba": 484345,
+      "size": 1244800,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_05.M1V",
+      "lba": 484953,
+      "size": 660749,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_07.M1V",
+      "lba": 485276,
+      "size": 954564,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_08.M1V",
+      "lba": 485743,
+      "size": 1000668,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_09.M1V",
+      "lba": 486232,
+      "size": 1974556,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_11.M1V",
+      "lba": 487197,
+      "size": 5005746,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_12.M1V",
+      "lba": 489642,
+      "size": 2000904,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_14.M1V",
+      "lba": 490620,
+      "size": 4961910,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_15.M1V",
+      "lba": 493043,
+      "size": 1859130,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_16.M1V",
+      "lba": 493951,
+      "size": 1641195,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B2_17.M1V",
+      "lba": 494753,
+      "size": 573853,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_01.M1V",
+      "lba": 495034,
+      "size": 3367373,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_02.M1V",
+      "lba": 496679,
+      "size": 1710405,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_04.M1V",
+      "lba": 497515,
+      "size": 4779481,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_05.M1V",
+      "lba": 499849,
+      "size": 1906537,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_06.M1V",
+      "lba": 500780,
+      "size": 4819174,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_08.M1V",
+      "lba": 503134,
+      "size": 4995625,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_09.M1V",
+      "lba": 505574,
+      "size": 2398532,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B3_10.M1V",
+      "lba": 506746,
+      "size": 1791724,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_01.M1V",
+      "lba": 507621,
+      "size": 10009469,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_03.M1V",
+      "lba": 512509,
+      "size": 2002187,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_05.M1V",
+      "lba": 513487,
+      "size": 2001803,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_07.M1V",
+      "lba": 514465,
+      "size": 1999272,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_08.M1V",
+      "lba": 515442,
+      "size": 3005130,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_09.M1V",
+      "lba": 516910,
+      "size": 3923750,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_11.M1V",
+      "lba": 518826,
+      "size": 1875572,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_13.M1V",
+      "lba": 519742,
+      "size": 1922701,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_16.M1V",
+      "lba": 520681,
+      "size": 8006244,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_18.M1V",
+      "lba": 524591,
+      "size": 7237746,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_20.M1V",
+      "lba": 528126,
+      "size": 2003025,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_22.M1V",
+      "lba": 529105,
+      "size": 753323,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_24.M1V",
+      "lba": 529473,
+      "size": 1642213,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_25.M1V",
+      "lba": 530275,
+      "size": 499644,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_25_1.M1V",
+      "lba": 530519,
+      "size": 130908,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_25_2.M1V",
+      "lba": 530583,
+      "size": 123289,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_25_3.M1V",
+      "lba": 530644,
+      "size": 168073,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_26.M1V",
+      "lba": 530727,
+      "size": 2002925,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_27.M1V",
+      "lba": 531705,
+      "size": 8008956,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_28.M1V",
+      "lba": 535616,
+      "size": 1321265,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_29.M1V",
+      "lba": 536262,
+      "size": 5490022,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_29_2.M1V",
+      "lba": 538943,
+      "size": 1367637,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_B4_30.M1V",
+      "lba": 539611,
+      "size": 5006814,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_MAKUMA.SFD",
+      "lba": 409209,
+      "size": 19525632,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "R4_MAKUMA_1.SFD",
+      "lba": 418743,
+      "size": 4442112,
+      "flags": 0,
+      "category": "video"
+    },
+    {
+      "name": "ROLL.PVM",
+      "lba": 61020,
+      "size": 608896,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "ROUND1.BIN",
+      "lba": 118484,
+      "size": 524288,
+      "flags": 0,
+      "category": "binary"
+    },
+    {
+      "name": "ROUND2.BIN",
+      "lba": 257331,
+      "size": 524288,
+      "flags": 0,
+      "category": "binary"
+    },
+    {
+      "name": "ROUND3.BIN",
+      "lba": 348408,
+      "size": 524288,
+      "flags": 0,
+      "category": "binary"
+    },
+    {
+      "name": "ROUND4.BIN",
+      "lba": 421745,
+      "size": 524288,
+      "flags": 0,
+      "category": "binary"
+    },
+    {
+      "name": "SANDATA_R1.AFS",
+      "lba": 149213,
+      "size": 5953536,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "SANDATA_R2.AFS",
+      "lba": 277719,
+      "size": 3876864,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "SANDATA_R3.AFS",
+      "lba": 362488,
+      "size": 2371584,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "SANDATA_R4.AFS",
+      "lba": 455246,
+      "size": 4919296,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "SH_1.MLT",
+      "lba": 58752,
+      "size": 1597632,
+      "flags": 0,
+      "category": "other"
+    },
+    {
+      "name": "TITLE.PVM",
+      "lba": 59921,
+      "size": 2248928,
+      "flags": 0,
+      "category": "image_archive"
+    },
+    {
+      "name": "VOICEDATA.AFS",
+      "lba": 95495,
+      "size": 39733248,
+      "flags": 0,
+      "category": "audio_archive"
+    },
+    {
+      "name": "WARNING.DA",
+      "lba": 470384,
+      "size": 1381396,
+      "flags": 0,
+      "category": "other"
+    }
+  ]
+}

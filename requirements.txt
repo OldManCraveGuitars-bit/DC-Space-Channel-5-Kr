@@ -1,0 +1,5 @@
+Pillow
+numpy
+fonttools
+av
+imageio-ffmpeg

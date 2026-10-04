@@ -1,0 +1,11 @@
+{
+  "packing_mode": "common_uncompressed",
+  "VQ_used": false,
+  "pixel_format": "ARGB4444",
+  "source_bitmap_retouching": false,
+  "outside_regions_pixel_exact": true,
+  "per_pixel_quantization_only": true,
+  "original_size": 67616,
+  "new_size": 524304,
+  "source_premultiplied_rmse": 1.3579820064718386
+}

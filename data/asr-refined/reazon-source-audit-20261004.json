@@ -1,0 +1,2076 @@
+[
+  {
+    "id": "ADXDATA_R4.AFS:007",
+    "segment": null,
+    "window": [
+      0,
+      41.66675
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ああ",
+    "tokens": [
+      "あ",
+      "あ"
+    ],
+    "timestamps": [
+      0.0,
+      42.31999969482422
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 2.03,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "ADXDATA_R4.AFS:007",
+    "segment": 0,
+    "window": [
+      0,
+      2.4
+    ],
+    "source_japanese": "お疲れ様でした",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "はい",
+    "tokens": [
+      "は",
+      "い"
+    ],
+    "timestamps": [
+      0.0,
+      2.919999837875366
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.143,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": null,
+    "window": [
+      0,
+      8.3338125
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うらら前方から踊る宇宙人が来るぞレッデンス",
+    "tokens": [
+      "う",
+      "ら",
+      "ら",
+      "前",
+      "方",
+      "か",
+      "ら",
+      "踊",
+      "る",
+      "宇",
+      "宙",
+      "人",
+      "が",
+      "来",
+      "る",
+      "ぞ",
+      "レ",
+      "ッ",
+      "デ",
+      "ン",
+      "ス"
+    ],
+    "timestamps": [
+      0.0,
+      0.3999999761581421,
+      0.5600000023841858,
+      0.8799999952316284,
+      1.0399999618530273,
+      1.2400000095367432,
+      1.3199999332427979,
+      1.5199999809265137,
+      1.6799999475479126,
+      1.8799999952316284,
+      1.959999918937683,
+      2.1599998474121094,
+      2.319999933242798,
+      2.4800000190734863,
+      2.559999942779541,
+      2.759999990463257,
+      6.039999961853027,
+      6.279999732971191,
+      6.359999656677246,
+      6.599999904632568,
+      8.59999942779541
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.369,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 0,
+    "window": [
+      0.020000000000000018,
+      2.88
+    ],
+    "source_japanese": "うらら、前方から驚く宇宙人が来るぞ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うらら前方から踊る宇宙人が来るぞ",
+    "tokens": [
+      "う",
+      "ら",
+      "ら",
+      "前",
+      "方",
+      "か",
+      "ら",
+      "踊",
+      "る",
+      "宇",
+      "宙",
+      "人",
+      "が",
+      "来",
+      "る",
+      "ぞ"
+    ],
+    "timestamps": [
+      0.0,
+      0.3999999761581421,
+      0.5600000023841858,
+      0.8799999952316284,
+      1.0399999618530273,
+      1.1999999284744263,
+      1.2799999713897705,
+      1.4800000190734863,
+      1.6399999856948853,
+      1.7999999523162842,
+      1.959999918937683,
+      2.0799999237060547,
+      2.2799999713897705,
+      2.3999998569488525,
+      2.5199999809265137,
+      2.679999828338623
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.167,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": null,
+    "window": [
+      0,
+      1.1551875
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "キレが悪いぞ",
+    "tokens": [
+      "キ",
+      "レ",
+      "が",
+      "悪",
+      "い",
+      "ぞ"
+    ],
+    "timestamps": [
+      0.0,
+      0.2800000011920929,
+      0.4399999976158142,
+      0.6800000071525574,
+      0.8799999952316284,
+      1.159999966621399
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.087,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": 0,
+    "window": [
+      0,
+      1.1551875
+    ],
+    "source_japanese": "入れが悪いぞ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "キレが悪いぞ",
+    "tokens": [
+      "キ",
+      "レ",
+      "が",
+      "悪",
+      "い",
+      "ぞ"
+    ],
+    "timestamps": [
+      0.0,
+      0.2800000011920929,
+      0.4399999976158142,
+      0.6800000071525574,
+      0.8799999952316284,
+      1.159999966621399
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.092,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": null,
+    "window": [
+      0,
+      3.7231875
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "レコーン",
+    "tokens": [
+      "レ",
+      "コ",
+      "ー",
+      "ン"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      4.119999885559082,
+      4.279999732971191,
+      4.360000133514404
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.193,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": 0,
+    "window": [
+      0,
+      3.44
+    ],
+    "source_japanese": "だららららららら ん ヨッコン",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "レコーン",
+    "tokens": [
+      "レ",
+      "コ",
+      "ー",
+      "ン"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      3.879999876022339,
+      4.039999961853027,
+      4.079999923706055
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.182,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": 1,
+    "window": [
+      2.74,
+      3.7231875
+    ],
+    "source_japanese": "dống",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "あっ",
+    "tokens": [
+      "あ",
+      "っ"
+    ],
+    "timestamps": [
+      0.0,
+      1.6399999856948853
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.091,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:085",
+    "segment": null,
+    "window": [
+      0,
+      3.882125
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "パッパッパラッパララッパヒュー",
+    "tokens": [
+      "パ",
+      "ッ",
+      "パ",
+      "ッ",
+      "パ",
+      "ラ",
+      "ッ",
+      "パ",
+      "ラ",
+      "ラ",
+      "ッ",
+      "パ",
+      "ヒ",
+      "ュ",
+      "ー"
+    ],
+    "timestamps": [
+      0.0,
+      0.4399999976158142,
+      0.5999999642372131,
+      0.7999999523162842,
+      0.9599999785423279,
+      1.2400000095367432,
+      1.4800000190734863,
+      1.5999999046325684,
+      1.9199999570846558,
+      2.1599998474121094,
+      2.359999895095825,
+      2.440000057220459,
+      3.1599998474121094,
+      4.360000133514404,
+      4.519999980926514
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.208,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:085",
+    "segment": 0,
+    "window": [
+      0,
+      3.882125
+    ],
+    "source_japanese": "パッパッパラッパララッパー、ヒュー!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "パッパッパラッパララッパヒュー",
+    "tokens": [
+      "パ",
+      "ッ",
+      "パ",
+      "ッ",
+      "パ",
+      "ラ",
+      "ッ",
+      "パ",
+      "ラ",
+      "ラ",
+      "ッ",
+      "パ",
+      "ヒ",
+      "ュ",
+      "ー"
+    ],
+    "timestamps": [
+      0.0,
+      0.4399999976158142,
+      0.5999999642372131,
+      0.7999999523162842,
+      0.9599999785423279,
+      1.2400000095367432,
+      1.4800000190734863,
+      1.5999999046325684,
+      1.9199999570846558,
+      2.1599998474121094,
+      2.359999895095825,
+      2.440000057220459,
+      3.1599998474121094,
+      4.360000133514404,
+      4.519999980926514
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.185,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:086",
+    "segment": null,
+    "window": [
+      0,
+      2.4496875
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "パララヒュー",
+    "tokens": [
+      "パ",
+      "ラ",
+      "ラ",
+      "ヒ",
+      "ュ",
+      "ー"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      0.35999998450279236,
+      0.6800000071525574,
+      2.0799999237060547,
+      2.200000047683716,
+      3.0
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.146,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:086",
+    "segment": 0,
+    "window": [
+      0,
+      2.4496875
+    ],
+    "source_japanese": "パララララララ、ヒュー!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "パララヒュー",
+    "tokens": [
+      "パ",
+      "ラ",
+      "ラ",
+      "ヒ",
+      "ュ",
+      "ー"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      0.35999998450279236,
+      0.6800000071525574,
+      2.0799999237060547,
+      2.200000047683716,
+      3.0
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.148,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": null,
+    "window": [
+      0,
+      1.7495
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "お前いいわ交番",
+    "tokens": [
+      "お",
+      "前",
+      "い",
+      "い",
+      "わ",
+      "交",
+      "番"
+    ],
+    "timestamps": [
+      0.0,
+      0.2800000011920929,
+      0.5999999642372131,
+      0.6800000071525574,
+      0.9199999570846558,
+      1.3199999332427979,
+      1.559999942779541
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.115,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "source_japanese": "お前、いいわ。ごま。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "お前いいわ交番",
+    "tokens": [
+      "お",
+      "前",
+      "い",
+      "い",
+      "わ",
+      "交",
+      "番"
+    ],
+    "timestamps": [
+      0.0,
+      0.2800000011920929,
+      0.5999999642372131,
+      0.6800000071525574,
+      0.9199999570846558,
+      1.3199999332427979,
+      1.559999942779541
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.118,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": null,
+    "window": [
+      0,
+      15.000125
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うららごみ箱の中から来るぞレッシュ",
+    "tokens": [
+      "う",
+      "ら",
+      "ら",
+      "ご",
+      "み",
+      "箱",
+      "の",
+      "中",
+      "か",
+      "ら",
+      "来",
+      "る",
+      "ぞ",
+      "レ",
+      "ッ",
+      "シ",
+      "ュ"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      8.679999351501465,
+      8.84000015258789,
+      9.119999885559082,
+      9.199999809265137,
+      9.359999656677246,
+      9.59999942779541,
+      9.800000190734863,
+      9.960000038146973,
+      10.039999961853027,
+      10.279999732971191,
+      10.359999656677246,
+      10.59999942779541,
+      12.75999927520752,
+      13.0,
+      13.15999984741211,
+      15.0
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.73,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 3,
+    "window": [
+      8.66,
+      10.76
+    ],
+    "source_japanese": "うらら、コイマコの中から来るぞ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うららごみ箱の中から来るぞ",
+    "tokens": [
+      "う",
+      "ら",
+      "ら",
+      "ご",
+      "み",
+      "箱",
+      "の",
+      "中",
+      "か",
+      "ら",
+      "来",
+      "る",
+      "ぞ"
+    ],
+    "timestamps": [
+      0.0,
+      0.1599999964237213,
+      0.23999999463558197,
+      0.47999998927116394,
+      0.5999999642372131,
+      0.7199999690055847,
+      0.9599999785423279,
+      1.1200000047683716,
+      1.3199999332427979,
+      1.399999976158142,
+      1.5999999046325684,
+      1.71999990940094,
+      1.959999918937683
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.146,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": null,
+    "window": [
+      0,
+      18.333625
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うららせんエスカレーターのほうから来るぞ",
+    "tokens": [
+      "う",
+      "ら",
+      "ら",
+      "せ",
+      "ん",
+      "エ",
+      "ス",
+      "カ",
+      "レ",
+      "ー",
+      "タ",
+      "ー",
+      "の",
+      "ほ",
+      "う",
+      "か",
+      "ら",
+      "来",
+      "る",
+      "ぞ"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      10.279999732971191,
+      10.4399995803833,
+      10.880000114440918,
+      11.0,
+      11.119999885559082,
+      11.239999771118164,
+      11.319999694824219,
+      11.479999542236328,
+      11.559999465942383,
+      11.639999389648438,
+      11.75999927520752,
+      11.84000015258789,
+      12.0,
+      12.039999961853027,
+      12.199999809265137,
+      12.279999732971191,
+      12.4399995803833,
+      12.59999942779541,
+      12.75999927520752
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.887,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 3,
+    "window": [
+      10.2,
+      13.14
+    ],
+    "source_japanese": "うらら、ナセエスカレーターの方から来るぞ。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うららせんエスカレーターのほうから来るぞ",
+    "tokens": [
+      "う",
+      "ら",
+      "ら",
+      "せ",
+      "ん",
+      "エ",
+      "ス",
+      "カ",
+      "レ",
+      "ー",
+      "タ",
+      "ー",
+      "の",
+      "ほ",
+      "う",
+      "か",
+      "ら",
+      "来",
+      "る",
+      "ぞ"
+    ],
+    "timestamps": [
+      0.0,
+      0.23999999463558197,
+      0.3999999761581421,
+      0.7599999904632568,
+      0.8799999952316284,
+      0.9599999785423279,
+      1.0799999237060547,
+      1.159999966621399,
+      1.3199999332427979,
+      1.4399999380111694,
+      1.5199999809265137,
+      1.5999999046325684,
+      1.71999990940094,
+      1.8399999141693115,
+      1.9199999570846558,
+      2.0399999618530273,
+      2.119999885559082,
+      2.2799999713897705,
+      2.440000057220459,
+      2.5999999046325684
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.224,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": null,
+    "window": [
+      0,
+      25.000625
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ネッサンス",
+    "tokens": [
+      "ネ",
+      "ッ",
+      "サ",
+      "ン",
+      "ス"
+    ],
+    "timestamps": [
+      0.03999999910593033,
+      22.920000076293945,
+      22.959999084472656,
+      23.239999771118164,
+      25.0
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 1.119,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 1,
+    "window": [
+      2.4000000000000004,
+      3.62
+    ],
+    "source_japanese": "なんでして?",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "何ですって",
+    "tokens": [
+      "何",
+      "で",
+      "す",
+      "っ",
+      "て"
+    ],
+    "timestamps": [
+      0.0,
+      0.5199999809265137,
+      0.6800000071525574,
+      1.559999942779541,
+      1.71999990940094
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.122,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 5,
+    "window": [
+      13.479999999999999,
+      17.24
+    ],
+    "source_japanese": "私の名前は、ジョー!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "私の名前は",
+    "tokens": [
+      "私",
+      "の",
+      "名",
+      "前",
+      "は"
+    ],
+    "timestamps": [
+      0.0,
+      0.7199999690055847,
+      1.159999966621399,
+      1.3199999332427979,
+      1.559999942779541
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.208,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": null,
+    "window": [
+      0,
+      23.8338125
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "まずは救出が優先だ",
+    "tokens": [
+      "ま",
+      "ず",
+      "は",
+      "救",
+      "出",
+      "が",
+      "優",
+      "先",
+      "だ"
+    ],
+    "timestamps": [
+      0.0,
+      20.520000457763672,
+      20.639999389648438,
+      21.0,
+      21.15999984741211,
+      21.35999870300293,
+      21.639999389648438,
+      21.8799991607666,
+      22.03999900817871
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 1.046,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": 4,
+    "window": [
+      9.2,
+      11.58
+    ],
+    "source_japanese": "うん、じゃがめ。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "あっ",
+    "tokens": [
+      "あ",
+      "っ"
+    ],
+    "timestamps": [
+      0.0,
+      2.440000057220459
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.125,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": null,
+    "window": [
+      0,
+      58.333625
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "みんな逃げて",
+    "tokens": [
+      "み",
+      "ん",
+      "な",
+      "逃",
+      "げ",
+      "て"
+    ],
+    "timestamps": [
+      0.0,
+      56.03999710083008,
+      56.119998931884766,
+      56.439998626708984,
+      58.03999710083008,
+      58.599998474121094
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 2.817,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 0,
+    "window": [
+      0.39999999999999997,
+      3.34
+    ],
+    "source_japanese": "よし!スクーパーは血取れたぞ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "よし",
+    "tokens": [
+      "よ",
+      "し"
+    ],
+    "timestamps": [
+      0.0,
+      0.35999998450279236
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.145,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 7,
+    "window": [
+      21.68,
+      23.86
+    ],
+    "source_japanese": "この映っているのも、何?",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "この映っているもの何",
+    "tokens": [
+      "こ",
+      "の",
+      "映",
+      "っ",
+      "て",
+      "い",
+      "る",
+      "も",
+      "の",
+      "何"
+    ],
+    "timestamps": [
+      0.0,
+      0.23999999463558197,
+      0.5600000023841858,
+      0.7999999523162842,
+      0.8399999737739563,
+      1.0,
+      1.0799999237060547,
+      1.3199999332427979,
+      1.399999976158142,
+      1.7999999523162842
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.132,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": null,
+    "window": [
+      0,
+      15.0335
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "あらかた脱出⁉チャンネル五の周波数と同じはずだなぜならなんて言った⁉脱出します",
+    "tokens": [
+      "あ",
+      "ら",
+      "か",
+      "た",
+      "脱",
+      "出",
+      "⁉",
+      "チ",
+      "ャ",
+      "ン",
+      "ネ",
+      "ル",
+      "五",
+      "の",
+      "周",
+      "波",
+      "数",
+      "と",
+      "同",
+      "じ",
+      "は",
+      "ず",
+      "だ",
+      "な",
+      "ぜ",
+      "な",
+      "ら",
+      "な",
+      "ん",
+      "て",
+      "言",
+      "っ",
+      "た",
+      "⁉",
+      "脱",
+      "出",
+      "し",
+      "ま",
+      "す"
+    ],
+    "timestamps": [
+      0.0,
+      0.47999998927116394,
+      0.5999999642372131,
+      0.7599999904632568,
+      1.0,
+      1.159999966621399,
+      1.559999942779541,
+      8.0,
+      8.119999885559082,
+      8.199999809265137,
+      8.279999732971191,
+      8.399999618530273,
+      8.559999465942383,
+      8.880000114440918,
+      9.039999961853027,
+      9.15999984741211,
+      9.319999694824219,
+      9.519999504089355,
+      9.679999351501465,
+      9.800000190734863,
+      10.0,
+      10.119999885559082,
+      10.279999732971191,
+      10.59999942779541,
+      10.760000228881836,
+      11.0,
+      11.15999984741211,
+      12.239999771118164,
+      12.399999618530273,
+      12.519999504089355,
+      12.75999927520752,
+      12.84000015258789,
+      12.920000076293945,
+      13.15999984741211,
+      13.559999465942383,
+      13.799999237060547,
+      14.079999923706055,
+      14.359999656677246,
+      14.519999504089355
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.634,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": 0,
+    "window": [
+      0,
+      2.4
+    ],
+    "source_japanese": "あらかだ脱出!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "あらかた脱出",
+    "tokens": [
+      "あ",
+      "ら",
+      "か",
+      "た",
+      "脱",
+      "出"
+    ],
+    "timestamps": [
+      0.0,
+      0.4399999976158142,
+      0.5600000023841858,
+      0.7199999690055847,
+      1.0,
+      1.159999966621399
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.139,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": null,
+    "window": [
+      0,
+      10.0005625
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "セットが宇宙人風のセットに切り替わりました",
+    "tokens": [
+      "セ",
+      "ッ",
+      "ト",
+      "が",
+      "宇",
+      "宙",
+      "人",
+      "風",
+      "の",
+      "セ",
+      "ッ",
+      "ト",
+      "に",
+      "切",
+      "り",
+      "替",
+      "わ",
+      "り",
+      "ま",
+      "し",
+      "た"
+    ],
+    "timestamps": [
+      0.0,
+      0.47999998927116394,
+      0.5199999809265137,
+      0.6399999856948853,
+      0.7999999523162842,
+      0.8799999952316284,
+      1.0399999618530273,
+      1.2400000095367432,
+      1.4399999380111694,
+      1.5999999046325684,
+      1.6799999475479126,
+      1.7599999904632568,
+      1.8799999952316284,
+      2.0399999618530273,
+      2.1599998474121094,
+      2.2799999713897705,
+      2.359999895095825,
+      2.5199999809265137,
+      2.759999990463257,
+      2.8399999141693115,
+      4.360000133514404
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.447,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.48,
+      9.92
+    ],
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "宇宙人",
+    "tokens": [
+      "宇",
+      "宙",
+      "人"
+    ],
+    "timestamps": [
+      0.0,
+      0.4399999976158142,
+      0.6800000071525574
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.189,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": null,
+    "window": [
+      0,
+      16.666875
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ただの操り人形にリポートは無理だったようねうわっなら助けてくれ消えてもらうと言ったはずだディレクト",
+    "tokens": [
+      "た",
+      "だ",
+      "の",
+      "操",
+      "り",
+      "人",
+      "形",
+      "に",
+      "リ",
+      "ポ",
+      "ー",
+      "ト",
+      "は",
+      "無",
+      "理",
+      "だ",
+      "っ",
+      "た",
+      "よ",
+      "う",
+      "ね",
+      "う",
+      "わ",
+      "っ",
+      "な",
+      "ら",
+      "助",
+      "け",
+      "て",
+      "く",
+      "れ",
+      "消",
+      "え",
+      "て",
+      "も",
+      "ら",
+      "う",
+      "と",
+      "言",
+      "っ",
+      "た",
+      "は",
+      "ず",
+      "だ",
+      "デ",
+      "ィ",
+      "レ",
+      "ク",
+      "ト"
+    ],
+    "timestamps": [
+      0.0,
+      0.23999999463558197,
+      0.3999999761581421,
+      0.6399999856948853,
+      0.9599999785423279,
+      1.1999999284744263,
+      1.3600000143051147,
+      1.4800000190734863,
+      1.6799999475479126,
+      1.8399999141693115,
+      1.959999918937683,
+      2.0399999618530273,
+      2.1599998474121094,
+      2.3999998569488525,
+      2.559999942779541,
+      2.679999828338623,
+      2.799999952316284,
+      2.879999876022339,
+      3.0799999237060547,
+      3.1599998474121094,
+      3.319999933242798,
+      3.6399998664855957,
+      3.759999990463257,
+      3.9599997997283936,
+      4.440000057220459,
+      4.679999828338623,
+      5.119999885559082,
+      5.480000019073486,
+      5.71999979019165,
+      5.960000038146973,
+      6.119999885559082,
+      10.960000038146973,
+      11.119999885559082,
+      11.479999542236328,
+      11.800000190734863,
+      11.920000076293945,
+      12.119999885559082,
+      12.319999694824219,
+      12.639999389648438,
+      12.719999313354492,
+      12.84000015258789,
+      13.119999885559082,
+      13.319999694824219,
+      13.479999542236328,
+      15.880000114440918,
+      15.920000076293945,
+      16.0,
+      16.119998931884766,
+      16.35999870300293
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.779,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 0,
+    "window": [
+      0.06,
+      3.58
+    ],
+    "source_japanese": "ただの怪しい人形に、リポートは無理だったよね。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ただの操り人形にリポートは無理だったようね",
+    "tokens": [
+      "た",
+      "だ",
+      "の",
+      "操",
+      "り",
+      "人",
+      "形",
+      "に",
+      "リ",
+      "ポ",
+      "ー",
+      "ト",
+      "は",
+      "無",
+      "理",
+      "だ",
+      "っ",
+      "た",
+      "よ",
+      "う",
+      "ね"
+    ],
+    "timestamps": [
+      0.0,
+      0.1599999964237213,
+      0.3199999928474426,
+      0.5199999809265137,
+      0.8799999952316284,
+      1.1200000047683716,
+      1.2799999713897705,
+      1.4399999380111694,
+      1.6399999856948853,
+      1.7999999523162842,
+      1.9199999570846558,
+      2.0,
+      2.1599998474121094,
+      2.319999933242798,
+      2.5199999809265137,
+      2.679999828338623,
+      2.759999990463257,
+      2.8399999141693115,
+      3.0799999237060547,
+      3.1599998474121094,
+      3.319999933242798
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.192,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.5,
+      16.666875
+    ],
+    "source_japanese": "ビエット!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ディレクト",
+    "tokens": [
+      "デ",
+      "ィ",
+      "レ",
+      "ク",
+      "ト"
+    ],
+    "timestamps": [
+      0.0,
+      0.4399999976158142,
+      0.5199999809265137,
+      0.6800000071525574,
+      0.9199999570846558
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.104,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:220",
+    "segment": null,
+    "window": [
+      0,
+      23.333875
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "視聴率こそ我が命視聴率こそ我が人生そのもの洗脳で宇宙人を操って何が悪い全ては視聴率のためにお聞きいただけたでしょうか今回の騒動の黒幕が自ら白状しましたはっテレビ事項発生",
+    "tokens": [
+      "視",
+      "聴",
+      "率",
+      "こ",
+      "そ",
+      "我",
+      "が",
+      "命",
+      "視",
+      "聴",
+      "率",
+      "こ",
+      "そ",
+      "我",
+      "が",
+      "人",
+      "生",
+      "そ",
+      "の",
+      "も",
+      "の",
+      "洗",
+      "脳",
+      "で",
+      "宇",
+      "宙",
+      "人",
+      "を",
+      "操",
+      "っ",
+      "て",
+      "何",
+      "が",
+      "悪",
+      "い",
+      "全",
+      "て",
+      "は",
+      "視",
+      "聴",
+      "率",
+      "の",
+      "た",
+      "め",
+      "に",
+      "お",
+      "聞",
+      "き",
+      "い",
+      "た",
+      "だ",
+      "け",
+      "た",
+      "で",
+      "し",
+      "ょ",
+      "う",
+      "か",
+      "今",
+      "回",
+      "の",
+      "騒",
+      "動",
+      "の",
+      "黒",
+      "幕",
+      "が",
+      "自",
+      "ら",
+      "白",
+      "状",
+      "し",
+      "ま",
+      "し",
+      "た",
+      "は",
+      "っ",
+      "テ",
+      "レ",
+      "ビ",
+      "事",
+      "項",
+      "発",
+      "生"
+    ],
+    "timestamps": [
+      0.0,
+      2.879999876022339,
+      3.119999885559082,
+      3.4800000190734863,
+      3.6399998664855957,
+      3.8399999141693115,
+      4.079999923706055,
+      4.319999694824219,
+      4.799999713897705,
+      5.039999961853027,
+      5.279999732971191,
+      5.559999942779541,
+      5.71999979019165,
+      6.0,
+      6.119999885559082,
+      6.399999618530273,
+      6.559999942779541,
+      6.799999713897705,
+      6.87999963760376,
+      7.079999923706055,
+      7.199999809265137,
+      7.639999866485596,
+      7.759999752044678,
+      8.399999618530273,
+      8.639999389648438,
+      8.760000228881836,
+      8.920000076293945,
+      9.079999923706055,
+      9.239999771118164,
+      9.559999465942383,
+      9.679999351501465,
+      10.039999961853027,
+      10.319999694824219,
+      10.59999942779541,
+      10.84000015258789,
+      11.279999732971191,
+      11.559999465942383,
+      11.84000015258789,
+      12.319999694824219,
+      12.4399995803833,
+      12.719999313354492,
+      13.0,
+      13.319999694824219,
+      13.479999542236328,
+      13.639999389648438,
+      14.359999656677246,
+      14.59999942779541,
+      14.719999313354492,
+      14.880000114440918,
+      15.0,
+      15.119999885559082,
+      15.279999732971191,
+      15.4399995803833,
+      15.59999942779541,
+      15.75999927520752,
+      15.880000114440918,
+      15.960000038146973,
+      16.079999923706055,
+      16.440000534057617,
+      16.600000381469727,
+      16.799999237060547,
+      17.03999900817871,
+      17.19999885559082,
+      17.35999870300293,
+      17.559999465942383,
+      17.760000228881836,
+      18.03999900817871,
+      18.239999771118164,
+      18.440000534057617,
+      18.719999313354492,
+      18.920000076293945,
+      19.19999885559082,
+      19.399999618530273,
+      19.520000457763672,
+      19.639999389648438,
+      20.079999923706055,
+      20.279998779296875,
+      20.639999389648438,
+      20.799999237060547,
+      20.920000076293945,
+      21.239999771118164,
+      21.35999870300293,
+      21.799999237060547,
+      22.03999900817871
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 1.015,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:220",
+    "segment": 7,
+    "window": [
+      22.24,
+      23.333875
+    ],
+    "source_japanese": "ふぅーっ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "わあ",
+    "tokens": [
+      "わ",
+      "あ"
+    ],
+    "timestamps": [
+      0.03999999910593033,
+      0.6800000071525574
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.097,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": null,
+    "window": [
+      0,
+      31.6669375
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "撃ちます",
+    "tokens": [
+      "撃",
+      "ち",
+      "ま",
+      "す"
+    ],
+    "timestamps": [
+      0.0,
+      7.639999866485596,
+      30.119998931884766,
+      30.279998779296875
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 1.414,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": 0,
+    "window": [
+      0.38000000000000006,
+      1.94
+    ],
+    "source_japanese": "し、市長!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "し視聴率",
+    "tokens": [
+      "し",
+      "視",
+      "聴",
+      "率"
+    ],
+    "timestamps": [
+      0.0,
+      0.5600000023841858,
+      0.8799999952316284,
+      1.159999966621399
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.116,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:226",
+    "segment": null,
+    "window": [
+      0,
+      8.17925
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "あ",
+    "tokens": [
+      "あ"
+    ],
+    "timestamps": [
+      0.07999999821186066
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.384,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:226",
+    "segment": 0,
+    "window": [
+      0,
+      8.17925
+    ],
+    "source_japanese": "スペースペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "あ",
+    "tokens": [
+      "あ"
+    ],
+    "timestamps": [
+      0.07999999821186066
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.381,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:227",
+    "segment": null,
+    "window": [
+      0,
+      12.20425
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ああ",
+    "tokens": [
+      "あ",
+      "あ"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      12.84000015258789
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.524,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:227",
+    "segment": 0,
+    "window": [
+      9.879999999999999,
+      12.18
+    ],
+    "source_japanese": "スペースチャンネル5。スペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "はい",
+    "tokens": [
+      "は",
+      "い"
+    ],
+    "timestamps": [
+      0.0,
+      2.759999990463257
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.158,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": null,
+    "window": [
+      0,
+      13.333375
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うわ",
+    "tokens": [
+      "う",
+      "わ"
+    ],
+    "timestamps": [
+      0.0,
+      13.799999237060547
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.562,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 0,
+    "window": [
+      1.14,
+      4.48
+    ],
+    "source_japanese": "スペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うっ",
+    "tokens": [
+      "う",
+      "っ"
+    ],
+    "timestamps": [
+      0.0,
+      4.0
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.176,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 1,
+    "window": [
+      3.7800000000000002,
+      7.5200000000000005
+    ],
+    "source_japanese": "スペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ピピ",
+    "tokens": [
+      "ピ",
+      "ピ"
+    ],
+    "timestamps": [
+      0.0,
+      3.359999895095825
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.207,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 2,
+    "window": [
+      6.82,
+      7.840000000000001
+    ],
+    "source_japanese": "スペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "はい",
+    "tokens": [
+      "は",
+      "い"
+    ],
+    "timestamps": [
+      0.0,
+      1.559999942779541
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.092,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:229",
+    "segment": null,
+    "window": [
+      0,
+      5.466875
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ハッ",
+    "tokens": [
+      "ハ",
+      "ッ"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      6.119999885559082
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.264,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:229",
+    "segment": 0,
+    "window": [
+      0.26000000000000006,
+      5.466875
+    ],
+    "source_japanese": "スペースチャンネル5。うらら、ヒューズ、モロ星人、スペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ハッ",
+    "tokens": [
+      "ハ",
+      "ッ"
+    ],
+    "timestamps": [
+      0.07999999821186066,
+      5.839999675750732
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.267,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": null,
+    "window": [
+      0,
+      1.66675
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ピッ",
+    "tokens": [
+      "ピ",
+      "ッ"
+    ],
+    "timestamps": [
+      0.03999999910593033,
+      2.319999933242798
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.123,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "source_japanese": "マレー、イッ!",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "ピッ",
+    "tokens": [
+      "ピ",
+      "ッ"
+    ],
+    "timestamps": [
+      0.03999999910593033,
+      2.319999933242798
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.119,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": null,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うそ",
+    "tokens": [
+      "う",
+      "そ"
+    ],
+    "timestamps": [
+      0.0,
+      5.480000019073486
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.263,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": 0,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "source_japanese": "スペースチャンネル5。うら、ヒューズ、モロ星人、スペースポート。",
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "うそ",
+    "tokens": [
+      "う",
+      "そ"
+    ],
+    "timestamps": [
+      0.0,
+      5.480000019073486
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.259,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:149",
+    "segment": null,
+    "window": [
+      0,
+      13.333375
+    ],
+    "source_japanese": null,
+    "recognizer": "reazonspeech-k2-v2",
+    "model_revision": "291488c8151be24d7da4bf7af26e533fad96e407",
+    "recognized": "重力がなくなっている",
+    "tokens": [
+      "重",
+      "力",
+      "が",
+      "な",
+      "く",
+      "な",
+      "っ",
+      "て",
+      "い",
+      "る"
+    ],
+    "timestamps": [
+      0.03999999910593033,
+      11.800000190734863,
+      12.039999961853027,
+      12.199999809265137,
+      12.359999656677246,
+      12.519999504089355,
+      12.679999351501465,
+      12.84000015258789,
+      12.920000076293945,
+      13.559999465942383
+    ],
+    "padding_before": 0.25,
+    "decoding_seconds": 0.673,
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  }
+]

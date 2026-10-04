@@ -1,0 +1,79 @@
+{
+  "version": "v0.7",
+  "game": "Space Channel 5 (Japan)",
+  "tracks": [
+    {
+      "number": 1,
+      "source_name": "Space Channel 5 (Japan) (Track 1).bin",
+      "source_size": 1992144,
+      "source_sha256": "18ed77c5abd6da6dda783e7765cc427380b11ad3322d716afc303ca04d756e9e",
+      "output_name": "track01.bin",
+      "output_size": 1992144,
+      "output_sha256": "18ed77c5abd6da6dda783e7765cc427380b11ad3322d716afc303ca04d756e9e",
+      "skip_source_bytes": 0
+    },
+    {
+      "number": 2,
+      "source_name": "Space Channel 5 (Japan) (Track 2).bin",
+      "source_size": 2088576,
+      "source_sha256": "e6c6f921666e7d50c4f943f6ab0f0545732d0534903fc6e5c4b0181ed352dc85",
+      "output_name": "track02.bin",
+      "output_size": 1735776,
+      "output_sha256": "7417c595f21a573674de228cedd73cc636868ae77d14af6829d5b9eeada65010",
+      "skip_source_bytes": 352800
+    },
+    {
+      "number": 3,
+      "source_name": "Space Channel 5 (Japan) (Track 3).bin",
+      "source_size": 30013872,
+      "source_sha256": "73a0c5ff148217fd604cd32877889b021f405a2dbdee107ee1399e09b0d89c02",
+      "output_name": "track03.bin",
+      "output_size": 30013872,
+      "output_sha256": "b9856bf3157a8989ab0d70ffcc9d0b3b4f5cfcbe0b1f7f239e2cdf1d664ee3e3",
+      "skip_source_bytes": 0,
+      "patch": "patches/track03.xdelta",
+      "patch_sha256": "173d86661b33a1542b8d4fae26255a056f65a58e035df205605a0081184ed730"
+    },
+    {
+      "number": 4,
+      "source_name": "Space Channel 5 (Japan) (Track 4).bin",
+      "source_size": 1735776,
+      "source_sha256": "049551d12e3c5c7828609acae02830b681b6777d7479cfe0a1fb6f9aafca7cbd",
+      "output_name": "track04.bin",
+      "output_size": 1382976,
+      "output_sha256": "22c94a31ac57ea8e21de70260fdd8dc50ca0e1613b001720a10dad950b9a4b87",
+      "skip_source_bytes": 352800
+    },
+    {
+      "number": 5,
+      "source_name": "Space Channel 5 (Japan) (Track 5).bin",
+      "source_size": 1154011152,
+      "source_sha256": "0aad1f767ebcbe25d78d0e28e7cfc85a9fd2fbee9ccd8074ea75c01156b9e0d4",
+      "output_name": "track05.bin",
+      "output_size": 1154011152,
+      "output_sha256": "45e1263ead4ffda982cace074b5d4d39d83233247b2be0a4bac6629ed6b1ffd1",
+      "skip_source_bytes": 0,
+      "patch": "patches/track05.xdelta",
+      "patch_sha256": "37ad03a51796b00e3e2947fbcd3ae837cb205300b37a9ce46644841f7cfd8549"
+    }
+  ],
+  "gdi_name": "Space Channel 5 Korean Native.gdi",
+  "gdi_text": "5\n1 0 4 2352 track01.bin 0\n2 997 0 2352 track02.bin 0\n3 45000 4 2352 track03.bin 0\n4 57911 0 2352 track04.bin 0\n5 58499 4 2352 track05.bin 0\n",
+  "chd_name": "Space Channel 5 Korean Native.chd",
+  "chd_size": 884996704,
+  "chd_sha256": "465937ccd256a189ebfda217e798e33cb09b467b347ba0eb513014a8ecf750f4",
+  "subtitles_embedded": true,
+  "external_subtitle_files_required": false,
+  "tools": [
+    {
+      "file": "bin/xdelta3.exe",
+      "version": "3.2.1",
+      "sha256": "2081fb24a7b8a89d068b58e7d9353647d5fc1512a68bb6a37f71fc60ca84d943"
+    },
+    {
+      "file": "bin/chdman.exe",
+      "version": "MAME 0.289",
+      "sha256": "8a74468e3b0879698835b57c3b58e88e5a51e4de73bee6ef755c28530b5b040f"
+    }
+  ]
+}

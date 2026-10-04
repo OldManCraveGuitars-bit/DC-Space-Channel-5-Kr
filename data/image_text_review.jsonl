@@ -1,0 +1,167 @@
+{"id": "0GDTEX.PVR", "segment": 0, "japanese": "スペースチャンネル", "source_text": "スペースチャンネル", "korean": "스페이스 채널", "region": [18, 144, 58, 11], "status": "edited"}
+{"id": "COMMON_DATA.PVM:114", "segment": 0, "status": "edited", "japanese": "ノルマシチョーリツ", "korean": "목표 시청률", "region": [14, 166, 236, 28]}
+{"id": "COMMON_DATA.PVM:114", "segment": 1, "status": "edited", "japanese": "レスキュータッセーリツ", "korean": "구조 달성률", "region": [14, 198, 270, 28]}
+{"id": "COMMON_DATA.PVM:114", "segment": 2, "status": "edited", "japanese": "サイコー!シチョーリツ", "korean": "최고! 시청률", "region": [14, 230, 270, 28]}
+{"id": "COMMON_DATA.PVM:114", "segment": 3, "status": "edited", "japanese": "サイシュー・シチョーリツ", "korean": "최종 시청률", "region": [14, 262, 276, 28]}
+{"id": "COMMON_DATA.PVM:114", "segment": 4, "status": "edited", "japanese": "ヨソー・シチョーリツ", "korean": "예상 시청률", "region": [14, 294, 230, 28]}
+{"id": "COMMON_DATA.PVM:114", "segment": 5, "status": "edited", "japanese": "シチョーリツ", "korean": "시청률", "region": [14, 326, 158, 28]}
+{"id": "COMMON_DATA.PVM:114", "segment": 6, "status": "edited", "japanese": "ジャガー", "korean": "재규어", "region": [384, 286, 120, 38]}
+{"id": "COMMON_DATA.PVM:114", "segment": 7, "status": "edited", "japanese": "プリン", "korean": "프린", "region": [92, 440, 124, 38]}
+{"id": "COMMON_DATA.PVM:114", "segment": 8, "status": "edited", "japanese": "ブランク", "korean": "블랭크", "region": [344, 422, 148, 40]}
+{"id": "COMMON_DATA.PVM:115", "segment": 0, "status": "edited", "japanese": "ウララ", "korean": "울랄라", "region": [56, 78, 102, 36]}
+{"id": "COMMON_DATA.PVM:115", "segment": 1, "status": "edited", "japanese": "モロ星人", "korean": "모로성인", "region": [238, 78, 118, 34]}
+{"id": "COMMON_DATA.PVM:291", "segment": 0, "row": 0, "message_key": "controller_or_vmu_busy", "japanese": "コントローラが抜けているか", "source_text": "コントローラが抜けているか", "korean": "컨트롤러가 빠져 있거나", "region": [0, 0, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 1, "row": 1, "message_key": "controller_or_vmu_busy", "japanese": "ビジュアルメモリの認識中モロ。", "source_text": "ビジュアルメモリの認識中モロ。", "korean": "비주얼 메모리를 인식 중 모로.", "region": [0, 26, 390, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 10, "row": 11, "message_key": "file_unusable", "japanese": "使用できないモロ。", "source_text": "使用できないモロ。", "korean": "사용할 수 없다 모로.", "region": [0, 286, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 11, "row": 12, "message_key": "save_failed", "japanese": "記録を正しく保存することが", "source_text": "記録を正しく保存することが", "korean": "기록을 올바르게 저장하지", "region": [0, 312, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 12, "row": 13, "message_key": "save_failed", "japanese": "できなかったモロ。", "source_text": "できなかったモロ。", "korean": "못했다 모로.", "region": [0, 338, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 13, "row": 14, "message_key": "record_invalid", "japanese": "この記録は無効となるモロ。", "source_text": "この記録は無効となるモロ。", "korean": "이 기록은 무효가 된다 모로.", "region": [0, 364, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 14, "row": 15, "message_key": "no_save_file", "japanese": "ファイルロードできる", "source_text": "ファイルロードできる", "korean": "불러올 수 있는", "region": [0, 390, 260, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 15, "row": 16, "message_key": "no_save_file", "japanese": "セーブファイルがないモロ。", "source_text": "セーブファイルがないモロ。", "korean": "저장 파일이 없다 모로.", "region": [0, 416, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 16, "row": 17, "message_key": "power_warning", "japanese": "電源を切っちゃだめモロ。", "source_text": "電源を切っちゃだめモロ。", "korean": "전원을 끄면 안 된다 모로.", "region": [0, 442, 312, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 2, "row": 2, "message_key": "vmu_space_required", "japanese": "セーブするには５ブロックの空きがある", "source_text": "セーブするには５ブロックの空きがある", "korean": "저장하려면 5블록의 빈 공간이 있는", "region": [0, 52, 468, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 3, "row": 3, "message_key": "vmu_space_required", "japanese": "ビジュアルメモリが必要モロ。", "source_text": "ビジュアルメモリが必要モロ。", "korean": "비주얼 메모리가 필요 모로.", "region": [0, 78, 364, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 4, "row": 4, "message_key": "vmu_space_required", "japanese": "ゲームを続けるにはＢボタンを押すモロ。", "source_text": "ゲームを続けるにはＢボタンを押すモロ。", "korean": "게임을 계속하려면 B 버튼을 눌러 모로.", "region": [0, 104, 494, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 5, "row": 6, "message_key": "overwrite_or_continue", "japanese": "ファイルを上書きするならＡボタン、", "source_text": "ファイルを上書きするならＡボタン、", "korean": "파일을 덮어쓰려면 A 버튼,", "region": [0, 156, 442, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 6, "row": 7, "message_key": "overwrite_or_continue", "japanese": "ゲームを続けるにはＢボタンを押すモロ。", "source_text": "ゲームを続けるにはＢボタンを押すモロ。", "korean": "게임을 계속하려면 B 버튼을 눌러 모로.", "region": [0, 182, 494, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 7, "row": 8, "message_key": "load_failed", "japanese": "記録を正しく読み込むことが", "source_text": "記録を正しく読み込むことが", "korean": "기록을 올바르게 불러오지", "region": [0, 208, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 8, "row": 9, "message_key": "load_failed", "japanese": "できなかったモロ。", "source_text": "できなかったモロ。", "korean": "못했다 모로.", "region": [0, 234, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "COMMON_DATA.PVM:291", "segment": 9, "row": 10, "message_key": "file_unusable", "japanese": "このセーブファイルは", "source_text": "このセーブファイルは", "korean": "이 저장 파일은", "region": [0, 260, 260, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R11.PVM:000", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R11.PVM:000", "segment": 1, "status": "edited", "japanese": "宇宙人の動きをマネるのが有効！", "source_text": "宇宙人の動きをマネるのが有効！", "korean": "외계인 동작을 따라 하면 효과적!", "region": [0, 26, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 2, "status": "edited", "japanese": "「チュー」といったらＡボタン！", "source_text": "「チュー」といったらＡボタン！", "korean": "「츄」라고 하면 A 버튼!", "region": [0, 52, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 3, "status": "edited", "japanese": "宇宙人にはＡボタンビームが有効", "source_text": "宇宙人にはＡボタンビームが有効", "korean": "외계인에게는 A 버튼 빔이 효과적", "region": [0, 78, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 4, "status": "edited", "japanese": "地球人にはＢボタンビームが有効", "source_text": "地球人にはＢボタンビームが有効", "korean": "지구인에게는 B 버튼 빔이 효과적", "region": [0, 104, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R11.PVM:000", "segment": 5, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 130, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R11.PVM:000", "segment": 6, "status": "edited", "japanese": "『スペース　ニホン人』", "source_text": "『スペース　ニホン人』", "korean": "『스페이스 일본인』", "region": [0, 156, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R12.PVM:001", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [26, 0, 130, 26], "source_x": 26, "align": "center"}
+{"id": "R12.PVM:001", "segment": 1, "status": "edited", "japanese": "『スペース犬』", "source_text": "『スペース犬』", "korean": "『스페이스 개』", "region": [0, 26, 182, 26], "source_x": 0, "align": "center"}
+{"id": "R13.PVM:000", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 0, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R13.PVM:000", "segment": 1, "status": "edited", "japanese": "『スペースサラリーマン』", "source_text": "『スペースサラリーマン』", "korean": "『스페이스 샐러리맨』", "region": [0, 26, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R13.PVM:000", "segment": 2, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 52, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R13.PVM:000", "segment": 3, "status": "edited", "japanese": "『ハードセクシーマン』", "source_text": "『ハードセクシーマン』", "korean": "『하드 섹시맨』", "region": [0, 78, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R14.PVM:000", "segment": 0, "status": "edited", "japanese": "チャンネル４２『プリン』", "source_text": "チャンネル４２『プリン』", "korean": "채널 42『프린』", "region": [0, 0, 312, 26], "source_x": 0, "align": "left"}
+{"id": "R14.PVM:000", "segment": 1, "status": "edited", "japanese": "プリン　ｗｉｔｈ", "source_text": "プリン　ｗｉｔｈ", "korean": "프린 with", "region": [26, 26, 208, 26], "source_x": 26, "align": "center", "fixed_english": {"text": "with", "x": 130, "width": 104}}
+{"id": "R14.PVM:000", "segment": 2, "status": "edited", "japanese": "親衛隊＆ギターマン", "source_text": "親衛隊＆ギターマン", "korean": "친위대 & 기타맨", "region": [0, 52, 234, 26], "source_x": 0, "align": "left"}
+{"id": "R15.PVM:137", "segment": 0, "status": "edited", "japanese": "侵略舞踏メカ", "source_text": "侵略舞踏メカ", "korean": "침략 무도 메카", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R15.PVM:137", "segment": 1, "status": "edited", "japanese": "『ココ★タピオカ』", "source_text": "『ココ★タピオカ』", "korean": "『코코★타피오카』", "region": [0, 26, 234, 26], "source_x": 0, "align": "center"}
+{"id": "R21.PVM:000", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 0, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R21.PVM:000", "segment": 1, "status": "edited", "japanese": "『スペースシップキャプテン』", "source_text": "『スペースシップキャプテン』", "korean": "『스페이스십 캡틴』", "region": [0, 26, 364, 26], "source_x": 0, "align": "center"}
+{"id": "R22.PVM:004", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 0, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R22.PVM:004", "segment": 1, "status": "edited", "japanese": "『スペースレスキュウポリス』", "source_text": "『スペースレスキュウポリス』", "korean": "『스페이스 구조 경찰』", "region": [0, 26, 364, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 0, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R23.PVM:001", "segment": 1, "status": "edited", "japanese": "『スペーススーパーモデル』", "source_text": "『スペーススーパーモデル』", "korean": "『스페이스 슈퍼모델』", "region": [0, 26, 338, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 10, "status": "edited", "japanese": "各方向に出現する集団は", "source_text": "各方向に出現する集団は", "korean": "각 방향에 나타나는 무리는", "region": [0, 260, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 11, "status": "edited", "japanese": "左のヤツから撃ってくるぞ", "source_text": "左のヤツから撃ってくるぞ", "korean": "왼쪽 놈부터 쏜다", "region": [0, 286, 338, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 2, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 52, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R23.PVM:001", "segment": 3, "status": "edited", "japanese": "『スペースおばあちゃん』", "source_text": "『スペースおばあちゃん』", "korean": "『스페이스 할머니』", "region": [0, 78, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 4, "status": "edited", "japanese": "宇宙海賊放送艇", "source_text": "宇宙海賊放送艇", "korean": "우주 해적 방송선", "region": [52, 104, 182, 26], "source_x": 52, "align": "center"}
+{"id": "R23.PVM:001", "segment": 5, "status": "edited", "japanese": "『バッドチューニング号』", "source_text": "『バッドチューニング号』", "korean": "『배드 튜닝호』", "region": [0, 130, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R23.PVM:001", "segment": 6, "status": "edited", "japanese": "リポーター『ジャガー』", "source_text": "リポーター『ジャガー』", "korean": "리포터『재규어』", "region": [0, 156, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 7, "status": "edited", "japanese": "ジャガー　ｗｉｔｈ", "source_text": "ジャガー　ｗｉｔｈ", "korean": "재규어 with", "region": [26, 182, 234, 26], "source_x": 26, "align": "center", "fixed_english": {"text": "with", "x": 156, "width": 104}}
+{"id": "R23.PVM:001", "segment": 8, "status": "edited", "japanese": "宇宙海賊＆ブラスマン", "source_text": "宇宙海賊＆ブラスマン", "korean": "우주 해적 & 브라스맨", "region": [0, 208, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R23.PVM:001", "segment": 9, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 234, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R24.PVM:174", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R24.PVM:174", "segment": 1, "status": "edited", "japanese": "スペース小学生にはＢボタンが有効", "source_text": "スペース小学生にはＢボタンが有効", "korean": "스페이스 초등학생에겐 B 버튼이 유효", "region": [0, 26, 416, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 2, "status": "edited", "japanese": "重力発生装置が破壊されました", "source_text": "重力発生装置が破壊されました", "korean": "중력 발생 장치가 파괴되었습니다", "region": [0, 52, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 3, "status": "edited", "japanese": "えっちな舞踏メカ", "source_text": "えっちな舞踏メカ", "korean": "야한 무도 메카", "region": [0, 78, 234, 26], "source_x": 0, "align": "left"}
+{"id": "R24.PVM:174", "segment": 4, "status": "edited", "japanese": "『モロリ〜ナ』", "source_text": "『モロリ〜ナ』", "korean": "『모로리~나』", "region": [0, 104, 208, 26], "source_x": 0, "align": "center"}
+{"id": "R2_MAKUMA.PVR", "segment": 0, "japanese": "あまり踊らせられなかったモロ！", "source_text": "あまり踊らせられなかったモロ！", "korean": "그다지 춤추게 하지 못했다 모로!", "region": [0, 0, 390, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 1, "japanese": "なんか邪魔も入ったモロ！", "source_text": "なんか邪魔も入ったモロ！", "korean": "뭔가 방해도 있었다 모로!", "region": [0, 26, 312, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 10, "japanese": "コンセプトの作戦を練ったモロ。", "source_text": "コンセプトの作戦を練ったモロ。", "korean": "콘셉트의 작전을 짰다 모로.", "region": [0, 260, 390, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 11, "japanese": "いいモロね", "source_text": "いいモロね", "korean": "좋은 모로네", "region": [0, 286, 130, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 12, "japanese": "そのための舞踏メカはこちらモロ", "source_text": "そのための舞踏メカはこちらモロ", "korean": "그걸 위한 무도 메카는 이쪽 모로", "region": [0, 312, 390, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 13, "japanese": "おおーーっ", "source_text": "おおーーっ", "korean": "오오——!", "region": [0, 338, 130, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 2, "japanese": "そ、その件につきましては…", "source_text": "そ、その件につきましては…", "korean": "그, 그 건에 관해서는…", "region": [0, 52, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 3, "japanese": "言い訳はいいモロ！", "source_text": "言い訳はいいモロ！", "korean": "변명은 됐다 모로!", "region": [0, 78, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 4, "japanese": "次の作戦を言うモロ？", "source_text": "次の作戦を言うモロ？", "korean": "다음 작전을 말해라 모로?", "region": [0, 104, 260, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 5, "japanese": "は、はいモロ！", "source_text": "は、はいモロ！", "korean": "예, 예 모로!", "region": [0, 130, 182, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 6, "japanese": "今回の敗北原因がーー", "source_text": "今回の敗北原因がーー", "korean": "이번 패배 원인이——", "region": [0, 156, 260, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 7, "japanese": "あまりにも「正直すぎた」のでは？", "source_text": "あまりにも「正直すぎた」のでは？", "korean": "너무나도 「지나치게 정직했던」 게 아닐까?", "region": [0, 182, 416, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 8, "japanese": "という分析結果を考慮し…", "source_text": "という分析結果を考慮し…", "korean": "라는 분석 결과를 고려해…", "region": [0, 208, 312, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R2_MAKUMA.PVR", "segment": 9, "japanese": "「卑劣で卑怯、けど優雅」という", "source_text": "「卑劣で卑怯、けど優雅」という", "korean": "「비열하고 비겁하지만, 우아하다」는", "region": [0, 234, 390, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R31.PVM:060", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R31.PVM:060", "segment": 1, "status": "edited", "japanese": "なんでもかんでもＡボタンビーム", "source_text": "なんでもかんでもＡボタンビーム", "korean": "무엇이든 A 버튼 빔", "region": [0, 26, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R32.PVM:060", "segment": 0, "status": "edited", "japanese": "緊急警告", "source_text": "緊急警告", "korean": "긴급 경고", "region": [26, 0, 104, 26], "source_x": 26, "align": "center"}
+{"id": "R32.PVM:060", "segment": 1, "status": "edited", "japanese": "部屋を明るくしてＴＶから離れてね", "source_text": "部屋を明るくしてＴＶから離れてね", "korean": "방을 밝게 하고 TV에서 떨어져 있어", "region": [0, 26, 416, 26], "source_x": 0, "align": "left"}
+{"id": "R32.PVM:060", "segment": 2, "status": "edited", "japanese": "踊らされた『プリン』", "source_text": "踊らされた『プリン』", "korean": "춤추게 된『프린』", "region": [0, 52, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R33.PVM:145", "segment": 1, "status": "edited", "japanese": "モニタをよく見て撃ち分けよう！", "source_text": "モニタをよく見て撃ち分けよう！", "korean": "모니터를 잘 보고 구별해서 쏘자!", "region": [0, 26, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 2, "status": "edited", "japanese": "宇宙人は洗脳されていたと判明。", "source_text": "宇宙人は洗脳されていたと判明。", "korean": "외계인이 세뇌당했음이 밝혀짐.", "region": [0, 52, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 3, "status": "edited", "japanese": "その背後に黒幕がいる模様です。", "source_text": "その背後に黒幕がいる模様です。", "korean": "그 배후에 흑막이 있는 듯합니다.", "region": [0, 78, 390, 26], "source_x": 0, "align": "left"}
+{"id": "R33.PVM:145", "segment": 4, "status": "edited", "japanese": "最強舞踏メカ", "source_text": "最強舞踏メカ", "korean": "최강 무도 메카", "region": [78, 104, 156, 26], "source_x": 78, "align": "center"}
+{"id": "R33.PVM:145", "segment": 5, "status": "edited", "japanese": "『モロリン！モンロー！』", "source_text": "『モロリン！モンロー！』", "korean": "『모로린! 몬로!』", "region": [0, 130, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R33.PVM:145", "segment": 6, "status": "edited", "japanese": "「踊らせろ！踊らせろ！」", "source_text": "「踊らせろ！踊らせろ！」", "korean": "「춤추게 해라! 춤추게 해라!」", "region": [0, 156, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R33.PVM:145", "segment": 7, "status": "edited", "japanese": "「地球人を　踊らせろ！」", "source_text": "「地球人を　踊らせろ！」", "korean": "「지구인을 춤추게 해라!」", "region": [0, 182, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R34.PVM:015", "segment": 0, "status": "edited", "japanese": "緊急警告", "source_text": "緊急警告", "korean": "긴급 경고", "region": [26, 0, 104, 26], "source_x": 26, "align": "center"}
+{"id": "R34.PVM:015", "segment": 1, "status": "edited", "japanese": "部屋を明るくしてＴＶから離れてね", "source_text": "部屋を明るくしてＴＶから離れてね", "korean": "방을 밝게 하고 TV에서 떨어져 있어", "region": [0, 26, 416, 26], "source_x": 0, "align": "left"}
+{"id": "R34.PVM:015", "segment": 2, "status": "edited", "japanese": "楽器ビト『タイコマン』", "source_text": "楽器ビト『タイコマン』", "korean": "악기인『타이코맨』", "region": [0, 52, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R3_MAKUMA.PVR", "segment": 0, "japanese": "やばいモロ！", "source_text": "やばいモロ！", "korean": "큰일이다 모로!", "region": [0, 0, 156, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 1, "japanese": "ＵＦＯが追跡されて", "source_text": "ＵＦＯが追跡されて", "korean": "UFO가 추적당해서", "region": [0, 26, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 10, "japanese": "そしてとどめの中心部には", "source_text": "そしてとどめの中心部には", "korean": "그리고 결정타인 중심부에는", "region": [0, 260, 312, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 11, "japanese": "最強の舞踏メカを配備したモロ", "source_text": "最強の舞踏メカを配備したモロ", "korean": "최강 무도 메카를 배치했다 모로", "region": [0, 286, 364, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 12, "japanese": "なかなかいいモロね", "source_text": "なかなかいいモロね", "korean": "제법 괜찮은 모로네", "region": [0, 312, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 13, "japanese": "ちなみに最強舞踏メカはこちらモロ", "source_text": "ちなみに最強舞踏メカはこちらモロ", "korean": "참고로 최강 무도 메카는 이쪽 모로", "region": [0, 338, 416, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 14, "japanese": "ひょーーう", "source_text": "ひょーーう", "korean": "효오오", "region": [0, 364, 130, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 2, "japanese": "秘密基地の位置がばれたモロ！！", "source_text": "秘密基地の位置がばれたモロ！！", "korean": "비밀 기지의 위치가 들켰다 모로!!", "region": [0, 52, 390, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 3, "japanese": "そ、その件につきましては…", "source_text": "そ、その件につきましては…", "korean": "그, 그 건에 관해서는…", "region": [0, 78, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 4, "japanese": "言い訳はいいモロ！", "source_text": "言い訳はいいモロ！", "korean": "변명은 됐다 모로!", "region": [0, 104, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 5, "japanese": "対応策を言えモロ？", "source_text": "対応策を言えモロ？", "korean": "대응책을 말해라 모로?", "region": [0, 130, 234, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 6, "japanese": "は、はいモロ！", "source_text": "は、はいモロ！", "korean": "예, 예 모로!", "region": [0, 156, 182, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 7, "japanese": "すでに、あの秘密基地周辺に", "source_text": "すでに、あの秘密基地周辺に", "korean": "이미 그 비밀 기지 주변에", "region": [0, 182, 338, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 8, "japanese": "「隕石型踊らせミサイル」を、", "source_text": "「隕石型踊らせミサイル」を、", "korean": "「운석형 춤추게 하는 미사일」을,", "region": [0, 208, 364, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R3_MAKUMA.PVR", "segment": 9, "japanese": "基地内部通路に「精鋭部隊」を", "source_text": "基地内部通路に「精鋭部隊」を", "korean": "기지 내부 통로에 「정예 부대」를", "region": [0, 234, 364, 26], "source_x": 0, "align": "left", "status": "edited"}
+{"id": "R41.PVM:000", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R41.PVM:000", "segment": 1, "status": "edited", "japanese": "宇宙人には、", "source_text": "宇宙人には、", "korean": "외계인에게는,", "region": [0, 26, 156, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 2, "status": "edited", "japanese": "デラックスＡボタンビーム！！", "source_text": "デラックスＡボタンビーム！！", "korean": "디럭스 A 버튼 빔!!", "region": [0, 52, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 3, "status": "edited", "japanese": "スペースチャンネル５局長", "source_text": "スペースチャンネル５局長", "korean": "스페이스 채널 5 국장", "region": [0, 78, 312, 26], "source_x": 0, "align": "left"}
+{"id": "R41.PVM:000", "segment": 4, "status": "edited", "japanese": "『ブランク』", "source_text": "『ブランク』", "korean": "『블랭크』", "region": [78, 104, 156, 26], "source_x": 78, "align": "center"}
+{"id": "R41.PVM:000", "segment": 5, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 130, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R41.PVM:000", "segment": 6, "status": "edited", "japanese": "『チャンネル５警備ロボ』", "source_text": "『チャンネル５警備ロボ』", "korean": "『채널 5 경비 로봇』", "region": [0, 156, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R41.PVM:000", "segment": 7, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [104, 182, 130, 26], "source_x": 104, "align": "center"}
+{"id": "R41.PVM:000", "segment": 8, "status": "edited", "japanese": "『スペースマイケル（本人）』", "source_text": "『スペースマイケル（本人）』", "korean": "『스페이스 마이클(본인)』", "region": [0, 208, 364, 26], "source_x": 0, "align": "center"}
+{"id": "R42.PVM:000", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [78, 0, 130, 26], "source_x": 78, "align": "center"}
+{"id": "R42.PVM:000", "segment": 1, "status": "edited", "japanese": "『スペースクンフーマン』", "source_text": "『スペースクンフーマン』", "korean": "『스페이스 쿵후맨』", "region": [0, 26, 312, 26], "source_x": 0, "align": "center"}
+{"id": "R43.PVM:000", "segment": 0, "status": "edited", "japanese": "踊らされた", "source_text": "踊らされた", "korean": "춤추게 된", "region": [52, 0, 130, 26], "source_x": 52, "align": "center"}
+{"id": "R43.PVM:000", "segment": 1, "status": "edited", "japanese": "『キーボードギャル』", "source_text": "『キーボードギャル』", "korean": "『키보드 걸』", "region": [0, 26, 260, 26], "source_x": 0, "align": "center"}
+{"id": "R44.PVM:115", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R44.PVM:115", "segment": 1, "status": "edited", "japanese": "ディレクターが宇宙中継艇ごと", "source_text": "ディレクターが宇宙中継艇ごと", "korean": "디렉터가 우주 중계정째로", "region": [0, 26, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 10, "status": "edited", "japanese": "『ジャイアントイビラ』", "source_text": "『ジャイアントイビラ』", "korean": "『자이언트 이비라』", "region": [0, 260, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R44.PVM:115", "segment": 11, "status": "edited", "japanese": "格闘球技舞踏メカ", "source_text": "格闘球技舞踏メカ", "korean": "격투 구기 무도 메카", "region": [0, 286, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 12, "status": "edited", "japanese": "『ブランクＴＶ』", "source_text": "『ブランクＴＶ』", "korean": "『블랭크 TV』", "region": [0, 312, 208, 26], "source_x": 0, "align": "center"}
+{"id": "R44.PVM:115", "segment": 13, "status": "edited", "japanese": "あやつるなんて非道いモロ！", "source_text": "あやつるなんて非道いモロ！", "korean": "조종하다니 잔인해 모로!", "region": [0, 338, 338, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 2, "status": "edited", "japanese": "捕まった模様", "source_text": "捕まった模様", "korean": "잡힌 듯함", "region": [0, 52, 156, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 3, "status": "edited", "japanese": "続報", "source_text": "続報", "korean": "속보", "region": [26, 78, 52, 26], "source_x": 26, "align": "center"}
+{"id": "R44.PVM:115", "segment": 4, "status": "edited", "japanese": "指示とは逆方向に入力してから", "source_text": "指示とは逆方向に入力してから", "korean": "지시와 반대 방향을 입력한 뒤", "region": [0, 104, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 5, "status": "edited", "japanese": "Ａボタンビーム！", "source_text": "Ａボタンビーム！", "korean": "A 버튼 빔!", "region": [0, 130, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 6, "status": "edited", "japanese": "うららの顔マークには", "source_text": "うららの顔マークには", "korean": "울랄라 얼굴 표식에는", "region": [0, 156, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 7, "status": "edited", "japanese": "Ｂボタンビーム！", "source_text": "Ｂボタンビーム！", "korean": "B 버튼 빔!", "region": [0, 182, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 8, "status": "edited", "japanese": "パーフェクトリポーター", "source_text": "パーフェクトリポーター", "korean": "퍼펙트 리포터", "region": [0, 208, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R44.PVM:115", "segment": 9, "status": "edited", "japanese": "『イビラ』", "source_text": "『イビラ』", "korean": "『이비라』", "region": [52, 234, 156, 26], "source_x": 52, "align": "center"}
+{"id": "R45.PVM:084", "segment": 0, "status": "edited", "japanese": "ニュース速報", "source_text": "ニュース速報", "korean": "뉴스 속보", "region": [26, 0, 156, 26], "source_x": 26, "align": "center"}
+{"id": "R45.PVM:084", "segment": 1, "status": "edited", "japanese": "ディレクターが宇宙中継艇ごと", "source_text": "ディレクターが宇宙中継艇ごと", "korean": "디렉터가 우주 중계정째로", "region": [0, 26, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 10, "status": "edited", "japanese": "『ジャイアントイビラ』", "source_text": "『ジャイアントイビラ』", "korean": "『자이언트 이비라』", "region": [0, 260, 286, 26], "source_x": 0, "align": "center"}
+{"id": "R45.PVM:084", "segment": 11, "status": "edited", "japanese": "格闘球技舞踏メカ", "source_text": "格闘球技舞踏メカ", "korean": "격투 구기 무도 메카", "region": [0, 286, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 12, "status": "edited", "japanese": "『ブランクＴＶ』", "source_text": "『ブランクＴＶ』", "korean": "『블랭크 TV』", "region": [0, 312, 208, 26], "source_x": 0, "align": "center"}
+{"id": "R45.PVM:084", "segment": 13, "status": "edited", "japanese": "あやつるなんて非道いモロ！", "source_text": "あやつるなんて非道いモロ！", "korean": "조종하다니 잔인해 모로!", "region": [0, 338, 338, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 2, "status": "edited", "japanese": "捕まった模様", "source_text": "捕まった模様", "korean": "잡힌 듯함", "region": [0, 52, 156, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 3, "status": "edited", "japanese": "続報", "source_text": "続報", "korean": "속보", "region": [26, 78, 52, 26], "source_x": 26, "align": "center"}
+{"id": "R45.PVM:084", "segment": 4, "status": "edited", "japanese": "指示とは逆方向に入力してから", "source_text": "指示とは逆方向に入力してから", "korean": "지시와 반대 방향을 입력한 뒤", "region": [0, 104, 364, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 5, "status": "edited", "japanese": "Ａボタンビーム！", "source_text": "Ａボタンビーム！", "korean": "A 버튼 빔!", "region": [0, 130, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 6, "status": "edited", "japanese": "うららの顔マークには", "source_text": "うららの顔マークには", "korean": "울랄라 얼굴 표식에는", "region": [0, 156, 260, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 7, "status": "edited", "japanese": "Ｂボタンビーム！", "source_text": "Ｂボタンビーム！", "korean": "B 버튼 빔!", "region": [0, 182, 208, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 8, "status": "edited", "japanese": "パーフェクトリポーター", "source_text": "パーフェクトリポーター", "korean": "퍼펙트 리포터", "region": [0, 208, 286, 26], "source_x": 0, "align": "left"}
+{"id": "R45.PVM:084", "segment": 9, "status": "edited", "japanese": "『イビラ』", "source_text": "『イビラ』", "korean": "『이비라』", "region": [52, 234, 156, 26], "source_x": 52, "align": "center"}
+{"id": "TITLE.PVM:080", "segment": 0, "japanese": "スペースチャンネル", "korean": "스페이스 채널", "region": [8, 88, 94, 18], "status": "edited"}
+{"id": "TITLE.PVM:081", "segment": 0, "japanese": "スペースチャンネル", "korean": "스페이스 채널", "region": [8, 92, 95, 16], "status": "edited"}
+{"id": "TITLE.PVM:084", "segment": 0, "status": "edited", "japanese": "スペースチャンネル", "korean": "스페이스 채널", "region": [116, 284, 342, 68]}
+{"id": "TITLE.PVM:088", "segment": 0, "status": "edited", "japanese": "せつめいしょみるか", "korean": "설명서를 보거나", "region": [140, 648, 470, 66]}
+{"id": "TITLE.PVM:088", "segment": 1, "status": "edited", "japanese": "ともだちに", "korean": "친구에게", "region": [278, 722, 286, 76]}
+{"id": "TITLE.PVM:088", "segment": 2, "status": "edited", "japanese": "きくモロ～", "korean": "물어봐 모로~", "region": [320, 802, 290, 80]}
+{"id": "TITLE.PVM:090", "segment": 0, "status": "edited", "japanese": "メインキャラ", "korean": "주요 캐릭터", "region": [8, 6, 180, 34]}
+{"id": "TITLE.PVM:090", "segment": 1, "status": "edited", "japanese": "チキュージン", "korean": "지구인", "region": [8, 40, 180, 34]}
+{"id": "TITLE.PVM:090", "segment": 2, "status": "edited", "japanese": "オドリビト", "korean": "춤추는 사람", "region": [8, 74, 180, 32]}
+{"id": "TITLE.PVM:090", "segment": 3, "status": "edited", "japanese": "ガッキビト", "korean": "악기인", "region": [8, 106, 180, 32]}
+{"id": "TITLE.PVM:090", "segment": 4, "status": "edited", "japanese": "モロセイジン", "korean": "모로성인", "region": [8, 138, 180, 32]}
+{"id": "TITLE.PVM:090", "segment": 5, "status": "edited", "japanese": "ボスキャラ", "korean": "보스 캐릭터", "region": [8, 170, 180, 26]}
+{"id": "ROLL.PVM:008", "segment": 0, "japanese": "", "source_text": "", "korean": "KOREAN LOCALIZATION BY GIKAKNO", "region": [64, 398, 384, 26], "requested_attribution": true, "language": "English", "placement": "Centered at y=411 above Presented by SEGA", "status": "edited"}

@@ -1,0 +1,60 @@
+{
+  "version": "v0.7",
+  "chd_sha256": "465937ccd256a189ebfda217e798e33cb09b467b347ba0eb513014a8ecf750f4",
+  "screenshots": [
+    {
+      "file": "01-title.png",
+      "sha256": "a167d870a9c2ef7d8921ae32a4f35806915468a8ce31881013b146aa350ed3bb",
+      "kind": "current_native_rom_capture",
+      "source": "work/native-rom/stock-libretro/runs/v07-title-20261005/screenshots/frame-1791142707521452600.png"
+    },
+    {
+      "file": "02-greeting.png",
+      "sha256": "fd9c6b3eeec902fcf31de7c396189119f8f552e21462ba51b3e10d2ff50c446f",
+      "kind": "current_native_rom_capture",
+      "source": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141848447460100.png"
+    },
+    {
+      "file": "03-spoken-instruction.png",
+      "sha256": "71b56e9cc57df856f8fac9a2a6d3a011fe81101d8af6541119e61b7b5dbd6c00",
+      "kind": "current_native_rom_capture",
+      "source": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141895435482100.png"
+    },
+    {
+      "file": "04-gameplay-hud.png",
+      "sha256": "81a4eda6acd13de99e50d3f4e47a69f89a5ced458db89a498d2c8cd72a759ba8",
+      "kind": "current_native_rom_capture",
+      "source": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141891069195500.png"
+    },
+    {
+      "file": "05-cpu-gameplay.png",
+      "sha256": "caa5f702f0d1f25585a285146b359f5a5e61f4b1061d45d9bf425928580d7480",
+      "kind": "current_native_rom_capture",
+      "source": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141960127719000.png"
+    },
+    {
+      "file": "06-texture-quality.png",
+      "sha256": "f77fe41b154062b065f2212201b5c7de01332e6be7dedf3710f6aab1e7fce0ac",
+      "kind": "asset_preview_or_comparison",
+      "source": "work/atlas-vq-quality-20261005/comparison.png"
+    },
+    {
+      "file": "07-text-card-comparison.png",
+      "sha256": "7ba5ab1581a2bd48d8a9068187ddcc2949ec3fabe8958413c79a585cd7f37aa9",
+      "kind": "asset_preview_or_comparison",
+      "source": "work/cpro76-79_comparison.png"
+    },
+    {
+      "file": "08-image-atlas.png",
+      "sha256": "4f9756ed974841673932de18bc31a8c81e3f6afa4485b5504c6929db9c8a99fc",
+      "kind": "asset_preview_or_comparison",
+      "source": "assets/image-edits/COMMON_DATA.PVM_114_2.png"
+    },
+    {
+      "file": "09-character-categories.png",
+      "sha256": "0a5bb84bac81bcfd052f4c0a45124ae2008a1fd096def5bc6a555fc6f64e2a42",
+      "kind": "asset_preview_or_comparison",
+      "source": "assets/image-edits/TITLE.PVM_090.png"
+    }
+  ]
+}

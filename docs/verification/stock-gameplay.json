@@ -1,0 +1,2585 @@
+{
+  "pid": 28436,
+  "command": [
+    "C:\\CODEX\\tools\\RetroArch-1.22.2\\RetroArch-Win64\\retroarch.exe",
+    "-v",
+    "--log-file",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\stock-chd.log",
+    "-c",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\retroarch-test.cfg",
+    "-L",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\flycast_libretro.dll",
+    "<PROJECT>\\output\\Space Channel 5 Korean Native.chd"
+  ],
+  "actions": [
+    {
+      "seconds": 40.326,
+      "action": "START",
+      "value": null
+    },
+    {
+      "seconds": 43.319,
+      "action": "A",
+      "value": null
+    },
+    {
+      "seconds": 55.004,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 58.022,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 61.001,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 64.005,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 67.012,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 70.02,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 73.0,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 76.002,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 79.003,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 82.022,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 85.02,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 90.302,
+      "action": "Skip opening via START",
+      "value": null
+    },
+    {
+      "seconds": 105.018,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 109.007,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 113.018,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 117.022,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 121.001,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 125.01,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 125.27,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 125.504,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 125.763,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 126.023,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 126.256,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 126.515,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 126.773,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 127.007,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 127.266,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 127.5,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 127.759,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 128.02,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 128.253,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 128.511,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 128.771,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 129.004,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 129.264,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 129.524,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 129.756,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 130.014,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 132.929,
+      "action": "CPU cheat controller sequence",
+      "value": null
+    },
+    {
+      "seconds": 132.955,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 132.982,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.008,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.034,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.06,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.086,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.112,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.139,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.166,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.192,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.219,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.246,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.273,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.504,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 133.761,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 134.018,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 134.276,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 134.509,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 134.768,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 135.002,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 135.272,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 135.524,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 135.782,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 136.019,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 136.274,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 136.521,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 136.775,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 137.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 137.274,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 137.512,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 137.769,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 138.032,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 138.262,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 138.535,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 138.75,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 139.008,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 139.269,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 139.525,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 139.772,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 140.017,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 140.252,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 140.556,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 140.787,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 141.038,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 141.28,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 141.541,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 141.752,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 142.003,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 142.257,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 142.517,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 142.764,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 143.002,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 143.262,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 143.53,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 143.771,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 144.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 144.263,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 144.527,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 144.754,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 145.004,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 145.265,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 145.524,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 145.758,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 146.017,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 146.276,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 146.509,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 146.767,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 147.0,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 147.259,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 147.527,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 147.77,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 148.011,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 148.277,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 148.501,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 148.761,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 149.019,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 149.254,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 149.514,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 149.774,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 150.009,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 150.267,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 150.501,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 150.76,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 151.018,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 151.252,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 151.511,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 151.774,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 152.006,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 152.278,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 152.513,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 152.773,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 153.007,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 153.269,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 153.503,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 153.763,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 154.024,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 154.258,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 154.517,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 154.775,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 155.009,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 155.269,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 155.503,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 155.763,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 156.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 156.254,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 156.513,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 156.774,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 157.01,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 157.27,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 157.503,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 157.762,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 158.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 158.256,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 158.516,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 158.774,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 159.007,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 159.267,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 159.5,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 159.762,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 160.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 160.256,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 160.517,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 160.752,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 161.012,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 161.285,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 161.522,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 161.756,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 162.018,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 162.252,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 162.512,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 162.772,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 163.005,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 163.264,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 163.522,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 163.757,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 164.019,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 164.251,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 164.51,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 164.771,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 165.006,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 165.267,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 165.502,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 165.761,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 166.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 166.254,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 166.513,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 166.773,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 167.005,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 167.265,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 167.524,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 167.759,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 168.019,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 168.253,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 168.512,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 168.772,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 169.005,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 169.264,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 169.524,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 169.758,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 170.019,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 170.253,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 170.512,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 170.77,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 171.002,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 171.261,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 171.52,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 171.753,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 172.012,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 172.268,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 172.504,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 172.765,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 173.026,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 173.259,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 173.518,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 173.753,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 174.012,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 174.272,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 174.506,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 174.765,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 175.025,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 175.26,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 175.518,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 175.754,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 176.015,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 176.276,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 176.51,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 176.769,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 177.003,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 177.263,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 177.525,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 177.76,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 178.022,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 178.257,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 178.518,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 178.753,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 179.014,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 179.275,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 179.508,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 179.767,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 180.001,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 180.26,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 180.521,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 180.755,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 181.013,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 181.274,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 181.508,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 181.768,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 182.004,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 182.265,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 182.525,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 182.758,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 183.018,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 183.254,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 183.514,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 183.774,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 184.008,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 184.267,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 184.5,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 184.761,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 185.023,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 189.013,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 193.005,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 197.017,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 201.011,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 205.02,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 209.006,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 213.013,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 217.016,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 221.002,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 225.019,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 229.017,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 233.001,
+      "action": "SCREENSHOT request",
+      "value": null
+    }
+  ],
+  "retroarch_sha256": "81c11b6f24932bf7918f05eee8928035bff3887335fd2a081507c75e9d94d06a",
+  "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "rom_sha256": "465937ccd256a189ebfda217e798e33cb09b467b347ba0eb513014a8ecf750f4",
+  "host_subtitle_code": false,
+  "core_memory_writes": false,
+  "run_directory": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005",
+  "capture_times": [
+    {
+      "completed_seconds": 56.052,
+      "png_mtime_ns": 1791141781876889800,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141781876889800.png"
+    },
+    {
+      "completed_seconds": 59.238,
+      "png_mtime_ns": 1791141785070647800,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141785070647800.png"
+    },
+    {
+      "completed_seconds": 62.087,
+      "png_mtime_ns": 1791141787916534300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141787916534300.png"
+    },
+    {
+      "completed_seconds": 65.207,
+      "png_mtime_ns": 1791141791039952200,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141791039952200.png"
+    },
+    {
+      "completed_seconds": 68.417,
+      "png_mtime_ns": 1791141794244800000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141794244800000.png"
+    },
+    {
+      "completed_seconds": 71.144,
+      "png_mtime_ns": 1791141796977549300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141796977549300.png"
+    },
+    {
+      "completed_seconds": 74.095,
+      "png_mtime_ns": 1791141799930035200,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141799930035200.png"
+    },
+    {
+      "completed_seconds": 77.194,
+      "png_mtime_ns": 1791141803026525400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141803026525400.png"
+    },
+    {
+      "completed_seconds": 79.169,
+      "png_mtime_ns": 1791141805001645900,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141805001645900.png"
+    },
+    {
+      "completed_seconds": 82.231,
+      "png_mtime_ns": 1791141808057515400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141808057515400.png"
+    },
+    {
+      "completed_seconds": 85.711,
+      "png_mtime_ns": 1791141811543446300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141811543446300.png"
+    },
+    {
+      "completed_seconds": 105.343,
+      "png_mtime_ns": 1791141831177124100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141831177124100.png"
+    },
+    {
+      "completed_seconds": 109.33,
+      "png_mtime_ns": 1791141835161515400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141835161515400.png"
+    },
+    {
+      "completed_seconds": 114.607,
+      "png_mtime_ns": 1791141840435458600,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141840435458600.png"
+    },
+    {
+      "completed_seconds": 118.609,
+      "png_mtime_ns": 1791141844439671100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141844439671100.png"
+    },
+    {
+      "completed_seconds": 122.615,
+      "png_mtime_ns": 1791141848447460100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141848447460100.png"
+    },
+    {
+      "completed_seconds": 126.672,
+      "png_mtime_ns": 1791141852505086400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141852505086400.png"
+    },
+    {
+      "completed_seconds": 128.172,
+      "png_mtime_ns": 1791141854006524700,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141854006524700.png"
+    },
+    {
+      "completed_seconds": 129.626,
+      "png_mtime_ns": 1791141855456184900,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141855456184900.png"
+    },
+    {
+      "completed_seconds": 131.214,
+      "png_mtime_ns": 1791141857047008000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141857047008000.png"
+    },
+    {
+      "completed_seconds": 134.488,
+      "png_mtime_ns": 1791141860315269000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141860315269000.png"
+    },
+    {
+      "completed_seconds": 136.671,
+      "png_mtime_ns": 1791141862487487000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141862487487000.png"
+    },
+    {
+      "completed_seconds": 138.679,
+      "png_mtime_ns": 1791141864504421100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141864504421100.png"
+    },
+    {
+      "completed_seconds": 141.754,
+      "png_mtime_ns": 1791141867560877500,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141867560877500.png"
+    },
+    {
+      "completed_seconds": 143.971,
+      "png_mtime_ns": 1791141869788843400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141869788843400.png"
+    },
+    {
+      "completed_seconds": 145.998,
+      "png_mtime_ns": 1791141871826233500,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141871826233500.png"
+    },
+    {
+      "completed_seconds": 147.419,
+      "png_mtime_ns": 1791141873250407000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141873250407000.png"
+    },
+    {
+      "completed_seconds": 149.091,
+      "png_mtime_ns": 1791141874924215400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141874924215400.png"
+    },
+    {
+      "completed_seconds": 150.818,
+      "png_mtime_ns": 1791141876645196600,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141876645196600.png"
+    },
+    {
+      "completed_seconds": 152.358,
+      "png_mtime_ns": 1791141878185929900,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141878185929900.png"
+    },
+    {
+      "completed_seconds": 153.928,
+      "png_mtime_ns": 1791141879761150700,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141879761150700.png"
+    },
+    {
+      "completed_seconds": 155.553,
+      "png_mtime_ns": 1791141881385197800,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141881385197800.png"
+    },
+    {
+      "completed_seconds": 157.139,
+      "png_mtime_ns": 1791141882969789500,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141882969789500.png"
+    },
+    {
+      "completed_seconds": 158.771,
+      "png_mtime_ns": 1791141884604004900,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141884604004900.png"
+    },
+    {
+      "completed_seconds": 160.288,
+      "png_mtime_ns": 1791141886116519100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141886116519100.png"
+    },
+    {
+      "completed_seconds": 161.751,
+      "png_mtime_ns": 1791141887583728100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141887583728100.png"
+    },
+    {
+      "completed_seconds": 163.435,
+      "png_mtime_ns": 1791141889264336000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141889264336000.png"
+    },
+    {
+      "completed_seconds": 165.241,
+      "png_mtime_ns": 1791141891069195500,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141891069195500.png"
+    },
+    {
+      "completed_seconds": 166.67,
+      "png_mtime_ns": 1791141892499698700,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141892499698700.png"
+    },
+    {
+      "completed_seconds": 168.111,
+      "png_mtime_ns": 1791141893945099400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141893945099400.png"
+    },
+    {
+      "completed_seconds": 169.608,
+      "png_mtime_ns": 1791141895435482100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141895435482100.png"
+    },
+    {
+      "completed_seconds": 171.116,
+      "png_mtime_ns": 1791141896948378300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141896948378300.png"
+    },
+    {
+      "completed_seconds": 172.791,
+      "png_mtime_ns": 1791141898624024000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141898624024000.png"
+    },
+    {
+      "completed_seconds": 174.298,
+      "png_mtime_ns": 1791141900131922700,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141900131922700.png"
+    },
+    {
+      "completed_seconds": 175.643,
+      "png_mtime_ns": 1791141901475529600,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141901475529600.png"
+    },
+    {
+      "completed_seconds": 177.174,
+      "png_mtime_ns": 1791141902998848000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141902998848000.png"
+    },
+    {
+      "completed_seconds": 178.943,
+      "png_mtime_ns": 1791141904770780800,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141904770780800.png"
+    },
+    {
+      "completed_seconds": 180.574,
+      "png_mtime_ns": 1791141906406222200,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141906406222200.png"
+    },
+    {
+      "completed_seconds": 181.921,
+      "png_mtime_ns": 1791141907753469200,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141907753469200.png"
+    },
+    {
+      "completed_seconds": 183.426,
+      "png_mtime_ns": 1791141909260607300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141909260607300.png"
+    },
+    {
+      "completed_seconds": 184.887,
+      "png_mtime_ns": 1791141910713465700,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141910713465700.png"
+    },
+    {
+      "completed_seconds": 186.686,
+      "png_mtime_ns": 1791141912517737000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141912517737000.png"
+    },
+    {
+      "completed_seconds": 190.522,
+      "png_mtime_ns": 1791141916349688300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141916349688300.png"
+    },
+    {
+      "completed_seconds": 194.431,
+      "png_mtime_ns": 1791141920262302900,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141920262302900.png"
+    },
+    {
+      "completed_seconds": 198.642,
+      "png_mtime_ns": 1791141924474940000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141924474940000.png"
+    },
+    {
+      "completed_seconds": 202.446,
+      "png_mtime_ns": 1791141928276203300,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141928276203300.png"
+    },
+    {
+      "completed_seconds": 206.596,
+      "png_mtime_ns": 1791141932428983500,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141932428983500.png"
+    },
+    {
+      "completed_seconds": 210.655,
+      "png_mtime_ns": 1791141936484232000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141936484232000.png"
+    },
+    {
+      "completed_seconds": 214.638,
+      "png_mtime_ns": 1791141940469638100,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141940469638100.png"
+    },
+    {
+      "completed_seconds": 218.629,
+      "png_mtime_ns": 1791141944457298200,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141944457298200.png"
+    },
+    {
+      "completed_seconds": 222.488,
+      "png_mtime_ns": 1791141948313473400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141948313473400.png"
+    },
+    {
+      "completed_seconds": 226.436,
+      "png_mtime_ns": 1791141952265710400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141952265710400.png"
+    },
+    {
+      "completed_seconds": 230.304,
+      "png_mtime_ns": 1791141956136452700,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141956136452700.png"
+    },
+    {
+      "completed_seconds": 234.297,
+      "png_mtime_ns": 1791141960127719000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141960127719000.png"
+    }
+  ],
+  "capture_requests": [
+    {
+      "seconds": 55.004
+    },
+    {
+      "seconds": 58.022
+    },
+    {
+      "seconds": 61.001
+    },
+    {
+      "seconds": 64.004
+    },
+    {
+      "seconds": 67.012
+    },
+    {
+      "seconds": 70.02
+    },
+    {
+      "seconds": 73.0
+    },
+    {
+      "seconds": 76.002
+    },
+    {
+      "seconds": 79.003
+    },
+    {
+      "seconds": 82.022
+    },
+    {
+      "seconds": 85.02
+    },
+    {
+      "seconds": 105.018
+    },
+    {
+      "seconds": 109.007
+    },
+    {
+      "seconds": 113.018
+    },
+    {
+      "seconds": 117.022
+    },
+    {
+      "seconds": 121.001
+    },
+    {
+      "seconds": 125.01
+    },
+    {
+      "seconds": 125.27
+    },
+    {
+      "seconds": 125.504
+    },
+    {
+      "seconds": 125.763
+    },
+    {
+      "seconds": 126.023
+    },
+    {
+      "seconds": 126.256
+    },
+    {
+      "seconds": 126.515
+    },
+    {
+      "seconds": 126.773
+    },
+    {
+      "seconds": 127.007
+    },
+    {
+      "seconds": 127.266
+    },
+    {
+      "seconds": 127.5
+    },
+    {
+      "seconds": 127.759
+    },
+    {
+      "seconds": 128.019
+    },
+    {
+      "seconds": 128.253
+    },
+    {
+      "seconds": 128.511
+    },
+    {
+      "seconds": 128.77
+    },
+    {
+      "seconds": 129.004
+    },
+    {
+      "seconds": 129.264
+    },
+    {
+      "seconds": 129.524
+    },
+    {
+      "seconds": 129.756
+    },
+    {
+      "seconds": 130.014
+    },
+    {
+      "seconds": 132.955
+    },
+    {
+      "seconds": 132.982
+    },
+    {
+      "seconds": 133.008
+    },
+    {
+      "seconds": 133.034
+    },
+    {
+      "seconds": 133.06
+    },
+    {
+      "seconds": 133.086
+    },
+    {
+      "seconds": 133.112
+    },
+    {
+      "seconds": 133.139
+    },
+    {
+      "seconds": 133.166
+    },
+    {
+      "seconds": 133.192
+    },
+    {
+      "seconds": 133.219
+    },
+    {
+      "seconds": 133.246
+    },
+    {
+      "seconds": 133.273
+    },
+    {
+      "seconds": 133.504
+    },
+    {
+      "seconds": 133.761
+    },
+    {
+      "seconds": 134.018
+    },
+    {
+      "seconds": 134.276
+    },
+    {
+      "seconds": 134.509
+    },
+    {
+      "seconds": 134.768
+    },
+    {
+      "seconds": 135.002
+    },
+    {
+      "seconds": 135.272
+    },
+    {
+      "seconds": 135.524
+    },
+    {
+      "seconds": 135.782
+    },
+    {
+      "seconds": 136.019
+    },
+    {
+      "seconds": 136.274
+    },
+    {
+      "seconds": 136.521
+    },
+    {
+      "seconds": 136.775
+    },
+    {
+      "seconds": 137.021
+    },
+    {
+      "seconds": 137.274
+    },
+    {
+      "seconds": 137.511
+    },
+    {
+      "seconds": 137.769
+    },
+    {
+      "seconds": 138.026
+    },
+    {
+      "seconds": 138.262
+    },
+    {
+      "seconds": 138.535
+    },
+    {
+      "seconds": 138.75
+    },
+    {
+      "seconds": 139.008
+    },
+    {
+      "seconds": 139.268
+    },
+    {
+      "seconds": 139.524
+    },
+    {
+      "seconds": 139.772
+    },
+    {
+      "seconds": 140.016
+    },
+    {
+      "seconds": 140.252
+    },
+    {
+      "seconds": 140.556
+    },
+    {
+      "seconds": 140.787
+    },
+    {
+      "seconds": 141.033
+    },
+    {
+      "seconds": 141.28
+    },
+    {
+      "seconds": 141.541
+    },
+    {
+      "seconds": 141.752
+    },
+    {
+      "seconds": 142.003
+    },
+    {
+      "seconds": 142.257
+    },
+    {
+      "seconds": 142.517
+    },
+    {
+      "seconds": 142.764
+    },
+    {
+      "seconds": 143.002
+    },
+    {
+      "seconds": 143.261
+    },
+    {
+      "seconds": 143.53
+    },
+    {
+      "seconds": 143.771
+    },
+    {
+      "seconds": 144.021
+    },
+    {
+      "seconds": 144.263
+    },
+    {
+      "seconds": 144.527
+    },
+    {
+      "seconds": 144.754
+    },
+    {
+      "seconds": 145.004
+    },
+    {
+      "seconds": 145.265
+    },
+    {
+      "seconds": 145.524
+    },
+    {
+      "seconds": 145.758
+    },
+    {
+      "seconds": 146.017
+    },
+    {
+      "seconds": 146.275
+    },
+    {
+      "seconds": 146.509
+    },
+    {
+      "seconds": 146.767
+    },
+    {
+      "seconds": 147.0
+    },
+    {
+      "seconds": 147.259
+    },
+    {
+      "seconds": 147.527
+    },
+    {
+      "seconds": 147.77
+    },
+    {
+      "seconds": 148.011
+    },
+    {
+      "seconds": 148.277
+    },
+    {
+      "seconds": 148.501
+    },
+    {
+      "seconds": 148.761
+    },
+    {
+      "seconds": 149.019
+    },
+    {
+      "seconds": 149.253
+    },
+    {
+      "seconds": 149.514
+    },
+    {
+      "seconds": 149.774
+    },
+    {
+      "seconds": 150.009
+    },
+    {
+      "seconds": 150.267
+    },
+    {
+      "seconds": 150.501
+    },
+    {
+      "seconds": 150.76
+    },
+    {
+      "seconds": 151.018
+    },
+    {
+      "seconds": 151.252
+    },
+    {
+      "seconds": 151.511
+    },
+    {
+      "seconds": 151.774
+    },
+    {
+      "seconds": 152.006
+    },
+    {
+      "seconds": 152.278
+    },
+    {
+      "seconds": 152.513
+    },
+    {
+      "seconds": 152.772
+    },
+    {
+      "seconds": 153.007
+    },
+    {
+      "seconds": 153.268
+    },
+    {
+      "seconds": 153.503
+    },
+    {
+      "seconds": 153.762
+    },
+    {
+      "seconds": 154.023
+    },
+    {
+      "seconds": 154.258
+    },
+    {
+      "seconds": 154.517
+    },
+    {
+      "seconds": 154.775
+    },
+    {
+      "seconds": 155.009
+    },
+    {
+      "seconds": 155.269
+    },
+    {
+      "seconds": 155.503
+    },
+    {
+      "seconds": 155.763
+    },
+    {
+      "seconds": 156.021
+    },
+    {
+      "seconds": 156.254
+    },
+    {
+      "seconds": 156.513
+    },
+    {
+      "seconds": 156.774
+    },
+    {
+      "seconds": 157.01
+    },
+    {
+      "seconds": 157.27
+    },
+    {
+      "seconds": 157.503
+    },
+    {
+      "seconds": 157.762
+    },
+    {
+      "seconds": 158.021
+    },
+    {
+      "seconds": 158.256
+    },
+    {
+      "seconds": 158.516
+    },
+    {
+      "seconds": 158.774
+    },
+    {
+      "seconds": 159.007
+    },
+    {
+      "seconds": 159.267
+    },
+    {
+      "seconds": 159.5
+    },
+    {
+      "seconds": 159.762
+    },
+    {
+      "seconds": 160.021
+    },
+    {
+      "seconds": 160.256
+    },
+    {
+      "seconds": 160.517
+    },
+    {
+      "seconds": 160.752
+    },
+    {
+      "seconds": 161.012
+    },
+    {
+      "seconds": 161.285
+    },
+    {
+      "seconds": 161.522
+    },
+    {
+      "seconds": 161.756
+    },
+    {
+      "seconds": 162.017
+    },
+    {
+      "seconds": 162.252
+    },
+    {
+      "seconds": 162.512
+    },
+    {
+      "seconds": 162.772
+    },
+    {
+      "seconds": 163.005
+    },
+    {
+      "seconds": 163.264
+    },
+    {
+      "seconds": 163.522
+    },
+    {
+      "seconds": 163.757
+    },
+    {
+      "seconds": 164.019
+    },
+    {
+      "seconds": 164.251
+    },
+    {
+      "seconds": 164.51
+    },
+    {
+      "seconds": 164.771
+    },
+    {
+      "seconds": 165.006
+    },
+    {
+      "seconds": 165.267
+    },
+    {
+      "seconds": 165.502
+    },
+    {
+      "seconds": 165.761
+    },
+    {
+      "seconds": 166.021
+    },
+    {
+      "seconds": 166.254
+    },
+    {
+      "seconds": 166.513
+    },
+    {
+      "seconds": 166.772
+    },
+    {
+      "seconds": 167.005
+    },
+    {
+      "seconds": 167.265
+    },
+    {
+      "seconds": 167.524
+    },
+    {
+      "seconds": 167.759
+    },
+    {
+      "seconds": 168.019
+    },
+    {
+      "seconds": 168.253
+    },
+    {
+      "seconds": 168.512
+    },
+    {
+      "seconds": 168.772
+    },
+    {
+      "seconds": 169.005
+    },
+    {
+      "seconds": 169.264
+    },
+    {
+      "seconds": 169.524
+    },
+    {
+      "seconds": 169.758
+    },
+    {
+      "seconds": 170.019
+    },
+    {
+      "seconds": 170.253
+    },
+    {
+      "seconds": 170.512
+    },
+    {
+      "seconds": 170.77
+    },
+    {
+      "seconds": 171.002
+    },
+    {
+      "seconds": 171.261
+    },
+    {
+      "seconds": 171.52
+    },
+    {
+      "seconds": 171.753
+    },
+    {
+      "seconds": 172.012
+    },
+    {
+      "seconds": 172.268
+    },
+    {
+      "seconds": 172.504
+    },
+    {
+      "seconds": 172.765
+    },
+    {
+      "seconds": 173.026
+    },
+    {
+      "seconds": 173.259
+    },
+    {
+      "seconds": 173.518
+    },
+    {
+      "seconds": 173.753
+    },
+    {
+      "seconds": 174.012
+    },
+    {
+      "seconds": 174.272
+    },
+    {
+      "seconds": 174.506
+    },
+    {
+      "seconds": 174.765
+    },
+    {
+      "seconds": 175.025
+    },
+    {
+      "seconds": 175.26
+    },
+    {
+      "seconds": 175.518
+    },
+    {
+      "seconds": 175.754
+    },
+    {
+      "seconds": 176.015
+    },
+    {
+      "seconds": 176.276
+    },
+    {
+      "seconds": 176.509
+    },
+    {
+      "seconds": 176.769
+    },
+    {
+      "seconds": 177.003
+    },
+    {
+      "seconds": 177.263
+    },
+    {
+      "seconds": 177.525
+    },
+    {
+      "seconds": 177.76
+    },
+    {
+      "seconds": 178.022
+    },
+    {
+      "seconds": 178.257
+    },
+    {
+      "seconds": 178.517
+    },
+    {
+      "seconds": 178.753
+    },
+    {
+      "seconds": 179.014
+    },
+    {
+      "seconds": 179.275
+    },
+    {
+      "seconds": 179.508
+    },
+    {
+      "seconds": 179.767
+    },
+    {
+      "seconds": 180.001
+    },
+    {
+      "seconds": 180.26
+    },
+    {
+      "seconds": 180.521
+    },
+    {
+      "seconds": 180.755
+    },
+    {
+      "seconds": 181.013
+    },
+    {
+      "seconds": 181.274
+    },
+    {
+      "seconds": 181.508
+    },
+    {
+      "seconds": 181.768
+    },
+    {
+      "seconds": 182.004
+    },
+    {
+      "seconds": 182.265
+    },
+    {
+      "seconds": 182.525
+    },
+    {
+      "seconds": 182.758
+    },
+    {
+      "seconds": 183.018
+    },
+    {
+      "seconds": 183.253
+    },
+    {
+      "seconds": 183.514
+    },
+    {
+      "seconds": 183.774
+    },
+    {
+      "seconds": 184.008
+    },
+    {
+      "seconds": 184.267
+    },
+    {
+      "seconds": 184.5
+    },
+    {
+      "seconds": 184.761
+    },
+    {
+      "seconds": 185.023
+    },
+    {
+      "seconds": 189.013
+    },
+    {
+      "seconds": 193.004
+    },
+    {
+      "seconds": 197.017
+    },
+    {
+      "seconds": 201.011
+    },
+    {
+      "seconds": 205.019
+    },
+    {
+      "seconds": 209.006
+    },
+    {
+      "seconds": 213.013
+    },
+    {
+      "seconds": 217.016
+    },
+    {
+      "seconds": 221.002
+    },
+    {
+      "seconds": 225.019
+    },
+    {
+      "seconds": 229.017
+    },
+    {
+      "seconds": 233.001
+    }
+  ],
+  "exit_code": 1,
+  "screenshots": [
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141781876889800.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141785070647800.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141787916534300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141791039952200.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141794244800000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141796977549300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141799930035200.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141803026525400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141805001645900.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141808057515400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141811543446300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141831177124100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141835161515400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141840435458600.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141844439671100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141848447460100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141852505086400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141854006524700.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141855456184900.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141857047008000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141860315269000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141862487487000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141864504421100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141867560877500.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141869788843400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141871826233500.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141873250407000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141874924215400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141876645196600.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141878185929900.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141879761150700.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141881385197800.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141882969789500.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141884604004900.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141886116519100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141887583728100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141889264336000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141891069195500.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141892499698700.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141893945099400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141895435482100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141896948378300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141898624024000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141900131922700.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141901475529600.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141902998848000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141904770780800.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141906406222200.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141907753469200.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141909260607300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141910713465700.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141912517737000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141916349688300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141920262302900.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141924474940000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141928276203300.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141932428983500.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141936484232000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141940469638100.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141944457298200.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141948313473400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141952265710400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141956136452700.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\atlas-uncompressed-20261005\\screenshots\\frame-1791141960127719000.png"
+  ]
+}

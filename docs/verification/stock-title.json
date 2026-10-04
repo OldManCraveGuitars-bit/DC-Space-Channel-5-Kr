@@ -1,0 +1,127 @@
+{
+  "pid": 2704,
+  "command": [
+    "C:\\CODEX\\tools\\RetroArch-1.22.2\\RetroArch-Win64\\retroarch.exe",
+    "-v",
+    "--log-file",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\stock-chd.log",
+    "-c",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\retroarch-test.cfg",
+    "-L",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\flycast_libretro.dll",
+    "<PROJECT>\\output\\Space Channel 5 Korean Native.chd"
+  ],
+  "actions": [
+    {
+      "seconds": 20.046,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 24.079,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 28.009,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 32.042,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 36.066,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 40.086,
+      "action": "SCREENSHOT request",
+      "value": null
+    },
+    {
+      "seconds": 44.021,
+      "action": "SCREENSHOT request",
+      "value": null
+    }
+  ],
+  "retroarch_sha256": "81c11b6f24932bf7918f05eee8928035bff3887335fd2a081507c75e9d94d06a",
+  "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "rom_sha256": "465937ccd256a189ebfda217e798e33cb09b467b347ba0eb513014a8ecf750f4",
+  "host_subtitle_code": false,
+  "core_memory_writes": false,
+  "run_directory": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005",
+  "capture_times": [
+    {
+      "completed_seconds": 20.82,
+      "png_mtime_ns": 1791142684110847600,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142684110847600.png"
+    },
+    {
+      "completed_seconds": 25.128,
+      "png_mtime_ns": 1791142688418080800,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142688418080800.png"
+    },
+    {
+      "completed_seconds": 28.667,
+      "png_mtime_ns": 1791142691951724600,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142691951724600.png"
+    },
+    {
+      "completed_seconds": 32.604,
+      "png_mtime_ns": 1791142695893247000,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142695893247000.png"
+    },
+    {
+      "completed_seconds": 36.342,
+      "png_mtime_ns": 1791142699621271500,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142699621271500.png"
+    },
+    {
+      "completed_seconds": 40.317,
+      "png_mtime_ns": 1791142703595999400,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142703595999400.png"
+    },
+    {
+      "completed_seconds": 44.239,
+      "png_mtime_ns": 1791142707521452600,
+      "path": "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142707521452600.png"
+    }
+  ],
+  "capture_requests": [
+    {
+      "seconds": 20.045
+    },
+    {
+      "seconds": 24.078
+    },
+    {
+      "seconds": 28.009
+    },
+    {
+      "seconds": 32.042
+    },
+    {
+      "seconds": 36.066
+    },
+    {
+      "seconds": 40.086
+    },
+    {
+      "seconds": 44.02
+    }
+  ],
+  "exit_code": 1,
+  "screenshots": [
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142684110847600.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142688418080800.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142691951724600.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142695893247000.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142699621271500.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142703595999400.png",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\runs\\v07-title-20261005\\screenshots\\frame-1791142707521452600.png"
+  ]
+}

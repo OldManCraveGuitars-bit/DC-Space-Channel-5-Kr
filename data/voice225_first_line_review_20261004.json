@@ -1,0 +1,20 @@
+{
+  "id": "VOICEDATA.AFS:225",
+  "segment": 0,
+  "Japanese_and_Korean_text_changed": false,
+  "review_status": "needs_listening",
+  "all_other_saved_records_unchanged": true,
+  "cached_preview_PCM_matches_original": true,
+  "prompt_free_recognition_results": 9,
+  "recognizer_prefix_agreement": "覚え…",
+  "word_ending_unresolved": true,
+  "original_audio_listening_completed": false,
+  "user_report_preserved": true,
+  "runtime_cues": 546,
+  "CSV_rows": 861,
+  "unresolved_recognition_rows": 31,
+  "untranslated_recognition_rows": 20,
+  "runtime_captions_unchanged": true,
+  "original_speed_audio": "work/voice225-first-line-20261004/first-line-original-speed.wav",
+  "slow_review_audio": "work/voice225-first-line-20261004/first-line-slow-0.8.wav"
+}

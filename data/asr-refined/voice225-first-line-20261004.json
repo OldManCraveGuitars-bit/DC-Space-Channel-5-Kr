@@ -1,0 +1,439 @@
+{
+  "id": "VOICEDATA.AFS:225",
+  "segment": 0,
+  "original_ADX_sha256": "0d35094ff55e78191a7309aa2062236f695d340720c3f2661a0d3924162a473d",
+  "before": {
+    "start": 0,
+    "end": 2,
+    "japanese": "覚えてろー！",
+    "korean": "기억해 둬!",
+    "status": "literal_draft",
+    "timing_source": "medium ASR word timestamps"
+  },
+  "user_report": "First line sounds like 위험하잖아~; recheck requested.",
+  "suggested_words_provided_to_ASR": false,
+  "original_audio_listening_completed": false,
+  "original_speed_review_audio": "C:\\CODEX\\space-channel-5-kr\\work\\voice225-first-line-20261004\\first-line-original-speed.wav",
+  "results": [
+    {
+      "recognizer": "reazonspeech-k2-v2",
+      "window": [
+        0,
+        2.8
+      ],
+      "speed": 1,
+      "recognized": "覚えてろ"
+    },
+    {
+      "recognizer": "reazonspeech-k2-v2",
+      "window": [
+        0,
+        5
+      ],
+      "speed": 1,
+      "recognized": "覚えてろっ"
+    },
+    {
+      "recognizer": "reazonspeech-k2-v2",
+      "window": [
+        0,
+        8.5
+      ],
+      "speed": 1,
+      "recognized": "覚えてろムロ星人の疑いが晴れてよかったですね"
+    },
+    {
+      "recognizer": "whisper-small",
+      "window": [
+        0,
+        2.8
+      ],
+      "speed": 1,
+      "recognized": "覚えたらー!",
+      "avg_logprob": [
+        -0.8892132818698884
+      ],
+      "words": [
+        {
+          "start": -0.5,
+          "end": 0.38,
+          "word": "覚",
+          "probability": 0.5833213105797768
+        },
+        {
+          "start": 0.38,
+          "end": 0.62,
+          "word": "え",
+          "probability": 0.37455591559410095
+        },
+        {
+          "start": 0.62,
+          "end": 0.78,
+          "word": "た",
+          "probability": 0.8835513591766357
+        },
+        {
+          "start": 0.78,
+          "end": 1.16,
+          "word": "ら",
+          "probability": 0.7485021352767944
+        },
+        {
+          "start": 1.16,
+          "end": 1.42,
+          "word": "ー!",
+          "probability": 0.27062177658081055
+        }
+      ]
+    },
+    {
+      "recognizer": "whisper-small",
+      "window": [
+        0,
+        5
+      ],
+      "speed": 1,
+      "recognized": "覚えたらー!",
+      "avg_logprob": [
+        -0.9290952086448669
+      ],
+      "words": [
+        {
+          "start": -0.5,
+          "end": 0.38,
+          "word": "覚",
+          "probability": 0.5677481666207314
+        },
+        {
+          "start": 0.38,
+          "end": 0.62,
+          "word": "え",
+          "probability": 0.30221083760261536
+        },
+        {
+          "start": 0.62,
+          "end": 0.78,
+          "word": "た",
+          "probability": 0.8661792874336243
+        },
+        {
+          "start": 0.78,
+          "end": 1.22,
+          "word": "ら",
+          "probability": 0.6428235173225403
+        },
+        {
+          "start": 1.22,
+          "end": 1.52,
+          "word": "ー!",
+          "probability": 0.23264974355697632
+        }
+      ]
+    },
+    {
+      "recognizer": "whisper-small",
+      "window": [
+        0,
+        8.5
+      ],
+      "speed": 1,
+      "recognized": "覚えてるー! もろ成人のお互いが晴れて、よかったですね。",
+      "avg_logprob": [
+        -0.61157619542089,
+        -0.61157619542089
+      ],
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.42,
+          "word": "覚",
+          "probability": 0.6762019693851471
+        },
+        {
+          "start": 0.42,
+          "end": 0.72,
+          "word": "えて",
+          "probability": 0.7891631126403809
+        },
+        {
+          "start": 0.72,
+          "end": 1.26,
+          "word": "る",
+          "probability": 0.323681116104126
+        },
+        {
+          "start": 1.26,
+          "end": 1.5,
+          "word": "ー!",
+          "probability": 0.08646824955940247
+        },
+        {
+          "start": 4.74,
+          "end": 5.08,
+          "word": "も",
+          "probability": 0.08240879327058792
+        },
+        {
+          "start": 5.08,
+          "end": 5.22,
+          "word": "ろ",
+          "probability": 0.9604930281639099
+        },
+        {
+          "start": 5.22,
+          "end": 5.34,
+          "word": "成",
+          "probability": 0.18257969617843628
+        },
+        {
+          "start": 5.34,
+          "end": 5.5,
+          "word": "人",
+          "probability": 0.9634741544723511
+        },
+        {
+          "start": 5.5,
+          "end": 5.62,
+          "word": "の",
+          "probability": 0.9951139688491821
+        },
+        {
+          "start": 5.62,
+          "end": 5.7,
+          "word": "お",
+          "probability": 0.2851926386356354
+        },
+        {
+          "start": 5.7,
+          "end": 5.8,
+          "word": "互",
+          "probability": 0.9902758598327637
+        },
+        {
+          "start": 5.8,
+          "end": 5.92,
+          "word": "い",
+          "probability": 0.9976474642753601
+        },
+        {
+          "start": 5.92,
+          "end": 6.0,
+          "word": "が",
+          "probability": 0.9971808195114136
+        },
+        {
+          "start": 6.0,
+          "end": 6.1,
+          "word": "晴",
+          "probability": 0.8214167654514313
+        },
+        {
+          "start": 6.1,
+          "end": 6.3,
+          "word": "れて、",
+          "probability": 0.9981765747070312
+        },
+        {
+          "start": 6.82,
+          "end": 6.94,
+          "word": "よ",
+          "probability": 0.7041254639625549
+        },
+        {
+          "start": 6.94,
+          "end": 7.12,
+          "word": "かった",
+          "probability": 0.9988033771514893
+        },
+        {
+          "start": 7.12,
+          "end": 7.44,
+          "word": "ですね。",
+          "probability": 0.9948263764381409
+        }
+      ]
+    },
+    {
+      "recognizer": "whisper-medium",
+      "window": [
+        0,
+        2.8
+      ],
+      "speed": 1,
+      "recognized": "覚えてる!",
+      "avg_logprob": [
+        -0.6687426716089249
+      ],
+      "words": [
+        {
+          "start": -0.5,
+          "end": 0.6,
+          "word": "覚",
+          "probability": 0.7693363726139069
+        },
+        {
+          "start": 0.6,
+          "end": 0.86,
+          "word": "えて",
+          "probability": 0.824103832244873
+        },
+        {
+          "start": 0.86,
+          "end": 1.42,
+          "word": "る!",
+          "probability": 0.3872169554233551
+        }
+      ]
+    },
+    {
+      "recognizer": "whisper-medium",
+      "window": [
+        0,
+        5
+      ],
+      "speed": 1,
+      "recognized": "覚えてる!",
+      "avg_logprob": [
+        -0.7061134576797485
+      ],
+      "words": [
+        {
+          "start": -0.5,
+          "end": 0.6,
+          "word": "覚",
+          "probability": 0.7837600409984589
+        },
+        {
+          "start": 0.6,
+          "end": 0.88,
+          "word": "えて",
+          "probability": 0.8529751300811768
+        },
+        {
+          "start": 0.88,
+          "end": 1.5,
+          "word": "る!",
+          "probability": 0.33877426385879517
+        }
+      ]
+    },
+    {
+      "recognizer": "whisper-medium",
+      "window": [
+        0,
+        8.5
+      ],
+      "speed": 1,
+      "recognized": "覚えてる! モロ聖人のお互いが晴れてよかったですね",
+      "avg_logprob": [
+        -0.4231453714547334,
+        -0.4231453714547334
+      ],
+      "words": [
+        {
+          "start": 0.3,
+          "end": 0.6,
+          "word": "覚",
+          "probability": 0.6054647043347359
+        },
+        {
+          "start": 0.6,
+          "end": 0.9,
+          "word": "えて",
+          "probability": 0.9279123544692993
+        },
+        {
+          "start": 0.9,
+          "end": 1.8,
+          "word": "る!",
+          "probability": 0.47829169034957886
+        },
+        {
+          "start": 5.04,
+          "end": 5.18,
+          "word": "モ",
+          "probability": 0.6765857934951782
+        },
+        {
+          "start": 5.18,
+          "end": 5.3,
+          "word": "ロ",
+          "probability": 0.7445939779281616
+        },
+        {
+          "start": 5.3,
+          "end": 5.44,
+          "word": "聖",
+          "probability": 0.6219972893595695
+        },
+        {
+          "start": 5.44,
+          "end": 5.54,
+          "word": "人",
+          "probability": 0.8741913437843323
+        },
+        {
+          "start": 5.54,
+          "end": 5.7,
+          "word": "の",
+          "probability": 0.9486212134361267
+        },
+        {
+          "start": 5.7,
+          "end": 5.76,
+          "word": "お",
+          "probability": 0.7347255349159241
+        },
+        {
+          "start": 5.76,
+          "end": 5.9,
+          "word": "互",
+          "probability": 0.9931565523147583
+        },
+        {
+          "start": 5.9,
+          "end": 5.98,
+          "word": "い",
+          "probability": 0.9993299245834351
+        },
+        {
+          "start": 5.98,
+          "end": 6.08,
+          "word": "が",
+          "probability": 0.9945419430732727
+        },
+        {
+          "start": 6.08,
+          "end": 6.14,
+          "word": "晴",
+          "probability": 0.8200887441635132
+        },
+        {
+          "start": 6.14,
+          "end": 6.72,
+          "word": "れて",
+          "probability": 0.9934588074684143
+        },
+        {
+          "start": 6.72,
+          "end": 7.04,
+          "word": "よ",
+          "probability": 0.3582683205604553
+        },
+        {
+          "start": 7.04,
+          "end": 7.24,
+          "word": "かった",
+          "probability": 0.9988987445831299
+        },
+        {
+          "start": 7.24,
+          "end": 7.58,
+          "word": "ですね",
+          "probability": 0.9903935790061951
+        }
+      ]
+    }
+  ],
+  "review_audio_sample_rate": 44100
+}

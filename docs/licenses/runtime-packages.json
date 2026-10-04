@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Pillow",
+    "version": "12.3.0",
+    "project_urls": [
+      "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+      "Changelog, https://github.com/python-pillow/Pillow/releases",
+      "Documentation, https://pillow.readthedocs.io",
+      "Funding, https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+      "Homepage, https://python-pillow.github.io",
+      "Mastodon, https://fosstodon.org/@pillow",
+      "Source, https://github.com/python-pillow/Pillow"
+    ],
+    "pypi": "https://pypi.org/project/Pillow/12.3.0/"
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.1",
+    "project_urls": [
+      "homepage, https://numpy.org",
+      "documentation, https://numpy.org/doc/",
+      "source, https://github.com/numpy/numpy",
+      "download, https://pypi.org/project/numpy/#files",
+      "tracker, https://github.com/numpy/numpy/issues",
+      "release notes, https://numpy.org/doc/stable/release"
+    ],
+    "pypi": "https://pypi.org/project/numpy/2.5.1/"
+  },
+  {
+    "name": "fonttools",
+    "version": "4.66.1",
+    "project_urls": [],
+    "pypi": "https://pypi.org/project/fonttools/4.66.1/"
+  },
+  {
+    "name": "av",
+    "version": "18.1.0",
+    "project_urls": [
+      "Bug Tracker, https://github.com/PyAV-Org/PyAV/issues",
+      "Source Code, https://github.com/PyAV-Org/PyAV",
+      "homepage, https://pyav.basswood.io"
+    ],
+    "pypi": "https://pypi.org/project/av/18.1.0/"
+  },
+  {
+    "name": "imageio-ffmpeg",
+    "version": "0.6.0",
+    "project_urls": [],
+    "pypi": "https://pypi.org/project/imageio-ffmpeg/0.6.0/"
+  },
+  {
+    "name": "PyInstaller",
+    "version": "6.22.3",
+    "project_urls": [
+      "Homepage, https://pyinstaller.org",
+      "Documentation, https://pyinstaller.org",
+      "Source Code, https://github.com/pyinstaller/pyinstaller",
+      "Release Notes, https://pyinstaller.org/en/stable/CHANGES.html"
+    ],
+    "pypi": "https://pypi.org/project/PyInstaller/6.22.3/"
+  },
+  {
+    "name": "Python",
+    "version": "3.13.15",
+    "source": "https://www.python.org/downloads/source/"
+  }
+]

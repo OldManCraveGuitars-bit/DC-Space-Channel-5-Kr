@@ -1,0 +1,38 @@
+{
+  "version": "v0.7",
+  "success": true,
+  "tracks": [
+    {
+      "number": 1,
+      "sha256": "18ed77c5abd6da6dda783e7765cc427380b11ad3322d716afc303ca04d756e9e",
+      "size": 1992144
+    },
+    {
+      "number": 2,
+      "sha256": "7417c595f21a573674de228cedd73cc636868ae77d14af6829d5b9eeada65010",
+      "size": 1735776
+    },
+    {
+      "number": 3,
+      "sha256": "b9856bf3157a8989ab0d70ffcc9d0b3b4f5cfcbe0b1f7f239e2cdf1d664ee3e3",
+      "size": 30013872
+    },
+    {
+      "number": 4,
+      "sha256": "22c94a31ac57ea8e21de70260fdd8dc50ca0e1613b001720a10dad950b9a4b87",
+      "size": 1382976
+    },
+    {
+      "number": 5,
+      "sha256": "45e1263ead4ffda982cace074b5d4d39d83233247b2be0a4bac6629ed6b1ffd1",
+      "size": 1154011152
+    }
+  ],
+  "original_files_modified": false,
+  "gdi_sha256": "8436b9ebc5b11503f1f0f69090616a57a5b7ca2d5c0696d748e05bdce33f7535",
+  "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\r\nRaw SHA1 verification successful!\r\nOverall SHA1 verification successful!\r\nVerifying, 0.0% complete... \rVerifying, 2.5% complete... \rVerifying, 7.5% complete... \rVerifying, 12.5% complete... \rVerifying, 15.0% complete... \rVerifying, 17.5% complete... \rVerifying, 20.0% complete... \rVerifying, 22.5% complete... \rVerifying, 25.0% complete... \rVerifying, 27.5% complete... \rVerifying, 29.9% complete... \rVerifying, 32.4% complete... \rVerifying, 34.9% complete... \rVerifying, 37.4% complete... \rVerifying, 39.9% complete... \rVerifying, 42.4% complete... \rVerifying, 44.9% complete... \rVerifying, 47.4% complete... \rVerifying, 49.9% complete... \rVerifying, 52.4% complete... \rVerifying, 54.9% complete... \rVerifying, 57.4% complete... \rVerifying, 59.9% complete... \rVerifying, 62.4% complete... \rVerifying, 64.9% complete... \rVerifying, 67.4% complete... \rVerifying, 69.9% complete... \rVerifying, 72.4% complete... \rVerifying, 74.9% complete... \rVerifying, 77.4% complete... \rVerifying, 79.9% complete... \rVerifying, 82.4% complete... \rVerifying, 84.8% complete... \rVerifying, 87.3% complete... \rVerifying, 89.8% complete... \rVerifying, 92.3% complete... \rVerifying, 94.8% complete... \rVerifying, 97.3% complete... \rVerifying, 99.8% complete... \r",
+  "chd_sha256": "465937ccd256a189ebfda217e798e33cb09b467b347ba0eb513014a8ecf750f4",
+  "patcher_exe_sha256": "a96760b7358153909bc764f1331f17bb99cfb0c0ba83f54fccede2b0dd5c8846",
+  "test_method": "Packaged Windows executable CLI, original five BIN tracks, full GDI/CHD generation",
+  "original_hashes_rechecked_after_apply": true
+}

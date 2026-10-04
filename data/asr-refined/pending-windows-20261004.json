@@ -1,0 +1,3546 @@
+[
+  {
+    "id": "ADXDATA_R4.AFS:007",
+    "segment": 0,
+    "window": [
+      0,
+      2.4
+    ],
+    "source_japanese": "お疲れ様でした",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 0,
+    "window": [
+      0.020000000000000018,
+      2.88
+    ],
+    "source_japanese": "うらら、前方から驚く宇宙人が来るぞ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "ウララ! 前方から驚う中陣が来るぞ! 了解!",
+    "avg_logprob": [
+      -0.54437897673675,
+      -0.54437897673675,
+      -0.54437897673675
+    ],
+    "no_speech_prob": [
+      0.307184100151062,
+      0.307184100151062,
+      0.307184100151062
+    ],
+    "words": [
+      {
+        "start": 0.22,
+        "end": 0.5,
+        "word": "ウ",
+        "probability": 0.06480547785758972
+      },
+      {
+        "start": 0.5,
+        "end": 0.56,
+        "word": "ラ",
+        "probability": 0.6091272234916687
+      },
+      {
+        "start": 0.56,
+        "end": 0.82,
+        "word": "ラ!",
+        "probability": 0.8893627524375916
+      },
+      {
+        "start": 1.06,
+        "end": 1.26,
+        "word": "前",
+        "probability": 0.3616008162498474
+      },
+      {
+        "start": 1.26,
+        "end": 1.38,
+        "word": "方",
+        "probability": 0.7115967869758606
+      },
+      {
+        "start": 1.38,
+        "end": 1.54,
+        "word": "から",
+        "probability": 0.997410237789154
+      },
+      {
+        "start": 1.54,
+        "end": 1.72,
+        "word": "驚",
+        "probability": 0.891302615404129
+      },
+      {
+        "start": 1.72,
+        "end": 1.84,
+        "word": "う",
+        "probability": 0.9120216369628906
+      },
+      {
+        "start": 1.84,
+        "end": 1.94,
+        "word": "中",
+        "probability": 0.32794973254203796
+      },
+      {
+        "start": 1.94,
+        "end": 2.08,
+        "word": "陣",
+        "probability": 0.7961825430393219
+      },
+      {
+        "start": 2.08,
+        "end": 2.18,
+        "word": "が",
+        "probability": 0.9902918934822083
+      },
+      {
+        "start": 2.18,
+        "end": 2.26,
+        "word": "来",
+        "probability": 0.8716809153556824
+      },
+      {
+        "start": 2.26,
+        "end": 2.34,
+        "word": "る",
+        "probability": 0.9988561868667603
+      },
+      {
+        "start": 2.34,
+        "end": 2.42,
+        "word": "ぞ!",
+        "probability": 0.9973153471946716
+      },
+      {
+        "start": 2.5,
+        "end": 2.64,
+        "word": "了",
+        "probability": 0.7100374102592468
+      },
+      {
+        "start": 2.64,
+        "end": 2.82,
+        "word": "解!",
+        "probability": 0.9974238872528076
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": 0,
+    "window": [
+      0,
+      1.1551875
+    ],
+    "source_japanese": "入れが悪いぞ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "入れが悪いぞ!",
+    "avg_logprob": [
+      -0.6814929030158303
+    ],
+    "no_speech_prob": [
+      0.2109241932630539
+    ],
+    "words": [
+      {
+        "start": -0.06,
+        "end": 0.22,
+        "word": "入",
+        "probability": 0.031993623822927475
+      },
+      {
+        "start": 0.22,
+        "end": 0.3,
+        "word": "れ",
+        "probability": 0.9787483215332031
+      },
+      {
+        "start": 0.3,
+        "end": 0.44,
+        "word": "が",
+        "probability": 0.9595208168029785
+      },
+      {
+        "start": 0.44,
+        "end": 0.58,
+        "word": "悪",
+        "probability": 0.9941121339797974
+      },
+      {
+        "start": 0.58,
+        "end": 0.72,
+        "word": "い",
+        "probability": 0.9957183003425598
+      },
+      {
+        "start": 0.72,
+        "end": 0.88,
+        "word": "ぞ!",
+        "probability": 0.9900976419448853
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": 0,
+    "window": [
+      0,
+      3.44
+    ],
+    "source_japanese": "だららららららら ん ヨッコン",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "ダラララララララン やっほん!",
+    "avg_logprob": [
+      -0.6916165163642481,
+      -0.6916165163642481
+    ],
+    "no_speech_prob": [
+      0.4009701609611511,
+      0.4009701609611511
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.26,
+        "word": "ダ",
+        "probability": 0.15350720286369324
+      },
+      {
+        "start": 0.26,
+        "end": 0.52,
+        "word": "ラ",
+        "probability": 0.3787557780742645
+      },
+      {
+        "start": 0.52,
+        "end": 0.88,
+        "word": "ラ",
+        "probability": 0.535051167011261
+      },
+      {
+        "start": 0.88,
+        "end": 1.22,
+        "word": "ラ",
+        "probability": 0.9276899099349976
+      },
+      {
+        "start": 1.22,
+        "end": 1.34,
+        "word": "ラ",
+        "probability": 0.9515005946159363
+      },
+      {
+        "start": 1.34,
+        "end": 1.52,
+        "word": "ラ",
+        "probability": 0.9511290192604065
+      },
+      {
+        "start": 1.52,
+        "end": 1.64,
+        "word": "ラ",
+        "probability": 0.935418426990509
+      },
+      {
+        "start": 1.64,
+        "end": 1.7,
+        "word": "ラ",
+        "probability": 0.7664127945899963
+      },
+      {
+        "start": 1.7,
+        "end": 2.0,
+        "word": "ン",
+        "probability": 0.3223657011985779
+      },
+      {
+        "start": 2.0,
+        "end": 2.26,
+        "word": "や",
+        "probability": 0.05031443014740944
+      },
+      {
+        "start": 2.26,
+        "end": 2.38,
+        "word": "っ",
+        "probability": 0.5267776250839233
+      },
+      {
+        "start": 2.38,
+        "end": 2.56,
+        "word": "ほ",
+        "probability": 0.5737901926040649
+      },
+      {
+        "start": 2.56,
+        "end": 2.92,
+        "word": "ん!",
+        "probability": 0.29076656699180603
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": 1,
+    "window": [
+      2.74,
+      3.7231875
+    ],
+    "source_japanese": "dống",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:085",
+    "segment": 0,
+    "window": [
+      0,
+      3.882125
+    ],
+    "source_japanese": "パッパッパラッパララッパー、ヒュー!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "バッバッバッバッバッバッバッ ヒュォォォォォ",
+    "avg_logprob": [
+      -0.7419241408507029
+    ],
+    "no_speech_prob": [
+      0.2767409682273865
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.16,
+        "word": "バ",
+        "probability": 0.13578037917613983
+      },
+      {
+        "start": 0.16,
+        "end": 0.36,
+        "word": "ッ",
+        "probability": 0.8596463799476624
+      },
+      {
+        "start": 0.36,
+        "end": 0.56,
+        "word": "バ",
+        "probability": 0.2687300443649292
+      },
+      {
+        "start": 0.56,
+        "end": 0.82,
+        "word": "ッ",
+        "probability": 0.6034020781517029
+      },
+      {
+        "start": 0.82,
+        "end": 1.02,
+        "word": "バ",
+        "probability": 0.8509082198143005
+      },
+      {
+        "start": 1.02,
+        "end": 1.12,
+        "word": "ッ",
+        "probability": 0.3014259338378906
+      },
+      {
+        "start": 1.12,
+        "end": 1.6,
+        "word": "バ",
+        "probability": 0.8671952486038208
+      },
+      {
+        "start": 1.6,
+        "end": 1.72,
+        "word": "ッ",
+        "probability": 0.5089708566665649
+      },
+      {
+        "start": 1.72,
+        "end": 1.82,
+        "word": "バ",
+        "probability": 0.8789722323417664
+      },
+      {
+        "start": 1.82,
+        "end": 1.82,
+        "word": "ッ",
+        "probability": 0.7985249161720276
+      },
+      {
+        "start": 1.82,
+        "end": 2.28,
+        "word": "バ",
+        "probability": 0.8487441539764404
+      },
+      {
+        "start": 2.28,
+        "end": 2.28,
+        "word": "ッ",
+        "probability": 0.483769029378891
+      },
+      {
+        "start": 2.28,
+        "end": 2.56,
+        "word": "バ",
+        "probability": 0.2879398763179779
+      },
+      {
+        "start": 2.56,
+        "end": 2.92,
+        "word": "ッ",
+        "probability": 0.34872880578041077
+      },
+      {
+        "start": 2.92,
+        "end": 3.12,
+        "word": " ヒ",
+        "probability": 0.2931358814239502
+      },
+      {
+        "start": 3.12,
+        "end": 3.38,
+        "word": "ュ",
+        "probability": 0.9701998829841614
+      },
+      {
+        "start": 3.38,
+        "end": 3.64,
+        "word": "ォ",
+        "probability": 0.20371956564486027
+      },
+      {
+        "start": 3.64,
+        "end": 3.74,
+        "word": "ォ",
+        "probability": 0.605172649025917
+      },
+      {
+        "start": 3.74,
+        "end": 3.74,
+        "word": "ォ",
+        "probability": 0.880031406879425
+      },
+      {
+        "start": 3.74,
+        "end": 4.36,
+        "word": "ォ",
+        "probability": 0.7814538478851318
+      },
+      {
+        "start": 4.36,
+        "end": 4.36,
+        "word": "ォ",
+        "probability": 0.8278211951255798
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:086",
+    "segment": 0,
+    "window": [
+      0,
+      2.4496875
+    ],
+    "source_japanese": "パララララララ、ヒュー!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "パララララララ! シュー!",
+    "avg_logprob": [
+      -0.5380892473108628,
+      -0.5380892473108628
+    ],
+    "no_speech_prob": [
+      0.48265540599823,
+      0.48265540599823
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.24,
+        "word": "パ",
+        "probability": 0.26639142632484436
+      },
+      {
+        "start": 0.24,
+        "end": 0.48,
+        "word": "ラ",
+        "probability": 0.9282298684120178
+      },
+      {
+        "start": 0.48,
+        "end": 0.8,
+        "word": "ラ",
+        "probability": 0.8948066234588623
+      },
+      {
+        "start": 0.8,
+        "end": 1.14,
+        "word": "ラ",
+        "probability": 0.9556527733802795
+      },
+      {
+        "start": 1.14,
+        "end": 1.34,
+        "word": "ラ",
+        "probability": 0.9599980711936951
+      },
+      {
+        "start": 1.34,
+        "end": 1.44,
+        "word": "ラ",
+        "probability": 0.9466465711593628
+      },
+      {
+        "start": 1.44,
+        "end": 1.74,
+        "word": "ラ!",
+        "probability": 0.737228512763977
+      },
+      {
+        "start": 1.84,
+        "end": 2.08,
+        "word": "シ",
+        "probability": 0.3153204619884491
+      },
+      {
+        "start": 2.08,
+        "end": 2.18,
+        "word": "ュ",
+        "probability": 0.9962911605834961
+      },
+      {
+        "start": 2.18,
+        "end": 2.34,
+        "word": "ー!",
+        "probability": 0.47111183404922485
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "source_japanese": "お前、いいわ。ごま。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "お前、いいわ。ごま。",
+    "avg_logprob": [
+      -0.8323565473159155
+    ],
+    "no_speech_prob": [
+      0.18832546472549438
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.14,
+        "word": "お",
+        "probability": 0.8058041930198669
+      },
+      {
+        "start": 0.14,
+        "end": 0.3,
+        "word": "前、",
+        "probability": 0.7591313123703003
+      },
+      {
+        "start": 0.4,
+        "end": 0.52,
+        "word": "いい",
+        "probability": 0.8872367739677429
+      },
+      {
+        "start": 0.52,
+        "end": 0.7,
+        "word": "わ。",
+        "probability": 0.9947816729545593
+      },
+      {
+        "start": 1.2,
+        "end": 1.38,
+        "word": "ご",
+        "probability": 0.2009768933057785
+      },
+      {
+        "start": 1.38,
+        "end": 1.52,
+        "word": "ま。",
+        "probability": 0.7505725026130676
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 3,
+    "window": [
+      8.66,
+      10.76
+    ],
+    "source_japanese": "うらら、コイマコの中から来るぞ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "グララ、小磯箱の中から来るぞ!",
+    "avg_logprob": [
+      -0.5292807847261429
+    ],
+    "no_speech_prob": [
+      0.1940479427576065
+    ],
+    "words": [
+      {
+        "start": 8.7,
+        "end": 8.9,
+        "word": "グ",
+        "probability": 0.06453173607587814
+      },
+      {
+        "start": 8.9,
+        "end": 8.98,
+        "word": "ラ",
+        "probability": 0.9730175137519836
+      },
+      {
+        "start": 8.98,
+        "end": 9.08,
+        "word": "ラ、",
+        "probability": 0.9777816534042358
+      },
+      {
+        "start": 9.16,
+        "end": 9.26,
+        "word": "小",
+        "probability": 0.21477383375167847
+      },
+      {
+        "start": 9.26,
+        "end": 9.3,
+        "word": "磯",
+        "probability": 0.5383334656556448
+      },
+      {
+        "start": 9.3,
+        "end": 9.48,
+        "word": "箱",
+        "probability": 0.9857835471630096
+      },
+      {
+        "start": 9.48,
+        "end": 9.54,
+        "word": "の",
+        "probability": 0.9955423474311829
+      },
+      {
+        "start": 9.54,
+        "end": 9.68,
+        "word": "中",
+        "probability": 0.9931784868240356
+      },
+      {
+        "start": 9.68,
+        "end": 9.88,
+        "word": "から",
+        "probability": 0.8962506651878357
+      },
+      {
+        "start": 9.88,
+        "end": 10.0,
+        "word": "来",
+        "probability": 0.9470669627189636
+      },
+      {
+        "start": 10.0,
+        "end": 10.08,
+        "word": "る",
+        "probability": 0.9871697425842285
+      },
+      {
+        "start": 10.08,
+        "end": 10.18,
+        "word": "ぞ!",
+        "probability": 0.9934192299842834
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 3,
+    "window": [
+      10.2,
+      13.14
+    ],
+    "source_japanese": "うらら、ナセエスカレーターの方から来るぞ。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "うらら!ナセンスカレーターの方から来るぞ!",
+    "avg_logprob": [
+      -0.46318942308425903
+    ],
+    "no_speech_prob": [
+      0.19088736176490784
+    ],
+    "words": [
+      {
+        "start": 10.36,
+        "end": 10.56,
+        "word": "う",
+        "probability": 0.10056644678115845
+      },
+      {
+        "start": 10.56,
+        "end": 10.64,
+        "word": "ら",
+        "probability": 0.8286421298980713
+      },
+      {
+        "start": 10.64,
+        "end": 10.94,
+        "word": "ら!",
+        "probability": 0.8654104471206665
+      },
+      {
+        "start": 11.04,
+        "end": 11.14,
+        "word": "ナ",
+        "probability": 0.20898091793060303
+      },
+      {
+        "start": 11.14,
+        "end": 11.24,
+        "word": "セ",
+        "probability": 0.8585759997367859
+      },
+      {
+        "start": 11.24,
+        "end": 11.32,
+        "word": "ン",
+        "probability": 0.7742785215377808
+      },
+      {
+        "start": 11.32,
+        "end": 11.4,
+        "word": "ス",
+        "probability": 0.9629695415496826
+      },
+      {
+        "start": 11.4,
+        "end": 11.48,
+        "word": "カ",
+        "probability": 0.9803497791290283
+      },
+      {
+        "start": 11.48,
+        "end": 11.58,
+        "word": "レ",
+        "probability": 0.9304088354110718
+      },
+      {
+        "start": 11.58,
+        "end": 11.62,
+        "word": "ー",
+        "probability": 0.9929601550102234
+      },
+      {
+        "start": 11.62,
+        "end": 11.7,
+        "word": "ター",
+        "probability": 0.6622241735458374
+      },
+      {
+        "start": 11.7,
+        "end": 11.76,
+        "word": "の",
+        "probability": 0.9841102361679077
+      },
+      {
+        "start": 11.76,
+        "end": 11.86,
+        "word": "方",
+        "probability": 0.9534569978713989
+      },
+      {
+        "start": 11.86,
+        "end": 12.02,
+        "word": "から",
+        "probability": 0.984147310256958
+      },
+      {
+        "start": 12.02,
+        "end": 12.12,
+        "word": "来",
+        "probability": 0.8847684264183044
+      },
+      {
+        "start": 12.12,
+        "end": 12.2,
+        "word": "る",
+        "probability": 0.997698962688446
+      },
+      {
+        "start": 12.2,
+        "end": 12.3,
+        "word": "ぞ!",
+        "probability": 0.9992138147354126
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 1,
+    "window": [
+      2.4000000000000004,
+      3.62
+    ],
+    "source_japanese": "なんでして?",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "なんでして?",
+    "avg_logprob": [
+      -0.762533324105399
+    ],
+    "no_speech_prob": [
+      0.0669800415635109
+    ],
+    "words": [
+      {
+        "start": 1.9,
+        "end": 2.68,
+        "word": "なん",
+        "probability": 0.4128767251968384
+      },
+      {
+        "start": 2.68,
+        "end": 2.84,
+        "word": "で",
+        "probability": 0.4637289345264435
+      },
+      {
+        "start": 2.84,
+        "end": 3.06,
+        "word": "して?",
+        "probability": 0.8868003487586975
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 5,
+    "window": [
+      13.479999999999999,
+      17.24
+    ],
+    "source_japanese": "私の名前は、ジョー!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "私の名前は ジョー!",
+    "avg_logprob": [
+      -0.5131628002439227,
+      -0.5131628002439227
+    ],
+    "no_speech_prob": [
+      0.2300306111574173,
+      0.2300306111574173
+    ],
+    "words": [
+      {
+        "start": 12.98,
+        "end": 13.96,
+        "word": "私",
+        "probability": 0.5785616636276245
+      },
+      {
+        "start": 13.96,
+        "end": 14.26,
+        "word": "の",
+        "probability": 0.988642156124115
+      },
+      {
+        "start": 14.26,
+        "end": 14.36,
+        "word": "名",
+        "probability": 0.9886051416397095
+      },
+      {
+        "start": 14.36,
+        "end": 14.6,
+        "word": "前",
+        "probability": 0.9972105622291565
+      },
+      {
+        "start": 14.6,
+        "end": 14.76,
+        "word": "は",
+        "probability": 0.9846178293228149
+      },
+      {
+        "start": 14.76,
+        "end": 15.02,
+        "word": "ジ",
+        "probability": 0.2238083928823471
+      },
+      {
+        "start": 15.02,
+        "end": 15.2,
+        "word": "ョ",
+        "probability": 0.9827036261558533
+      },
+      {
+        "start": 15.2,
+        "end": 16.68,
+        "word": "ー!",
+        "probability": 0.5033882260322571
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": 4,
+    "window": [
+      9.2,
+      11.58
+    ],
+    "source_japanese": "うん、じゃがめ。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "うぅん、じゃがめ",
+    "avg_logprob": [
+      -0.9847851233048872
+    ],
+    "no_speech_prob": [
+      0.20900101959705353
+    ],
+    "words": [
+      {
+        "start": 8.7,
+        "end": 9.42,
+        "word": "う",
+        "probability": 0.1619679182767868
+      },
+      {
+        "start": 9.42,
+        "end": 9.72,
+        "word": "ぅ",
+        "probability": 0.6214888393878937
+      },
+      {
+        "start": 9.72,
+        "end": 10.04,
+        "word": "ん、",
+        "probability": 0.304760217666626
+      },
+      {
+        "start": 10.38,
+        "end": 10.62,
+        "word": "じゃ",
+        "probability": 0.5719773769378662
+      },
+      {
+        "start": 10.62,
+        "end": 10.8,
+        "word": "が",
+        "probability": 0.9497073292732239
+      },
+      {
+        "start": 10.8,
+        "end": 11.02,
+        "word": "め",
+        "probability": 0.5703111886978149
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 0,
+    "window": [
+      0.39999999999999997,
+      3.34
+    ],
+    "source_japanese": "よし!スクーパーは血取れたぞ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "よし!スクーパーワッチ取れたぞ!",
+    "avg_logprob": [
+      -0.5015768724329331
+    ],
+    "no_speech_prob": [
+      0.40994158387184143
+    ],
+    "words": [
+      {
+        "start": 0.6,
+        "end": 0.88,
+        "word": "よし!",
+        "probability": 0.2950166165828705
+      },
+      {
+        "start": 1.22,
+        "end": 1.34,
+        "word": "ス",
+        "probability": 0.9085741639137268
+      },
+      {
+        "start": 1.34,
+        "end": 1.42,
+        "word": "ク",
+        "probability": 0.9584421515464783
+      },
+      {
+        "start": 1.42,
+        "end": 1.62,
+        "word": "ーパ",
+        "probability": 0.9396731853485107
+      },
+      {
+        "start": 1.62,
+        "end": 1.76,
+        "word": "ーワ",
+        "probability": 0.778417706489563
+      },
+      {
+        "start": 1.76,
+        "end": 1.82,
+        "word": "ッ",
+        "probability": 0.9349797964096069
+      },
+      {
+        "start": 1.82,
+        "end": 1.92,
+        "word": "チ",
+        "probability": 0.9324051141738892
+      },
+      {
+        "start": 1.92,
+        "end": 2.06,
+        "word": "取",
+        "probability": 0.5132469534873962
+      },
+      {
+        "start": 2.06,
+        "end": 2.2,
+        "word": "れた",
+        "probability": 0.8295890688896179
+      },
+      {
+        "start": 2.2,
+        "end": 2.4,
+        "word": "ぞ!",
+        "probability": 0.9964279532432556
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 7,
+    "window": [
+      21.68,
+      23.86
+    ],
+    "source_japanese": "この映っているのも、何?",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "この写っているのに、あれ?",
+    "avg_logprob": [
+      -0.7790270585280198
+    ],
+    "no_speech_prob": [
+      0.23753227293491364
+    ],
+    "words": [
+      {
+        "start": 21.82,
+        "end": 22.22,
+        "word": "この",
+        "probability": 0.43331342935562134
+      },
+      {
+        "start": 22.22,
+        "end": 22.42,
+        "word": "写",
+        "probability": 0.850051999092102
+      },
+      {
+        "start": 22.42,
+        "end": 22.58,
+        "word": "って",
+        "probability": 0.8799954056739807
+      },
+      {
+        "start": 22.58,
+        "end": 22.7,
+        "word": "いる",
+        "probability": 0.960026741027832
+      },
+      {
+        "start": 22.7,
+        "end": 22.82,
+        "word": "の",
+        "probability": 0.862320601940155
+      },
+      {
+        "start": 22.82,
+        "end": 23.06,
+        "word": "に、",
+        "probability": 0.6103379726409912
+      },
+      {
+        "start": 23.2,
+        "end": 23.4,
+        "word": "あれ?",
+        "probability": 0.10692732781171799
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": 0,
+    "window": [
+      0,
+      2.4
+    ],
+    "source_japanese": "あらかだ脱出!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "あらかだ脱出!",
+    "avg_logprob": [
+      -0.7723997939716686
+    ],
+    "no_speech_prob": [
+      0.5687734484672546
+    ],
+    "words": [
+      {
+        "start": 0.16,
+        "end": 0.48,
+        "word": "あ",
+        "probability": 0.1316019743680954
+      },
+      {
+        "start": 0.48,
+        "end": 0.54,
+        "word": "ら",
+        "probability": 0.9857099056243896
+      },
+      {
+        "start": 0.54,
+        "end": 0.68,
+        "word": "か",
+        "probability": 0.7207784056663513
+      },
+      {
+        "start": 0.68,
+        "end": 0.74,
+        "word": "だ",
+        "probability": 0.855278730392456
+      },
+      {
+        "start": 0.74,
+        "end": 0.9,
+        "word": "脱",
+        "probability": 0.6198545023798943
+      },
+      {
+        "start": 0.9,
+        "end": 1.1,
+        "word": "出!",
+        "probability": 0.9776343107223511
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.48,
+      9.92
+    ],
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "宇宙人、ダンアップクリーズ!",
+    "avg_logprob": [
+      -0.5169050097465515
+    ],
+    "no_speech_prob": [
+      0.45517125725746155
+    ],
+    "words": [
+      {
+        "start": 6.42,
+        "end": 6.86,
+        "word": "宇",
+        "probability": 0.7413639724254608
+      },
+      {
+        "start": 6.86,
+        "end": 6.96,
+        "word": "宙",
+        "probability": 0.997728168964386
+      },
+      {
+        "start": 6.96,
+        "end": 7.12,
+        "word": "人、",
+        "probability": 0.8557397723197937
+      },
+      {
+        "start": 7.34,
+        "end": 7.6,
+        "word": "ダ",
+        "probability": 0.541441798210144
+      },
+      {
+        "start": 7.6,
+        "end": 7.82,
+        "word": "ン",
+        "probability": 0.5832619667053223
+      },
+      {
+        "start": 7.82,
+        "end": 8.0,
+        "word": "ア",
+        "probability": 0.8181948065757751
+      },
+      {
+        "start": 8.0,
+        "end": 8.18,
+        "word": "ップ",
+        "probability": 0.9973652958869934
+      },
+      {
+        "start": 8.18,
+        "end": 8.48,
+        "word": "ク",
+        "probability": 0.9415172338485718
+      },
+      {
+        "start": 8.48,
+        "end": 8.8,
+        "word": "リ",
+        "probability": 0.6418895125389099
+      },
+      {
+        "start": 8.8,
+        "end": 8.96,
+        "word": "ー",
+        "probability": 0.6826695799827576
+      },
+      {
+        "start": 8.96,
+        "end": 9.54,
+        "word": "ズ!",
+        "probability": 0.8923132419586182
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 0,
+    "window": [
+      0.06,
+      3.58
+    ],
+    "source_japanese": "ただの怪しい人形に、リポートは無理だったよね。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "ただなやつい人形に、リポーター無理だったよね。",
+    "avg_logprob": [
+      -0.44405031339688733
+    ],
+    "no_speech_prob": [
+      0.1507413685321808
+    ],
+    "words": [
+      {
+        "start": 0.34,
+        "end": 0.58,
+        "word": "ただ",
+        "probability": 0.8004945516586304
+      },
+      {
+        "start": 0.58,
+        "end": 0.74,
+        "word": "な",
+        "probability": 0.27135857939720154
+      },
+      {
+        "start": 0.74,
+        "end": 0.84,
+        "word": "や",
+        "probability": 0.4516725540161133
+      },
+      {
+        "start": 0.84,
+        "end": 0.96,
+        "word": "つ",
+        "probability": 0.936938464641571
+      },
+      {
+        "start": 0.96,
+        "end": 1.04,
+        "word": "い",
+        "probability": 0.6378914713859558
+      },
+      {
+        "start": 1.04,
+        "end": 1.16,
+        "word": "人",
+        "probability": 0.9474210143089294
+      },
+      {
+        "start": 1.16,
+        "end": 1.32,
+        "word": "形",
+        "probability": 0.9888926148414612
+      },
+      {
+        "start": 1.32,
+        "end": 1.5,
+        "word": "に、",
+        "probability": 0.9559198617935181
+      },
+      {
+        "start": 1.84,
+        "end": 2.0,
+        "word": "リ",
+        "probability": 0.8892611861228943
+      },
+      {
+        "start": 2.0,
+        "end": 2.08,
+        "word": "ポ",
+        "probability": 0.9865286350250244
+      },
+      {
+        "start": 2.08,
+        "end": 2.18,
+        "word": "ー",
+        "probability": 0.9178711771965027
+      },
+      {
+        "start": 2.18,
+        "end": 2.26,
+        "word": "ター",
+        "probability": 0.8876941800117493
+      },
+      {
+        "start": 2.26,
+        "end": 2.4,
+        "word": "無",
+        "probability": 0.9682990312576294
+      },
+      {
+        "start": 2.4,
+        "end": 2.48,
+        "word": "理",
+        "probability": 0.9969979524612427
+      },
+      {
+        "start": 2.48,
+        "end": 2.58,
+        "word": "だ",
+        "probability": 0.9993358254432678
+      },
+      {
+        "start": 2.58,
+        "end": 2.68,
+        "word": "った",
+        "probability": 0.9976587295532227
+      },
+      {
+        "start": 2.68,
+        "end": 2.86,
+        "word": "よね。",
+        "probability": 0.9938878417015076
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.5,
+      16.666875
+    ],
+    "source_japanese": "ビエット!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "ディエクター!",
+    "avg_logprob": [
+      -0.8285296228196886
+    ],
+    "no_speech_prob": [
+      0.2304188460111618
+    ],
+    "words": [
+      {
+        "start": 15.68,
+        "end": 15.98,
+        "word": "デ",
+        "probability": 0.37761199474334717
+      },
+      {
+        "start": 15.98,
+        "end": 16.02,
+        "word": "ィ",
+        "probability": 0.6797825694084167
+      },
+      {
+        "start": 16.02,
+        "end": 16.08,
+        "word": "エ",
+        "probability": 0.7740645408630371
+      },
+      {
+        "start": 16.08,
+        "end": 16.16,
+        "word": "ク",
+        "probability": 0.3835556209087372
+      },
+      {
+        "start": 16.16,
+        "end": 16.38,
+        "word": "ター!",
+        "probability": 0.42819342017173767
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:220",
+    "segment": 7,
+    "window": [
+      22.24,
+      23.333875
+    ],
+    "source_japanese": "ふぅーっ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": 0,
+    "window": [
+      0.38000000000000006,
+      1.94
+    ],
+    "source_japanese": "し、市長!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "し、視聴につっ",
+    "avg_logprob": [
+      -0.8221333135258068
+    ],
+    "no_speech_prob": [
+      0.5235947966575623
+    ],
+    "words": [
+      {
+        "start": -0.12,
+        "end": 0.66,
+        "word": "し、",
+        "probability": 0.15635813772678375
+      },
+      {
+        "start": 0.82,
+        "end": 1.06,
+        "word": "視",
+        "probability": 0.31986644864082336
+      },
+      {
+        "start": 1.06,
+        "end": 1.36,
+        "word": "聴",
+        "probability": 0.9661239981651306
+      },
+      {
+        "start": 1.36,
+        "end": 1.68,
+        "word": "に",
+        "probability": 0.5841034650802612
+      },
+      {
+        "start": 1.68,
+        "end": 1.9,
+        "word": "つ",
+        "probability": 0.6569546461105347
+      },
+      {
+        "start": 1.9,
+        "end": 2.04,
+        "word": "っ",
+        "probability": 0.1535063534975052
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:226",
+    "segment": 0,
+    "window": [
+      0,
+      8.17925
+    ],
+    "source_japanese": "スペースペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:227",
+    "segment": 0,
+    "window": [
+      9.879999999999999,
+      12.18
+    ],
+    "source_japanese": "スペースチャンネル5。スペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 0,
+    "window": [
+      1.14,
+      4.48
+    ],
+    "source_japanese": "スペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 1,
+    "window": [
+      3.7800000000000002,
+      7.5200000000000005
+    ],
+    "source_japanese": "スペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 2,
+    "window": [
+      6.82,
+      7.840000000000001
+    ],
+    "source_japanese": "スペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:229",
+    "segment": 0,
+    "window": [
+      0.26000000000000006,
+      5.466875
+    ],
+    "source_japanese": "スペースチャンネル5。うらら、ヒューズ、モロ星人、スペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "字幕をご覧いただきまして、ご視聴ありがとうございました。",
+    "avg_logprob": [
+      -0.9109409332275391
+    ],
+    "no_speech_prob": [
+      0.5663920044898987
+    ],
+    "words": [
+      {
+        "start": 4.14,
+        "end": 4.66,
+        "word": "字",
+        "probability": 0.0022355136461555958
+      },
+      {
+        "start": 4.66,
+        "end": 4.72,
+        "word": "幕",
+        "probability": 0.9938613176345825
+      },
+      {
+        "start": 4.72,
+        "end": 4.72,
+        "word": "を",
+        "probability": 0.14278653264045715
+      },
+      {
+        "start": 4.72,
+        "end": 4.72,
+        "word": "ご",
+        "probability": 0.39116665720939636
+      },
+      {
+        "start": 4.72,
+        "end": 4.72,
+        "word": "覧",
+        "probability": 0.8559489250183105
+      },
+      {
+        "start": 4.72,
+        "end": 5.38,
+        "word": "いただ",
+        "probability": 0.5116828083992004
+      },
+      {
+        "start": 5.38,
+        "end": 5.38,
+        "word": "き",
+        "probability": 0.8670274019241333
+      },
+      {
+        "start": 5.38,
+        "end": 5.38,
+        "word": "ま",
+        "probability": 0.21626317501068115
+      },
+      {
+        "start": 5.38,
+        "end": 5.5,
+        "word": "して、",
+        "probability": 0.7046462297439575
+      },
+      {
+        "start": 5.5,
+        "end": 5.5,
+        "word": "ご",
+        "probability": 0.20703187584877014
+      },
+      {
+        "start": 5.5,
+        "end": 5.5,
+        "word": "視",
+        "probability": 0.8331710696220398
+      },
+      {
+        "start": 5.5,
+        "end": 5.5,
+        "word": "聴",
+        "probability": 0.9996122121810913
+      },
+      {
+        "start": 5.5,
+        "end": 5.5,
+        "word": "ありがとうございました。",
+        "probability": 0.45352545380592346
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "source_japanese": "マレー、イッ!",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "まれ みっ",
+    "avg_logprob": [
+      -1.1558232456445694
+    ],
+    "no_speech_prob": [
+      0.5570141077041626
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.22,
+        "word": "ま",
+        "probability": 0.14237116277217865
+      },
+      {
+        "start": 0.22,
+        "end": 0.42,
+        "word": "れ",
+        "probability": 0.7913702130317688
+      },
+      {
+        "start": 0.42,
+        "end": 1.14,
+        "word": " み",
+        "probability": 0.21119877323508263
+      },
+      {
+        "start": 1.14,
+        "end": 1.44,
+        "word": "っ",
+        "probability": 0.6422604322433472
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": 0,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "source_japanese": "スペースチャンネル5。うら、ヒューズ、モロ星人、スペースポート。",
+    "model": "small",
+    "language_constraint": "ja",
+    "recognized": "うそ!",
+    "avg_logprob": [
+      -1.069163183371226
+    ],
+    "no_speech_prob": [
+      0.12687651813030243
+    ],
+    "words": [
+      {
+        "start": 1.72,
+        "end": 3.12,
+        "word": "う",
+        "probability": 0.40366432070732117
+      },
+      {
+        "start": 3.12,
+        "end": 4.2,
+        "word": "そ!",
+        "probability": 0.8684654831886292
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "ADXDATA_R4.AFS:007",
+    "segment": 0,
+    "window": [
+      0,
+      2.4
+    ],
+    "source_japanese": "お疲れ様でした",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:009",
+    "segment": 0,
+    "window": [
+      0.020000000000000018,
+      2.88
+    ],
+    "source_japanese": "うらら、前方から驚く宇宙人が来るぞ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "うらら、前方から驚く宇宙人が来るぞ! 了解!",
+    "avg_logprob": [
+      -0.2864416741899082,
+      -0.2864416741899082
+    ],
+    "no_speech_prob": [
+      0.6218605041503906,
+      0.6218605041503906
+    ],
+    "words": [
+      {
+        "start": 0.3,
+        "end": 0.54,
+        "word": "う",
+        "probability": 0.3011479079723358
+      },
+      {
+        "start": 0.54,
+        "end": 0.64,
+        "word": "ら",
+        "probability": 0.8046913743019104
+      },
+      {
+        "start": 0.64,
+        "end": 1.06,
+        "word": "ら、",
+        "probability": 0.9398387670516968
+      },
+      {
+        "start": 1.26,
+        "end": 1.32,
+        "word": "前",
+        "probability": 0.9518855214118958
+      },
+      {
+        "start": 1.32,
+        "end": 1.44,
+        "word": "方",
+        "probability": 0.9953201413154602
+      },
+      {
+        "start": 1.44,
+        "end": 1.58,
+        "word": "から",
+        "probability": 0.9963766932487488
+      },
+      {
+        "start": 1.58,
+        "end": 1.78,
+        "word": "驚",
+        "probability": 0.9742294251918793
+      },
+      {
+        "start": 1.78,
+        "end": 1.88,
+        "word": "く",
+        "probability": 0.8098644018173218
+      },
+      {
+        "start": 1.88,
+        "end": 2.02,
+        "word": "宇",
+        "probability": 0.9093238413333893
+      },
+      {
+        "start": 2.02,
+        "end": 2.02,
+        "word": "宙",
+        "probability": 0.9971184730529785
+      },
+      {
+        "start": 2.02,
+        "end": 2.12,
+        "word": "人",
+        "probability": 0.9931808710098267
+      },
+      {
+        "start": 2.12,
+        "end": 2.24,
+        "word": "が",
+        "probability": 0.9896427989006042
+      },
+      {
+        "start": 2.24,
+        "end": 2.32,
+        "word": "来",
+        "probability": 0.9020683765411377
+      },
+      {
+        "start": 2.32,
+        "end": 2.4,
+        "word": "る",
+        "probability": 0.9986810088157654
+      },
+      {
+        "start": 2.4,
+        "end": 2.48,
+        "word": "ぞ!",
+        "probability": 0.996672511100769
+      },
+      {
+        "start": 2.6,
+        "end": 2.72,
+        "word": "了",
+        "probability": 0.8451979160308838
+      },
+      {
+        "start": 2.72,
+        "end": 2.9,
+        "word": "解!",
+        "probability": 0.9982438087463379
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:055",
+    "segment": 0,
+    "window": [
+      0,
+      1.1551875
+    ],
+    "source_japanese": "入れが悪いぞ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "入れが悪いぞ",
+    "avg_logprob": [
+      -0.41557384729385377
+    ],
+    "no_speech_prob": [
+      0.407460480928421
+    ],
+    "words": [
+      {
+        "start": -0.04,
+        "end": 0.28,
+        "word": "入",
+        "probability": 0.12030968070030212
+      },
+      {
+        "start": 0.28,
+        "end": 0.38,
+        "word": "れ",
+        "probability": 0.9826656579971313
+      },
+      {
+        "start": 0.38,
+        "end": 0.5,
+        "word": "が",
+        "probability": 0.9615362882614136
+      },
+      {
+        "start": 0.5,
+        "end": 0.7,
+        "word": "悪",
+        "probability": 0.9897767305374146
+      },
+      {
+        "start": 0.7,
+        "end": 0.82,
+        "word": "い",
+        "probability": 0.9988424181938171
+      },
+      {
+        "start": 0.82,
+        "end": 1.04,
+        "word": "ぞ",
+        "probability": 0.9914423823356628
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": 0,
+    "window": [
+      0,
+      3.44
+    ],
+    "source_japanese": "だららららららら ん ヨッコン",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "だらららららら〜ん! やっほ〜ん!",
+    "avg_logprob": [
+      -0.7718584083375477,
+      -0.7718584083375477
+    ],
+    "no_speech_prob": [
+      0.6044871807098389,
+      0.6044871807098389
+    ],
+    "words": [
+      {
+        "start": 0.06,
+        "end": 0.42,
+        "word": "だ",
+        "probability": 0.057828351855278015
+      },
+      {
+        "start": 0.42,
+        "end": 0.78,
+        "word": "ら",
+        "probability": 0.5903562307357788
+      },
+      {
+        "start": 0.78,
+        "end": 1.14,
+        "word": "ら",
+        "probability": 0.8954984545707703
+      },
+      {
+        "start": 1.14,
+        "end": 1.34,
+        "word": "ら",
+        "probability": 0.9119113683700562
+      },
+      {
+        "start": 1.34,
+        "end": 1.52,
+        "word": "ら",
+        "probability": 0.9580041170120239
+      },
+      {
+        "start": 1.52,
+        "end": 1.66,
+        "word": "ら",
+        "probability": 0.9670823812484741
+      },
+      {
+        "start": 1.66,
+        "end": 1.8,
+        "word": "ら",
+        "probability": 0.8929243087768555
+      },
+      {
+        "start": 1.8,
+        "end": 2.1,
+        "word": "〜",
+        "probability": 0.016832154244184494
+      },
+      {
+        "start": 2.1,
+        "end": 2.2,
+        "word": "ん!",
+        "probability": 0.46015241742134094
+      },
+      {
+        "start": 2.28,
+        "end": 2.44,
+        "word": "や",
+        "probability": 0.34517163038253784
+      },
+      {
+        "start": 2.44,
+        "end": 2.62,
+        "word": "っ",
+        "probability": 0.9248195290565491
+      },
+      {
+        "start": 2.62,
+        "end": 2.72,
+        "word": "ほ",
+        "probability": 0.9335777759552002
+      },
+      {
+        "start": 2.72,
+        "end": 3.02,
+        "word": "〜",
+        "probability": 0.4403257369995117
+      },
+      {
+        "start": 3.02,
+        "end": 3.14,
+        "word": "ん!",
+        "probability": 0.4433559775352478
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:084",
+    "segment": 1,
+    "window": [
+      2.74,
+      3.7231875
+    ],
+    "source_japanese": "dống",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "ん",
+    "avg_logprob": [
+      -0.91596320271492
+    ],
+    "no_speech_prob": [
+      0.8581179976463318
+    ],
+    "words": [
+      {
+        "start": 2.24,
+        "end": 2.86,
+        "word": "ん",
+        "probability": 0.07222791761159897
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:085",
+    "segment": 0,
+    "window": [
+      0,
+      3.882125
+    ],
+    "source_japanese": "パッパッパラッパララッパー、ヒュー!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "パッパッパラッパララッパー ヒュー",
+    "avg_logprob": [
+      -0.5040190488100051
+    ],
+    "no_speech_prob": [
+      0.7245018482208252
+    ],
+    "words": [
+      {
+        "start": 0.02,
+        "end": 0.44,
+        "word": "パ",
+        "probability": 0.2650817930698395
+      },
+      {
+        "start": 0.44,
+        "end": 0.54,
+        "word": "ッ",
+        "probability": 0.4508778154850006
+      },
+      {
+        "start": 0.54,
+        "end": 0.78,
+        "word": "パ",
+        "probability": 0.8413973450660706
+      },
+      {
+        "start": 0.78,
+        "end": 0.98,
+        "word": "ッ",
+        "probability": 0.631682813167572
+      },
+      {
+        "start": 0.98,
+        "end": 1.08,
+        "word": "パ",
+        "probability": 0.876237690448761
+      },
+      {
+        "start": 1.08,
+        "end": 1.38,
+        "word": "ラ",
+        "probability": 0.7928735017776489
+      },
+      {
+        "start": 1.38,
+        "end": 1.62,
+        "word": "ッ",
+        "probability": 0.7650998830795288
+      },
+      {
+        "start": 1.62,
+        "end": 1.72,
+        "word": "パ",
+        "probability": 0.9585514664649963
+      },
+      {
+        "start": 1.72,
+        "end": 1.9,
+        "word": "ラ",
+        "probability": 0.9569122791290283
+      },
+      {
+        "start": 1.9,
+        "end": 2.3,
+        "word": "ラ",
+        "probability": 0.9444354772567749
+      },
+      {
+        "start": 2.3,
+        "end": 2.8,
+        "word": "ッ",
+        "probability": 0.8818715214729309
+      },
+      {
+        "start": 2.8,
+        "end": 2.98,
+        "word": "パ",
+        "probability": 0.7241562604904175
+      },
+      {
+        "start": 2.98,
+        "end": 3.2,
+        "word": "ー",
+        "probability": 0.6110146045684814
+      },
+      {
+        "start": 3.2,
+        "end": 3.38,
+        "word": " ヒ",
+        "probability": 0.4964957684278488
+      },
+      {
+        "start": 3.38,
+        "end": 3.58,
+        "word": "ュ",
+        "probability": 0.7346083521842957
+      },
+      {
+        "start": 3.58,
+        "end": 3.84,
+        "word": "ー",
+        "probability": 0.9520866870880127
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:086",
+    "segment": 0,
+    "window": [
+      0,
+      2.4496875
+    ],
+    "source_japanese": "パララララララ、ヒュー!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "パラララララー シュー",
+    "avg_logprob": [
+      -0.9251308270863124
+    ],
+    "no_speech_prob": [
+      0.7999057173728943
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.42,
+        "word": "パ",
+        "probability": 0.4712255299091339
+      },
+      {
+        "start": 0.42,
+        "end": 0.7,
+        "word": "ラ",
+        "probability": 0.9093002080917358
+      },
+      {
+        "start": 0.7,
+        "end": 1.02,
+        "word": "ラ",
+        "probability": 0.9885845184326172
+      },
+      {
+        "start": 1.02,
+        "end": 1.24,
+        "word": "ラ",
+        "probability": 0.9648651480674744
+      },
+      {
+        "start": 1.24,
+        "end": 1.52,
+        "word": "ラ",
+        "probability": 0.9608911871910095
+      },
+      {
+        "start": 1.52,
+        "end": 1.82,
+        "word": "ラ",
+        "probability": 0.9298057556152344
+      },
+      {
+        "start": 1.82,
+        "end": 2.08,
+        "word": "ー",
+        "probability": 0.10885574668645859
+      },
+      {
+        "start": 2.16,
+        "end": 2.18,
+        "word": " シ",
+        "probability": 0.34561508893966675
+      },
+      {
+        "start": 2.18,
+        "end": 2.32,
+        "word": "ュ",
+        "probability": 0.9815723896026611
+      },
+      {
+        "start": 2.32,
+        "end": 2.44,
+        "word": "ー",
+        "probability": 0.7562752366065979
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "segment": 0,
+    "window": [
+      0,
+      1.7495
+    ],
+    "source_japanese": "お前、いいわ。ごま。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "お前、いいわ!",
+    "avg_logprob": [
+      -0.5502554045783149
+    ],
+    "no_speech_prob": [
+      0.22519716620445251
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.2,
+        "word": "お",
+        "probability": 0.7185527682304382
+      },
+      {
+        "start": 0.2,
+        "end": 0.4,
+        "word": "前、",
+        "probability": 0.8273540139198303
+      },
+      {
+        "start": 0.54,
+        "end": 0.6,
+        "word": "いい",
+        "probability": 0.867480993270874
+      },
+      {
+        "start": 0.6,
+        "end": 1.1,
+        "word": "わ!",
+        "probability": 0.9513245820999146
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:139",
+    "segment": 3,
+    "window": [
+      8.66,
+      10.76
+    ],
+    "source_japanese": "うらら、コイマコの中から来るぞ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "ブララ、コイマコの中から来るぞ!",
+    "avg_logprob": [
+      -0.4729576375749376
+    ],
+    "no_speech_prob": [
+      0.3398427665233612
+    ],
+    "words": [
+      {
+        "start": 8.76,
+        "end": 8.98,
+        "word": "ブ",
+        "probability": 0.13350199162960052
+      },
+      {
+        "start": 8.98,
+        "end": 9.04,
+        "word": "ラ",
+        "probability": 0.9654459357261658
+      },
+      {
+        "start": 9.04,
+        "end": 9.14,
+        "word": "ラ、",
+        "probability": 0.9293386936187744
+      },
+      {
+        "start": 9.28,
+        "end": 9.28,
+        "word": "コ",
+        "probability": 0.24798765778541565
+      },
+      {
+        "start": 9.28,
+        "end": 9.34,
+        "word": "イ",
+        "probability": 0.7100237607955933
+      },
+      {
+        "start": 9.34,
+        "end": 9.44,
+        "word": "マ",
+        "probability": 0.7242622375488281
+      },
+      {
+        "start": 9.44,
+        "end": 9.52,
+        "word": "コ",
+        "probability": 0.9770961403846741
+      },
+      {
+        "start": 9.52,
+        "end": 9.62,
+        "word": "の",
+        "probability": 0.9269566535949707
+      },
+      {
+        "start": 9.62,
+        "end": 9.76,
+        "word": "中",
+        "probability": 0.9739152789115906
+      },
+      {
+        "start": 9.76,
+        "end": 9.92,
+        "word": "から",
+        "probability": 0.9838947653770447
+      },
+      {
+        "start": 9.92,
+        "end": 10.06,
+        "word": "来",
+        "probability": 0.9415930509567261
+      },
+      {
+        "start": 10.06,
+        "end": 10.14,
+        "word": "る",
+        "probability": 0.998863935470581
+      },
+      {
+        "start": 10.14,
+        "end": 10.26,
+        "word": "ぞ!",
+        "probability": 0.9970865845680237
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:141",
+    "segment": 3,
+    "window": [
+      10.2,
+      13.14
+    ],
+    "source_japanese": "うらら、ナセエスカレーターの方から来るぞ。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "うらら、ナスエスカレーターの方から来るぞ!",
+    "avg_logprob": [
+      -0.4549436095086011
+    ],
+    "no_speech_prob": [
+      0.634591281414032
+    ],
+    "words": [
+      {
+        "start": 10.42,
+        "end": 10.62,
+        "word": "う",
+        "probability": 0.03268083557486534
+      },
+      {
+        "start": 10.62,
+        "end": 10.7,
+        "word": "ら",
+        "probability": 0.9744258522987366
+      },
+      {
+        "start": 10.7,
+        "end": 11.0,
+        "word": "ら、",
+        "probability": 0.9556593894958496
+      },
+      {
+        "start": 11.14,
+        "end": 11.24,
+        "word": "ナ",
+        "probability": 0.23027457296848297
+      },
+      {
+        "start": 11.24,
+        "end": 11.3,
+        "word": "ス",
+        "probability": 0.5879387855529785
+      },
+      {
+        "start": 11.3,
+        "end": 11.3,
+        "word": "エ",
+        "probability": 0.9836106300354004
+      },
+      {
+        "start": 11.3,
+        "end": 11.48,
+        "word": "ス",
+        "probability": 0.9646624326705933
+      },
+      {
+        "start": 11.48,
+        "end": 11.56,
+        "word": "カ",
+        "probability": 0.9928145408630371
+      },
+      {
+        "start": 11.56,
+        "end": 11.64,
+        "word": "レ",
+        "probability": 0.9853120446205139
+      },
+      {
+        "start": 11.64,
+        "end": 11.7,
+        "word": "ー",
+        "probability": 0.9967781901359558
+      },
+      {
+        "start": 11.7,
+        "end": 11.78,
+        "word": "ター",
+        "probability": 0.7257616519927979
+      },
+      {
+        "start": 11.78,
+        "end": 11.82,
+        "word": "の",
+        "probability": 0.972038984298706
+      },
+      {
+        "start": 11.82,
+        "end": 11.9,
+        "word": "方",
+        "probability": 0.8979161381721497
+      },
+      {
+        "start": 11.9,
+        "end": 12.08,
+        "word": "から",
+        "probability": 0.993547260761261
+      },
+      {
+        "start": 12.08,
+        "end": 12.18,
+        "word": "来",
+        "probability": 0.9417905211448669
+      },
+      {
+        "start": 12.18,
+        "end": 12.28,
+        "word": "る",
+        "probability": 0.9992579817771912
+      },
+      {
+        "start": 12.28,
+        "end": 12.42,
+        "word": "ぞ!",
+        "probability": 0.998318076133728
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 1,
+    "window": [
+      2.4000000000000004,
+      3.62
+    ],
+    "source_japanese": "なんでして?",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "なんでして?",
+    "avg_logprob": [
+      -0.7461468151637486
+    ],
+    "no_speech_prob": [
+      0.1317383050918579
+    ],
+    "words": [
+      {
+        "start": 1.9,
+        "end": 2.8,
+        "word": "なん",
+        "probability": 0.4466553330421448
+      },
+      {
+        "start": 2.8,
+        "end": 3.02,
+        "word": "で",
+        "probability": 0.46713805198669434
+      },
+      {
+        "start": 3.02,
+        "end": 3.18,
+        "word": "して?",
+        "probability": 0.7194885015487671
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:144",
+    "segment": 5,
+    "window": [
+      13.479999999999999,
+      17.24
+    ],
+    "source_japanese": "私の名前は、ジョー!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "私の名前は ジョー",
+    "avg_logprob": [
+      -0.5660714919750507,
+      -0.5660714919750507
+    ],
+    "no_speech_prob": [
+      0.20045696198940277,
+      0.20045696198940277
+    ],
+    "words": [
+      {
+        "start": 13.6,
+        "end": 14.14,
+        "word": "私",
+        "probability": 0.673593282699585
+      },
+      {
+        "start": 14.14,
+        "end": 14.36,
+        "word": "の",
+        "probability": 0.9935480952262878
+      },
+      {
+        "start": 14.36,
+        "end": 14.52,
+        "word": "名",
+        "probability": 0.9942500591278076
+      },
+      {
+        "start": 14.52,
+        "end": 14.7,
+        "word": "前",
+        "probability": 0.9875877499580383
+      },
+      {
+        "start": 14.7,
+        "end": 14.84,
+        "word": "は",
+        "probability": 0.997192919254303
+      },
+      {
+        "start": 14.84,
+        "end": 15.16,
+        "word": "ジ",
+        "probability": 0.5342468023300171
+      },
+      {
+        "start": 15.16,
+        "end": 15.48,
+        "word": "ョ",
+        "probability": 0.980562150478363
+      },
+      {
+        "start": 15.48,
+        "end": 16.78,
+        "word": "ー",
+        "probability": 0.4946252107620239
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:148",
+    "segment": 4,
+    "window": [
+      9.2,
+      11.58
+    ],
+    "source_japanese": "うん、じゃがめ。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "んー、じゃがみ",
+    "avg_logprob": [
+      -0.9113398657904731
+    ],
+    "no_speech_prob": [
+      0.44111698865890503
+    ],
+    "words": [
+      {
+        "start": 8.7,
+        "end": 8.72,
+        "word": "ん",
+        "probability": 0.0756610780954361
+      },
+      {
+        "start": 8.72,
+        "end": 10.46,
+        "word": "ー、",
+        "probability": 0.28175294399261475
+      },
+      {
+        "start": 10.64,
+        "end": 10.76,
+        "word": "じゃ",
+        "probability": 0.8030197620391846
+      },
+      {
+        "start": 10.76,
+        "end": 10.96,
+        "word": "が",
+        "probability": 0.9962052702903748
+      },
+      {
+        "start": 10.96,
+        "end": 11.24,
+        "word": "み",
+        "probability": 0.7256950736045837
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 0,
+    "window": [
+      0.39999999999999997,
+      3.34
+    ],
+    "source_japanese": "よし!スクーパーは血取れたぞ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "よし!スクーパーは血取れたぞ!",
+    "avg_logprob": [
+      -0.5573780089616776
+    ],
+    "no_speech_prob": [
+      0.734931468963623
+    ],
+    "words": [
+      {
+        "start": 0.7,
+        "end": 0.96,
+        "word": "よし!",
+        "probability": 0.0446816086769104
+      },
+      {
+        "start": 1.34,
+        "end": 1.44,
+        "word": "ス",
+        "probability": 0.7993957996368408
+      },
+      {
+        "start": 1.44,
+        "end": 1.56,
+        "word": "ク",
+        "probability": 0.9905015230178833
+      },
+      {
+        "start": 1.56,
+        "end": 1.7,
+        "word": "ーパ",
+        "probability": 0.9585925340652466
+      },
+      {
+        "start": 1.7,
+        "end": 1.78,
+        "word": "ー",
+        "probability": 0.876643717288971
+      },
+      {
+        "start": 1.78,
+        "end": 1.86,
+        "word": "は",
+        "probability": 0.5746042728424072
+      },
+      {
+        "start": 1.86,
+        "end": 1.98,
+        "word": "血",
+        "probability": 0.6253900527954102
+      },
+      {
+        "start": 1.98,
+        "end": 2.1,
+        "word": "取",
+        "probability": 0.676862359046936
+      },
+      {
+        "start": 2.1,
+        "end": 2.24,
+        "word": "れた",
+        "probability": 0.9286717176437378
+      },
+      {
+        "start": 2.24,
+        "end": 2.74,
+        "word": "ぞ!",
+        "probability": 0.9980553388595581
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:189",
+    "segment": 7,
+    "window": [
+      21.68,
+      23.86
+    ],
+    "source_japanese": "この映っているのも、何?",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "この映っているもの、何?",
+    "avg_logprob": [
+      -0.6841365645329157
+    ],
+    "no_speech_prob": [
+      0.40804845094680786
+    ],
+    "words": [
+      {
+        "start": 21.76,
+        "end": 22.28,
+        "word": "この",
+        "probability": 0.5591128468513489
+      },
+      {
+        "start": 22.28,
+        "end": 22.54,
+        "word": "映",
+        "probability": 0.8318085670471191
+      },
+      {
+        "start": 22.54,
+        "end": 22.66,
+        "word": "って",
+        "probability": 0.8790016174316406
+      },
+      {
+        "start": 22.66,
+        "end": 22.8,
+        "word": "いる",
+        "probability": 0.9919887185096741
+      },
+      {
+        "start": 22.8,
+        "end": 23.06,
+        "word": "もの、",
+        "probability": 0.2962403893470764
+      },
+      {
+        "start": 23.36,
+        "end": 23.44,
+        "word": "何?",
+        "probability": 0.4628455936908722
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:195",
+    "segment": 0,
+    "window": [
+      0,
+      2.4
+    ],
+    "source_japanese": "あらかだ脱出!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "あらかだ脱出!",
+    "avg_logprob": [
+      -0.5861107869581743
+    ],
+    "no_speech_prob": [
+      0.6534950137138367
+    ],
+    "words": [
+      {
+        "start": 0.3,
+        "end": 0.54,
+        "word": "あ",
+        "probability": 0.27640920877456665
+      },
+      {
+        "start": 0.54,
+        "end": 0.64,
+        "word": "ら",
+        "probability": 0.9665173292160034
+      },
+      {
+        "start": 0.64,
+        "end": 0.74,
+        "word": "か",
+        "probability": 0.7348788976669312
+      },
+      {
+        "start": 0.74,
+        "end": 0.84,
+        "word": "だ",
+        "probability": 0.5508821606636047
+      },
+      {
+        "start": 0.84,
+        "end": 0.96,
+        "word": "脱",
+        "probability": 0.9701868295669556
+      },
+      {
+        "start": 0.96,
+        "end": 1.24,
+        "word": "出!",
+        "probability": 0.9981701374053955
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:202",
+    "segment": 2,
+    "window": [
+      6.48,
+      9.92
+    ],
+    "source_japanese": "宇宙人、ダウンアップクイズ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "宇宙人、ダウンアップクイズ!",
+    "avg_logprob": [
+      -0.3450302117400699
+    ],
+    "no_speech_prob": [
+      0.5113275051116943
+    ],
+    "words": [
+      {
+        "start": 5.98,
+        "end": 5.98,
+        "word": "宇",
+        "probability": 0.953745573759079
+      },
+      {
+        "start": 5.98,
+        "end": 7.0,
+        "word": "宙",
+        "probability": 0.9996600449085236
+      },
+      {
+        "start": 7.0,
+        "end": 7.4,
+        "word": "人、",
+        "probability": 0.9978166818618774
+      },
+      {
+        "start": 7.74,
+        "end": 7.76,
+        "word": "ダ",
+        "probability": 0.6243761777877808
+      },
+      {
+        "start": 7.76,
+        "end": 7.86,
+        "word": "ウ",
+        "probability": 0.3818337619304657
+      },
+      {
+        "start": 7.86,
+        "end": 8.02,
+        "word": "ン",
+        "probability": 0.8531926274299622
+      },
+      {
+        "start": 8.02,
+        "end": 8.14,
+        "word": "ア",
+        "probability": 0.9754894971847534
+      },
+      {
+        "start": 8.14,
+        "end": 8.34,
+        "word": "ップ",
+        "probability": 0.9997367262840271
+      },
+      {
+        "start": 8.34,
+        "end": 8.66,
+        "word": "ク",
+        "probability": 0.9736465811729431
+      },
+      {
+        "start": 8.66,
+        "end": 8.88,
+        "word": "イ",
+        "probability": 0.8753592371940613
+      },
+      {
+        "start": 8.88,
+        "end": 9.52,
+        "word": "ズ!",
+        "probability": 0.7305228114128113
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 0,
+    "window": [
+      0.06,
+      3.58
+    ],
+    "source_japanese": "ただの怪しい人形に、リポートは無理だったよね。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "ただの怪しい人形に、リポートは無理だったよね",
+    "avg_logprob": [
+      -0.3658628433942795
+    ],
+    "no_speech_prob": [
+      0.29864299297332764
+    ],
+    "words": [
+      {
+        "start": 0.42,
+        "end": 0.66,
+        "word": "ただ",
+        "probability": 0.8846365809440613
+      },
+      {
+        "start": 0.66,
+        "end": 0.78,
+        "word": "の",
+        "probability": 0.9759836792945862
+      },
+      {
+        "start": 0.78,
+        "end": 0.94,
+        "word": "怪",
+        "probability": 0.4452616274356842
+      },
+      {
+        "start": 0.94,
+        "end": 1.06,
+        "word": "しい",
+        "probability": 0.8515927195549011
+      },
+      {
+        "start": 1.06,
+        "end": 1.28,
+        "word": "人",
+        "probability": 0.9946417808532715
+      },
+      {
+        "start": 1.28,
+        "end": 1.36,
+        "word": "形",
+        "probability": 0.9819658398628235
+      },
+      {
+        "start": 1.36,
+        "end": 1.88,
+        "word": "に、",
+        "probability": 0.9793094396591187
+      },
+      {
+        "start": 2.0,
+        "end": 2.1,
+        "word": "リ",
+        "probability": 0.8538690209388733
+      },
+      {
+        "start": 2.1,
+        "end": 2.18,
+        "word": "ポ",
+        "probability": 0.9973328113555908
+      },
+      {
+        "start": 2.18,
+        "end": 2.3,
+        "word": "ート",
+        "probability": 0.7549337148666382
+      },
+      {
+        "start": 2.3,
+        "end": 2.38,
+        "word": "は",
+        "probability": 0.9869630932807922
+      },
+      {
+        "start": 2.38,
+        "end": 2.46,
+        "word": "無",
+        "probability": 0.9827448725700378
+      },
+      {
+        "start": 2.46,
+        "end": 2.56,
+        "word": "理",
+        "probability": 0.9977610111236572
+      },
+      {
+        "start": 2.56,
+        "end": 2.66,
+        "word": "だ",
+        "probability": 0.9965477585792542
+      },
+      {
+        "start": 2.66,
+        "end": 2.76,
+        "word": "った",
+        "probability": 0.9993619322776794
+      },
+      {
+        "start": 2.76,
+        "end": 3.06,
+        "word": "よね",
+        "probability": 0.9916491508483887
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:214",
+    "segment": 3,
+    "window": [
+      15.5,
+      16.666875
+    ],
+    "source_japanese": "ビエット!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "ディエクター!",
+    "avg_logprob": [
+      -0.890279663933648
+    ],
+    "no_speech_prob": [
+      0.25139471888542175
+    ],
+    "words": [
+      {
+        "start": 15.66,
+        "end": 16.06,
+        "word": "デ",
+        "probability": 0.07270796597003937
+      },
+      {
+        "start": 16.06,
+        "end": 16.14,
+        "word": "ィ",
+        "probability": 0.774357795715332
+      },
+      {
+        "start": 16.14,
+        "end": 16.14,
+        "word": "エ",
+        "probability": 0.5139251947402954
+      },
+      {
+        "start": 16.14,
+        "end": 16.32,
+        "word": "ク",
+        "probability": 0.8805086612701416
+      },
+      {
+        "start": 16.32,
+        "end": 16.52,
+        "word": "ター!",
+        "probability": 0.55673748254776
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:220",
+    "segment": 7,
+    "window": [
+      22.24,
+      23.333875
+    ],
+    "source_japanese": "ふぅーっ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "segment": 0,
+    "window": [
+      0.38000000000000006,
+      1.94
+    ],
+    "source_japanese": "し、市長!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "視聴人さん",
+    "avg_logprob": [
+      -0.7010473683476448
+    ],
+    "no_speech_prob": [
+      0.24070008099079132
+    ],
+    "words": [
+      {
+        "start": 0.64,
+        "end": 1.24,
+        "word": "視",
+        "probability": 0.2684723734855652
+      },
+      {
+        "start": 1.24,
+        "end": 1.54,
+        "word": "聴",
+        "probability": 0.9598211050033569
+      },
+      {
+        "start": 1.54,
+        "end": 1.84,
+        "word": "人",
+        "probability": 0.37044960260391235
+      },
+      {
+        "start": 1.84,
+        "end": 2.02,
+        "word": "さん",
+        "probability": 0.25426390767097473
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:226",
+    "segment": 0,
+    "window": [
+      0,
+      8.17925
+    ],
+    "source_japanese": "スペースペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:227",
+    "segment": 0,
+    "window": [
+      9.879999999999999,
+      12.18
+    ],
+    "source_japanese": "スペースチャンネル5。スペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 0,
+    "window": [
+      1.14,
+      4.48
+    ],
+    "source_japanese": "スペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "ご視聴ありがとうございました",
+    "avg_logprob": [
+      -0.7824587672948837
+    ],
+    "no_speech_prob": [
+      0.8791744709014893
+    ],
+    "words": [
+      {
+        "start": 0.64,
+        "end": 2.34,
+        "word": "ご",
+        "probability": 0.009913533926010132
+      },
+      {
+        "start": 2.34,
+        "end": 3.92,
+        "word": "視",
+        "probability": 0.9437551498413086
+      },
+      {
+        "start": 3.92,
+        "end": 4.48,
+        "word": "聴",
+        "probability": 0.9998829066753387
+      },
+      {
+        "start": 4.48,
+        "end": 4.82,
+        "word": "ありがとうございました",
+        "probability": 0.8486101627349854
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 1,
+    "window": [
+      3.7800000000000002,
+      7.5200000000000005
+    ],
+    "source_japanese": "スペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:228",
+    "segment": 2,
+    "window": [
+      6.82,
+      7.840000000000001
+    ],
+    "source_japanese": "スペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "ご視聴ありがとうございました",
+    "avg_logprob": [
+      -0.7465281635522842
+    ],
+    "no_speech_prob": [
+      0.8871784210205078
+    ],
+    "words": [
+      {
+        "start": 6.32,
+        "end": 7.14,
+        "word": "ご",
+        "probability": 0.003358562709763646
+      },
+      {
+        "start": 7.14,
+        "end": 7.14,
+        "word": "視",
+        "probability": 0.935604453086853
+      },
+      {
+        "start": 7.14,
+        "end": 7.86,
+        "word": "聴",
+        "probability": 0.9999254941940308
+      },
+      {
+        "start": 7.86,
+        "end": 8.0,
+        "word": "ありがとうございました",
+        "probability": 0.8201141357421875
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:229",
+    "segment": 0,
+    "window": [
+      0.26000000000000006,
+      5.466875
+    ],
+    "source_japanese": "スペースチャンネル5。うらら、ヒューズ、モロ星人、スペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "",
+    "avg_logprob": [],
+    "no_speech_prob": [],
+    "words": [],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "segment": 0,
+    "window": [
+      0,
+      1.66675
+    ],
+    "source_japanese": "マレー、イッ!",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "マレー、イッ!",
+    "avg_logprob": [
+      -0.9236282229423523
+    ],
+    "no_speech_prob": [
+      0.6500182747840881
+    ],
+    "words": [
+      {
+        "start": -0.5,
+        "end": 0.32,
+        "word": "マ",
+        "probability": 0.1771288514137268
+      },
+      {
+        "start": 0.32,
+        "end": 0.72,
+        "word": "レ",
+        "probability": 0.5561301112174988
+      },
+      {
+        "start": 0.72,
+        "end": 1.12,
+        "word": "ー、",
+        "probability": 0.7440030574798584
+      },
+      {
+        "start": 1.16,
+        "end": 1.24,
+        "word": "イ",
+        "probability": 0.12201986461877823
+      },
+      {
+        "start": 1.24,
+        "end": 1.46,
+        "word": "ッ!",
+        "probability": 0.7778103947639465
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  },
+  {
+    "id": "VOICEDATA.AFS:250",
+    "segment": 0,
+    "window": [
+      0,
+      5.0003125
+    ],
+    "source_japanese": "スペースチャンネル5。うら、ヒューズ、モロ星人、スペースポート。",
+    "model": "medium",
+    "language_constraint": "ja",
+    "recognized": "うざっ!",
+    "avg_logprob": [
+      -1.4662422793252128
+    ],
+    "no_speech_prob": [
+      0.2972732484340668
+    ],
+    "words": [
+      {
+        "start": 3.36,
+        "end": 4.16,
+        "word": "う",
+        "probability": 0.22372475266456604
+      },
+      {
+        "start": 4.16,
+        "end": 4.34,
+        "word": "ざ",
+        "probability": 0.13128216564655304
+      },
+      {
+        "start": 4.34,
+        "end": 4.96,
+        "word": "っ!",
+        "probability": 0.274181991815567
+      }
+    ],
+    "original_audio_listening_completed": false,
+    "translations_modified": false
+  }
+]

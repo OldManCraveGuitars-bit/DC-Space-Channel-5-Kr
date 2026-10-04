@@ -1,0 +1,13 @@
+work/
+output/
+.deps/
+__pycache__/
+*.pyc
+*.exe
+*.chd
+*.bin
+*.cue
+*.gdi
+*.afs
+*.pvm
+*.zip

@@ -1,0 +1,3024 @@
+[
+  {
+    "id": "VOICEDATA.AFS:087",
+    "model": "small",
+    "passage": [
+      0,
+      1.663
+    ],
+    "start": 0.0,
+    "end": 1.32,
+    "japanese": "はい! ドララゾクト!",
+    "avg_logprob": -0.8429093956947327,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.24,
+        "word": "はい!",
+        "probability": 0.6871538758277893
+      },
+      {
+        "start": 0.66,
+        "end": 0.74,
+        "word": " ド",
+        "probability": 0.11187470704317093
+      },
+      {
+        "start": 0.74,
+        "end": 0.82,
+        "word": "ラ",
+        "probability": 0.7635471224784851
+      },
+      {
+        "start": 0.82,
+        "end": 0.96,
+        "word": "ラ",
+        "probability": 0.6268724799156189
+      },
+      {
+        "start": 0.96,
+        "end": 1.08,
+        "word": "ゾ",
+        "probability": 0.36218177527189255
+      },
+      {
+        "start": 1.08,
+        "end": 1.16,
+        "word": "ク",
+        "probability": 0.7714658975601196
+      },
+      {
+        "start": 1.16,
+        "end": 1.32,
+        "word": "ト!",
+        "probability": 0.9020839929580688
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "model": "small",
+    "passage": [
+      0,
+      1.749
+    ],
+    "start": 0.0,
+    "end": 1.62,
+    "japanese": "おまえいいわ、おまえ",
+    "avg_logprob": -0.7935668627421061,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.14,
+        "word": "お",
+        "probability": 0.8217725157737732
+      },
+      {
+        "start": 0.14,
+        "end": 0.26,
+        "word": "ま",
+        "probability": 0.33218708634376526
+      },
+      {
+        "start": 0.26,
+        "end": 0.38,
+        "word": "え",
+        "probability": 0.623112678527832
+      },
+      {
+        "start": 0.38,
+        "end": 0.52,
+        "word": "いい",
+        "probability": 0.43441569805145264
+      },
+      {
+        "start": 0.52,
+        "end": 0.7,
+        "word": "わ、",
+        "probability": 0.9903342127799988
+      },
+      {
+        "start": 1.22,
+        "end": 1.38,
+        "word": "お",
+        "probability": 0.40824228525161743
+      },
+      {
+        "start": 1.38,
+        "end": 1.5,
+        "word": "ま",
+        "probability": 0.7966120839118958
+      },
+      {
+        "start": 1.5,
+        "end": 1.62,
+        "word": "え",
+        "probability": 0.23945461213588715
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:178",
+    "model": "small",
+    "passage": [
+      0,
+      2.733
+    ],
+    "start": 0.3,
+    "end": 2.4,
+    "japanese": "2席軍が来るぞ!Aボタン連打用意!",
+    "avg_logprob": -0.43875450179690406,
+    "words": [
+      {
+        "start": 0.3,
+        "end": 0.54,
+        "word": "2",
+        "probability": 0.23697784543037415
+      },
+      {
+        "start": 0.54,
+        "end": 0.68,
+        "word": "席",
+        "probability": 0.6636663675308228
+      },
+      {
+        "start": 0.68,
+        "end": 0.82,
+        "word": "軍",
+        "probability": 0.7684532403945923
+      },
+      {
+        "start": 0.82,
+        "end": 0.9,
+        "word": "が",
+        "probability": 0.8843498229980469
+      },
+      {
+        "start": 0.9,
+        "end": 1.0,
+        "word": "来",
+        "probability": 0.8634486198425293
+      },
+      {
+        "start": 1.0,
+        "end": 1.08,
+        "word": "る",
+        "probability": 0.9960044026374817
+      },
+      {
+        "start": 1.08,
+        "end": 1.18,
+        "word": "ぞ!",
+        "probability": 0.9992902278900146
+      },
+      {
+        "start": 1.44,
+        "end": 1.6,
+        "word": "A",
+        "probability": 0.3231757581233978
+      },
+      {
+        "start": 1.6,
+        "end": 1.66,
+        "word": "ボ",
+        "probability": 0.6017138957977295
+      },
+      {
+        "start": 1.66,
+        "end": 1.78,
+        "word": "タ",
+        "probability": 0.9813233613967896
+      },
+      {
+        "start": 1.78,
+        "end": 1.86,
+        "word": "ン",
+        "probability": 0.9112154841423035
+      },
+      {
+        "start": 1.86,
+        "end": 2.02,
+        "word": "連",
+        "probability": 0.9205079078674316
+      },
+      {
+        "start": 2.02,
+        "end": 2.14,
+        "word": "打",
+        "probability": 0.7110049724578857
+      },
+      {
+        "start": 2.14,
+        "end": 2.28,
+        "word": "用",
+        "probability": 0.8957810401916504
+      },
+      {
+        "start": 2.28,
+        "end": 2.4,
+        "word": "意!",
+        "probability": 0.9950887560844421
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:244",
+    "model": "small",
+    "passage": [
+      0,
+      1.991
+    ],
+    "start": 0.0,
+    "end": 1.76,
+    "japanese": "よし!うららぞくとー!",
+    "avg_logprob": -0.49352068167466384,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.44,
+        "word": "よし!",
+        "probability": 0.7050467729568481
+      },
+      {
+        "start": 0.82,
+        "end": 0.92,
+        "word": "う",
+        "probability": 0.19712331891059875
+      },
+      {
+        "start": 0.92,
+        "end": 1.0,
+        "word": "ら",
+        "probability": 0.9341873526573181
+      },
+      {
+        "start": 1.0,
+        "end": 1.14,
+        "word": "ら",
+        "probability": 0.9561436772346497
+      },
+      {
+        "start": 1.14,
+        "end": 1.24,
+        "word": "ぞ",
+        "probability": 0.8085759282112122
+      },
+      {
+        "start": 1.24,
+        "end": 1.34,
+        "word": "く",
+        "probability": 0.5410786271095276
+      },
+      {
+        "start": 1.34,
+        "end": 1.54,
+        "word": "と",
+        "probability": 0.5666772127151489
+      },
+      {
+        "start": 1.54,
+        "end": 1.76,
+        "word": "ー!",
+        "probability": 0.46797528862953186
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:245",
+    "model": "small",
+    "passage": [
+      0,
+      0.76
+    ],
+    "start": 0.0,
+    "end": 0.6,
+    "japanese": "俺ら、拷販!",
+    "avg_logprob": -0.9085448221726851,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.14,
+        "word": "俺",
+        "probability": 0.1036083921790123
+      },
+      {
+        "start": 0.14,
+        "end": 0.24,
+        "word": "ら、",
+        "probability": 0.9726735353469849
+      },
+      {
+        "start": 0.34,
+        "end": 0.48,
+        "word": "拷",
+        "probability": 0.4843619614839554
+      },
+      {
+        "start": 0.48,
+        "end": 0.6,
+        "word": "販!",
+        "probability": 0.4843990355730057
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "model": "small",
+    "passage": [
+      0,
+      1.667
+    ],
+    "start": 0.0,
+    "end": 0.76,
+    "japanese": "マレー!",
+    "avg_logprob": -1.0338658945901054,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.2,
+        "word": "マ",
+        "probability": 0.12158409506082535
+      },
+      {
+        "start": 0.2,
+        "end": 0.4,
+        "word": "レ",
+        "probability": 0.883173942565918
+      },
+      {
+        "start": 0.4,
+        "end": 0.76,
+        "word": "ー!",
+        "probability": 0.5019310712814331
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 0.36,
+    "end": 2.6,
+    "japanese": "し、市長にさぁ…",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 0.36,
+        "end": 0.64,
+        "word": "し、",
+        "probability": 0.11066914349794388
+      },
+      {
+        "start": 0.84,
+        "end": 1.04,
+        "word": "市",
+        "probability": 0.3817402124404907
+      },
+      {
+        "start": 1.04,
+        "end": 1.34,
+        "word": "長",
+        "probability": 0.9638137817382812
+      },
+      {
+        "start": 1.34,
+        "end": 1.66,
+        "word": "に",
+        "probability": 0.7895464897155762
+      },
+      {
+        "start": 1.66,
+        "end": 2.06,
+        "word": "さ",
+        "probability": 0.28152573108673096
+      },
+      {
+        "start": 2.06,
+        "end": 2.6,
+        "word": "ぁ",
+        "probability": 0.2522505521774292
+      },
+      {
+        "start": 2.6,
+        "end": 2.6,
+        "word": "…",
+        "probability": 0.23193588852882385
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 2.9,
+    "end": 5.72,
+    "japanese": "今ら、みんなの踊れ出るゲームあってなら集めるんだ!",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 2.9,
+        "end": 3.18,
+        "word": "今",
+        "probability": 0.46296361088752747
+      },
+      {
+        "start": 3.18,
+        "end": 3.3,
+        "word": "ら、",
+        "probability": 0.6685191988945007
+      },
+      {
+        "start": 3.76,
+        "end": 3.9,
+        "word": "み",
+        "probability": 0.7370558977127075
+      },
+      {
+        "start": 3.9,
+        "end": 4.02,
+        "word": "んな",
+        "probability": 0.9956113696098328
+      },
+      {
+        "start": 4.02,
+        "end": 4.14,
+        "word": "の",
+        "probability": 0.9699484705924988
+      },
+      {
+        "start": 4.14,
+        "end": 4.26,
+        "word": "踊",
+        "probability": 0.930639773607254
+      },
+      {
+        "start": 4.26,
+        "end": 4.38,
+        "word": "れ",
+        "probability": 0.2265259027481079
+      },
+      {
+        "start": 4.38,
+        "end": 4.5,
+        "word": "出",
+        "probability": 0.6930426955223083
+      },
+      {
+        "start": 4.5,
+        "end": 4.64,
+        "word": "る",
+        "probability": 0.8016452193260193
+      },
+      {
+        "start": 4.64,
+        "end": 4.7,
+        "word": "ゲ",
+        "probability": 0.3462800681591034
+      },
+      {
+        "start": 4.7,
+        "end": 4.74,
+        "word": "ーム",
+        "probability": 0.37974318861961365
+      },
+      {
+        "start": 4.74,
+        "end": 4.88,
+        "word": "あ",
+        "probability": 0.257220596075058
+      },
+      {
+        "start": 4.88,
+        "end": 5.0,
+        "word": "って",
+        "probability": 0.9663159251213074
+      },
+      {
+        "start": 5.0,
+        "end": 5.14,
+        "word": "なら",
+        "probability": 0.33910641074180603
+      },
+      {
+        "start": 5.14,
+        "end": 5.36,
+        "word": "集",
+        "probability": 0.9632374048233032
+      },
+      {
+        "start": 5.36,
+        "end": 5.46,
+        "word": "め",
+        "probability": 0.9988641738891602
+      },
+      {
+        "start": 5.46,
+        "end": 5.54,
+        "word": "る",
+        "probability": 0.9970380067825317
+      },
+      {
+        "start": 5.54,
+        "end": 5.72,
+        "word": "んだ!",
+        "probability": 0.9947000741958618
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 6.04,
+    "end": 8.94,
+    "japanese": "了解!ブランク、悪さがすぎたよね!",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 6.04,
+        "end": 6.18,
+        "word": "了",
+        "probability": 0.8916059136390686
+      },
+      {
+        "start": 6.18,
+        "end": 6.34,
+        "word": "解!",
+        "probability": 0.9994006156921387
+      },
+      {
+        "start": 7.08,
+        "end": 7.2,
+        "word": "ブ",
+        "probability": 0.7528542280197144
+      },
+      {
+        "start": 7.2,
+        "end": 7.3,
+        "word": "ラ",
+        "probability": 0.9914703965187073
+      },
+      {
+        "start": 7.3,
+        "end": 7.36,
+        "word": "ン",
+        "probability": 0.9862608313560486
+      },
+      {
+        "start": 7.36,
+        "end": 7.46,
+        "word": "ク、",
+        "probability": 0.9921563863754272
+      },
+      {
+        "start": 7.94,
+        "end": 8.08,
+        "word": "悪",
+        "probability": 0.650364875793457
+      },
+      {
+        "start": 8.08,
+        "end": 8.24,
+        "word": "さ",
+        "probability": 0.7319847345352173
+      },
+      {
+        "start": 8.24,
+        "end": 8.32,
+        "word": "が",
+        "probability": 0.9983554482460022
+      },
+      {
+        "start": 8.32,
+        "end": 8.48,
+        "word": "す",
+        "probability": 0.5126152038574219
+      },
+      {
+        "start": 8.48,
+        "end": 8.54,
+        "word": "ぎ",
+        "probability": 0.9814983010292053
+      },
+      {
+        "start": 8.54,
+        "end": 8.66,
+        "word": "た",
+        "probability": 0.8444226980209351
+      },
+      {
+        "start": 8.66,
+        "end": 8.94,
+        "word": "よね!",
+        "probability": 0.9578625559806824
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 10.08,
+    "end": 12.28,
+    "japanese": "真実を歪める奴は許さん!",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 10.08,
+        "end": 10.36,
+        "word": "真",
+        "probability": 0.7167050242424011
+      },
+      {
+        "start": 10.36,
+        "end": 10.56,
+        "word": "実",
+        "probability": 0.9964717626571655
+      },
+      {
+        "start": 10.56,
+        "end": 10.84,
+        "word": "を",
+        "probability": 0.9990614056587219
+      },
+      {
+        "start": 10.84,
+        "end": 11.04,
+        "word": "歪",
+        "probability": 0.8815208673477173
+      },
+      {
+        "start": 11.04,
+        "end": 11.2,
+        "word": "め",
+        "probability": 0.9929758310317993
+      },
+      {
+        "start": 11.2,
+        "end": 11.3,
+        "word": "る",
+        "probability": 0.9990584254264832
+      },
+      {
+        "start": 11.3,
+        "end": 11.52,
+        "word": "奴",
+        "probability": 0.746100440621376
+      },
+      {
+        "start": 11.52,
+        "end": 11.7,
+        "word": "は",
+        "probability": 0.988167941570282
+      },
+      {
+        "start": 11.7,
+        "end": 11.86,
+        "word": "許",
+        "probability": 0.9483568668365479
+      },
+      {
+        "start": 11.86,
+        "end": 12.1,
+        "word": "さ",
+        "probability": 0.5110620260238647
+      },
+      {
+        "start": 12.1,
+        "end": 12.28,
+        "word": "ん!",
+        "probability": 0.9568729996681213
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 13.18,
+    "end": 16.0,
+    "japanese": "リポーターを、動画扱いする奴も許せない!",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 13.18,
+        "end": 13.46,
+        "word": "リ",
+        "probability": 0.9682399034500122
+      },
+      {
+        "start": 13.46,
+        "end": 13.56,
+        "word": "ポ",
+        "probability": 0.9886932969093323
+      },
+      {
+        "start": 13.56,
+        "end": 13.7,
+        "word": "ー",
+        "probability": 0.9910122156143188
+      },
+      {
+        "start": 13.7,
+        "end": 13.82,
+        "word": "ター",
+        "probability": 0.9648392796516418
+      },
+      {
+        "start": 13.82,
+        "end": 14.12,
+        "word": "を、",
+        "probability": 0.9882957935333252
+      },
+      {
+        "start": 14.32,
+        "end": 14.52,
+        "word": "動画",
+        "probability": 0.9617382287979126
+      },
+      {
+        "start": 14.52,
+        "end": 14.76,
+        "word": "扱",
+        "probability": 0.814372330904007
+      },
+      {
+        "start": 14.76,
+        "end": 14.9,
+        "word": "い",
+        "probability": 0.9562107920646667
+      },
+      {
+        "start": 14.9,
+        "end": 15.04,
+        "word": "する",
+        "probability": 0.8527190089225769
+      },
+      {
+        "start": 15.04,
+        "end": 15.26,
+        "word": "奴",
+        "probability": 0.9803377091884613
+      },
+      {
+        "start": 15.26,
+        "end": 15.4,
+        "word": "も",
+        "probability": 0.9858236312866211
+      },
+      {
+        "start": 15.4,
+        "end": 15.54,
+        "word": "許",
+        "probability": 0.9919096827507019
+      },
+      {
+        "start": 15.54,
+        "end": 15.76,
+        "word": "せ",
+        "probability": 0.9966943264007568
+      },
+      {
+        "start": 15.76,
+        "end": 16.0,
+        "word": "ない!",
+        "probability": 0.9964229464530945
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 20.54,
+    "end": 22.08,
+    "japanese": "さぁ、みんなで一緒に決めるわよ!",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 20.54,
+        "end": 20.82,
+        "word": "さ",
+        "probability": 0.9833321571350098
+      },
+      {
+        "start": 20.82,
+        "end": 20.9,
+        "word": "ぁ、",
+        "probability": 0.5608840584754944
+      },
+      {
+        "start": 20.94,
+        "end": 21.02,
+        "word": "み",
+        "probability": 0.9679424166679382
+      },
+      {
+        "start": 21.02,
+        "end": 21.16,
+        "word": "んな",
+        "probability": 0.9982652068138123
+      },
+      {
+        "start": 21.16,
+        "end": 21.24,
+        "word": "で",
+        "probability": 0.990013837814331
+      },
+      {
+        "start": 21.24,
+        "end": 21.36,
+        "word": "一",
+        "probability": 0.9928513765335083
+      },
+      {
+        "start": 21.36,
+        "end": 21.46,
+        "word": "緒",
+        "probability": 0.9982690811157227
+      },
+      {
+        "start": 21.46,
+        "end": 21.52,
+        "word": "に",
+        "probability": 0.9962904453277588
+      },
+      {
+        "start": 21.52,
+        "end": 21.64,
+        "word": "決",
+        "probability": 0.9800047278404236
+      },
+      {
+        "start": 21.64,
+        "end": 21.7,
+        "word": "め",
+        "probability": 0.9988483190536499
+      },
+      {
+        "start": 21.7,
+        "end": 21.82,
+        "word": "る",
+        "probability": 0.9897485375404358
+      },
+      {
+        "start": 21.82,
+        "end": 21.9,
+        "word": "わ",
+        "probability": 0.9888696670532227
+      },
+      {
+        "start": 21.9,
+        "end": 22.08,
+        "word": "よ!",
+        "probability": 0.9715905785560608
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 23.24,
+    "end": 24.6,
+    "japanese": "タイミングを外すなよ!",
+    "avg_logprob": -0.29470836665450023,
+    "words": [
+      {
+        "start": 23.24,
+        "end": 23.48,
+        "word": "タ",
+        "probability": 0.9342371821403503
+      },
+      {
+        "start": 23.48,
+        "end": 23.56,
+        "word": "イ",
+        "probability": 0.9993426203727722
+      },
+      {
+        "start": 23.56,
+        "end": 23.64,
+        "word": "ミ",
+        "probability": 0.9954740405082703
+      },
+      {
+        "start": 23.64,
+        "end": 23.78,
+        "word": "ング",
+        "probability": 0.9976432919502258
+      },
+      {
+        "start": 23.78,
+        "end": 23.9,
+        "word": "を",
+        "probability": 0.9672282338142395
+      },
+      {
+        "start": 23.9,
+        "end": 24.02,
+        "word": "外",
+        "probability": 0.9736509919166565
+      },
+      {
+        "start": 24.02,
+        "end": 24.22,
+        "word": "す",
+        "probability": 0.9784913063049316
+      },
+      {
+        "start": 24.22,
+        "end": 24.34,
+        "word": "な",
+        "probability": 0.9629481434822083
+      },
+      {
+        "start": 24.34,
+        "end": 24.6,
+        "word": "よ!",
+        "probability": 0.9916252493858337
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "small",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 30.0,
+    "end": 30.44,
+    "japanese": "撃ちます!",
+    "avg_logprob": -0.6583224982023239,
+    "words": [
+      {
+        "start": 30.0,
+        "end": 30.12,
+        "word": "撃",
+        "probability": 0.6781257390975952
+      },
+      {
+        "start": 30.12,
+        "end": 30.24,
+        "word": "ち",
+        "probability": 0.9909144639968872
+      },
+      {
+        "start": 30.24,
+        "end": 30.44,
+        "word": "ます!",
+        "probability": 0.9222263693809509
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "small",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 0.0,
+    "end": 2.0,
+    "japanese": "また来週ー!",
+    "avg_logprob": -0.3095811157051576,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.56,
+        "word": "また",
+        "probability": 0.6499388217926025
+      },
+      {
+        "start": 0.56,
+        "end": 0.82,
+        "word": "来",
+        "probability": 0.9701729416847229
+      },
+      {
+        "start": 0.82,
+        "end": 1.14,
+        "word": "週",
+        "probability": 0.7843344807624817
+      },
+      {
+        "start": 1.14,
+        "end": 2.0,
+        "word": "ー!",
+        "probability": 0.1469617336988449
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "small",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 4.76,
+    "end": 7.54,
+    "japanese": "モロセイジンの疑いが晴れて、よかったですね。",
+    "avg_logprob": -0.3095811157051576,
+    "words": [
+      {
+        "start": 4.76,
+        "end": 5.08,
+        "word": "モ",
+        "probability": 0.5235313177108765
+      },
+      {
+        "start": 5.08,
+        "end": 5.16,
+        "word": "ロ",
+        "probability": 0.9496059417724609
+      },
+      {
+        "start": 5.16,
+        "end": 5.32,
+        "word": "セ",
+        "probability": 0.44258514046669006
+      },
+      {
+        "start": 5.32,
+        "end": 5.38,
+        "word": "イ",
+        "probability": 0.42533066868782043
+      },
+      {
+        "start": 5.38,
+        "end": 5.48,
+        "word": "ジ",
+        "probability": 0.7932917475700378
+      },
+      {
+        "start": 5.48,
+        "end": 5.52,
+        "word": "ン",
+        "probability": 0.9592766761779785
+      },
+      {
+        "start": 5.52,
+        "end": 5.62,
+        "word": "の",
+        "probability": 0.9965544939041138
+      },
+      {
+        "start": 5.62,
+        "end": 5.82,
+        "word": "疑",
+        "probability": 0.8909400403499603
+      },
+      {
+        "start": 5.82,
+        "end": 5.92,
+        "word": "い",
+        "probability": 0.9956230521202087
+      },
+      {
+        "start": 5.92,
+        "end": 6.0,
+        "word": "が",
+        "probability": 0.9981017708778381
+      },
+      {
+        "start": 6.0,
+        "end": 6.1,
+        "word": "晴",
+        "probability": 0.7423396706581116
+      },
+      {
+        "start": 6.1,
+        "end": 6.34,
+        "word": "れて、",
+        "probability": 0.9974836707115173
+      },
+      {
+        "start": 6.7,
+        "end": 6.94,
+        "word": "よ",
+        "probability": 0.770744264125824
+      },
+      {
+        "start": 6.94,
+        "end": 7.12,
+        "word": "かった",
+        "probability": 0.9986880421638489
+      },
+      {
+        "start": 7.12,
+        "end": 7.54,
+        "word": "ですね。",
+        "probability": 0.9963961243629456
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "small",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 8.38,
+    "end": 13.34,
+    "japanese": "以上、モロセイジン周来の新総救命リポート、ウララがお届けしました。",
+    "avg_logprob": -0.3095811157051576,
+    "words": [
+      {
+        "start": 8.38,
+        "end": 8.7,
+        "word": "以上、",
+        "probability": 0.959505021572113
+      },
+      {
+        "start": 9.16,
+        "end": 9.34,
+        "word": "モ",
+        "probability": 0.9786206483840942
+      },
+      {
+        "start": 9.34,
+        "end": 9.4,
+        "word": "ロ",
+        "probability": 0.999377965927124
+      },
+      {
+        "start": 9.4,
+        "end": 9.54,
+        "word": "セ",
+        "probability": 0.9977710247039795
+      },
+      {
+        "start": 9.54,
+        "end": 9.58,
+        "word": "イ",
+        "probability": 0.9985754489898682
+      },
+      {
+        "start": 9.58,
+        "end": 9.72,
+        "word": "ジ",
+        "probability": 0.9952569603919983
+      },
+      {
+        "start": 9.72,
+        "end": 9.82,
+        "word": "ン",
+        "probability": 0.9963610768318176
+      },
+      {
+        "start": 9.82,
+        "end": 9.94,
+        "word": "周",
+        "probability": 0.4786602556705475
+      },
+      {
+        "start": 9.94,
+        "end": 10.1,
+        "word": "来",
+        "probability": 0.7465249300003052
+      },
+      {
+        "start": 10.1,
+        "end": 10.26,
+        "word": "の",
+        "probability": 0.9958823919296265
+      },
+      {
+        "start": 10.26,
+        "end": 10.6,
+        "word": "新",
+        "probability": 0.52391117811203
+      },
+      {
+        "start": 10.6,
+        "end": 10.76,
+        "word": "総",
+        "probability": 0.8297119736671448
+      },
+      {
+        "start": 10.76,
+        "end": 10.94,
+        "word": "救",
+        "probability": 0.43993404507637024
+      },
+      {
+        "start": 10.94,
+        "end": 11.08,
+        "word": "命",
+        "probability": 0.9090914726257324
+      },
+      {
+        "start": 11.08,
+        "end": 11.24,
+        "word": "リ",
+        "probability": 0.8345957398414612
+      },
+      {
+        "start": 11.24,
+        "end": 11.3,
+        "word": "ポ",
+        "probability": 0.9834010004997253
+      },
+      {
+        "start": 11.3,
+        "end": 11.52,
+        "word": "ート、",
+        "probability": 0.9877616167068481
+      },
+      {
+        "start": 12.0,
+        "end": 12.16,
+        "word": "ウ",
+        "probability": 0.5043181777000427
+      },
+      {
+        "start": 12.16,
+        "end": 12.2,
+        "word": "ラ",
+        "probability": 0.9553201794624329
+      },
+      {
+        "start": 12.2,
+        "end": 12.34,
+        "word": "ラ",
+        "probability": 0.9940940737724304
+      },
+      {
+        "start": 12.34,
+        "end": 12.5,
+        "word": "が",
+        "probability": 0.9959243535995483
+      },
+      {
+        "start": 12.5,
+        "end": 12.82,
+        "word": "お",
+        "probability": 0.9820387959480286
+      },
+      {
+        "start": 12.82,
+        "end": 12.88,
+        "word": "届",
+        "probability": 0.9871711134910583
+      },
+      {
+        "start": 12.88,
+        "end": 13.02,
+        "word": "け",
+        "probability": 0.9574142694473267
+      },
+      {
+        "start": 13.02,
+        "end": 13.34,
+        "word": "しました。",
+        "probability": 0.995229959487915
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "small",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 14.18,
+    "end": 15.82,
+    "japanese": "スペースチャネルファイ!",
+    "avg_logprob": -0.3095811157051576,
+    "words": [
+      {
+        "start": 14.18,
+        "end": 14.28,
+        "word": "ス",
+        "probability": 0.47158899903297424
+      },
+      {
+        "start": 14.28,
+        "end": 14.4,
+        "word": "ペ",
+        "probability": 0.975638210773468
+      },
+      {
+        "start": 14.4,
+        "end": 14.64,
+        "word": "ー",
+        "probability": 0.7570735216140747
+      },
+      {
+        "start": 14.64,
+        "end": 14.82,
+        "word": "ス",
+        "probability": 0.9873375296592712
+      },
+      {
+        "start": 14.82,
+        "end": 15.04,
+        "word": "チャ",
+        "probability": 0.318043053150177
+      },
+      {
+        "start": 15.04,
+        "end": 15.14,
+        "word": "ネル",
+        "probability": 0.6026738584041595
+      },
+      {
+        "start": 15.14,
+        "end": 15.4,
+        "word": "フ",
+        "probability": 0.9387363195419312
+      },
+      {
+        "start": 15.4,
+        "end": 15.48,
+        "word": "ァ",
+        "probability": 0.9941930174827576
+      },
+      {
+        "start": 15.48,
+        "end": 15.82,
+        "word": "イ!",
+        "probability": 0.8991175889968872
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "small",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 16.62,
+    "end": 17.94,
+    "japanese": "銀河一よかったぞ、ウララ!",
+    "avg_logprob": -0.3095811157051576,
+    "words": [
+      {
+        "start": 16.62,
+        "end": 16.94,
+        "word": "銀",
+        "probability": 0.7995743155479431
+      },
+      {
+        "start": 16.94,
+        "end": 17.04,
+        "word": "河",
+        "probability": 0.8863499164581299
+      },
+      {
+        "start": 17.04,
+        "end": 17.22,
+        "word": "一",
+        "probability": 0.481122761964798
+      },
+      {
+        "start": 17.22,
+        "end": 17.34,
+        "word": "よ",
+        "probability": 0.3917686939239502
+      },
+      {
+        "start": 17.34,
+        "end": 17.5,
+        "word": "かった",
+        "probability": 0.998950719833374
+      },
+      {
+        "start": 17.5,
+        "end": 17.66,
+        "word": "ぞ、",
+        "probability": 0.9483591914176941
+      },
+      {
+        "start": 17.72,
+        "end": 17.8,
+        "word": "ウ",
+        "probability": 0.986415445804596
+      },
+      {
+        "start": 17.8,
+        "end": 17.8,
+        "word": "ラ",
+        "probability": 0.9980170726776123
+      },
+      {
+        "start": 17.8,
+        "end": 17.94,
+        "word": "ラ!",
+        "probability": 0.9982118606567383
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "small",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 18.52,
+    "end": 21.0,
+    "japanese": "さあみんな、銀河の果てまで更新よ!",
+    "avg_logprob": -0.3095811157051576,
+    "words": [
+      {
+        "start": 18.52,
+        "end": 18.84,
+        "word": "さ",
+        "probability": 0.9845763444900513
+      },
+      {
+        "start": 18.84,
+        "end": 18.9,
+        "word": "あ",
+        "probability": 0.6363292932510376
+      },
+      {
+        "start": 18.9,
+        "end": 19.0,
+        "word": "み",
+        "probability": 0.43274959921836853
+      },
+      {
+        "start": 19.0,
+        "end": 19.2,
+        "word": "んな、",
+        "probability": 0.9179391264915466
+      },
+      {
+        "start": 19.58,
+        "end": 19.88,
+        "word": "銀",
+        "probability": 0.9919427335262299
+      },
+      {
+        "start": 19.88,
+        "end": 19.98,
+        "word": "河",
+        "probability": 0.99981689453125
+      },
+      {
+        "start": 19.98,
+        "end": 20.08,
+        "word": "の",
+        "probability": 0.8615994453430176
+      },
+      {
+        "start": 20.08,
+        "end": 20.18,
+        "word": "果",
+        "probability": 0.8557378053665161
+      },
+      {
+        "start": 20.18,
+        "end": 20.26,
+        "word": "て",
+        "probability": 0.9922054409980774
+      },
+      {
+        "start": 20.26,
+        "end": 20.42,
+        "word": "まで",
+        "probability": 0.9950671195983887
+      },
+      {
+        "start": 20.42,
+        "end": 20.62,
+        "word": "更",
+        "probability": 0.7131054997444153
+      },
+      {
+        "start": 20.62,
+        "end": 20.8,
+        "word": "新",
+        "probability": 0.9911940693855286
+      },
+      {
+        "start": 20.8,
+        "end": 21.0,
+        "word": "よ!",
+        "probability": 0.8955659866333008
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:087",
+    "model": "medium",
+    "passage": [
+      0,
+      1.663
+    ],
+    "start": 0.0,
+    "end": 1.48,
+    "japanese": "はい、うららぞくと!",
+    "avg_logprob": -0.6526422003904978,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.42,
+        "word": "はい、",
+        "probability": 0.6734630465507507
+      },
+      {
+        "start": 0.82,
+        "end": 0.88,
+        "word": "う",
+        "probability": 0.2188378870487213
+      },
+      {
+        "start": 0.88,
+        "end": 0.92,
+        "word": "ら",
+        "probability": 0.9454768300056458
+      },
+      {
+        "start": 0.92,
+        "end": 1.04,
+        "word": "ら",
+        "probability": 0.9650551676750183
+      },
+      {
+        "start": 1.04,
+        "end": 1.16,
+        "word": "ぞ",
+        "probability": 0.673201858997345
+      },
+      {
+        "start": 1.16,
+        "end": 1.34,
+        "word": "く",
+        "probability": 0.47571423649787903
+      },
+      {
+        "start": 1.34,
+        "end": 1.48,
+        "word": "と!",
+        "probability": 0.6728341579437256
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:088",
+    "model": "medium",
+    "passage": [
+      0,
+      1.749
+    ],
+    "start": 0.0,
+    "end": 1.58,
+    "japanese": "お前、いいわ!ごま!",
+    "avg_logprob": -0.5395913968483607,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.24,
+        "word": "お",
+        "probability": 0.8097012639045715
+      },
+      {
+        "start": 0.24,
+        "end": 0.38,
+        "word": "前、",
+        "probability": 0.8350256085395813
+      },
+      {
+        "start": 0.52,
+        "end": 0.62,
+        "word": "いい",
+        "probability": 0.8664040565490723
+      },
+      {
+        "start": 0.62,
+        "end": 1.1,
+        "word": "わ!",
+        "probability": 0.9507601261138916
+      },
+      {
+        "start": 1.38,
+        "end": 1.46,
+        "word": "ご",
+        "probability": 0.6182429790496826
+      },
+      {
+        "start": 1.46,
+        "end": 1.58,
+        "word": "ま!",
+        "probability": 0.5860141515731812
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:178",
+    "model": "medium",
+    "passage": [
+      0,
+      2.733
+    ],
+    "start": 0.32,
+    "end": 2.48,
+    "japanese": "2隻軍が来るぞ!Aボタン連打用意!",
+    "avg_logprob": -0.4393246665596962,
+    "words": [
+      {
+        "start": 0.32,
+        "end": 0.56,
+        "word": "2",
+        "probability": 0.0636509582400322
+      },
+      {
+        "start": 0.56,
+        "end": 0.74,
+        "word": "隻",
+        "probability": 0.34687384963035583
+      },
+      {
+        "start": 0.74,
+        "end": 0.9,
+        "word": "軍",
+        "probability": 0.51939457654953
+      },
+      {
+        "start": 0.9,
+        "end": 1.0,
+        "word": "が",
+        "probability": 0.685495138168335
+      },
+      {
+        "start": 1.0,
+        "end": 1.06,
+        "word": "来",
+        "probability": 0.8619327545166016
+      },
+      {
+        "start": 1.06,
+        "end": 1.14,
+        "word": "る",
+        "probability": 0.9967562556266785
+      },
+      {
+        "start": 1.14,
+        "end": 1.42,
+        "word": "ぞ!",
+        "probability": 0.9974529147148132
+      },
+      {
+        "start": 1.6,
+        "end": 1.66,
+        "word": "A",
+        "probability": 0.8393828272819519
+      },
+      {
+        "start": 1.66,
+        "end": 1.76,
+        "word": "ボ",
+        "probability": 0.9935696125030518
+      },
+      {
+        "start": 1.76,
+        "end": 1.82,
+        "word": "タ",
+        "probability": 0.9962711334228516
+      },
+      {
+        "start": 1.82,
+        "end": 1.98,
+        "word": "ン",
+        "probability": 0.9991787075996399
+      },
+      {
+        "start": 1.98,
+        "end": 2.1,
+        "word": "連",
+        "probability": 0.9362366199493408
+      },
+      {
+        "start": 2.1,
+        "end": 2.18,
+        "word": "打",
+        "probability": 0.9684661626815796
+      },
+      {
+        "start": 2.18,
+        "end": 2.36,
+        "word": "用",
+        "probability": 0.9880174398422241
+      },
+      {
+        "start": 2.36,
+        "end": 2.48,
+        "word": "意!",
+        "probability": 0.9998788833618164
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:244",
+    "model": "medium",
+    "passage": [
+      0,
+      1.991
+    ],
+    "start": 0.0,
+    "end": 1.96,
+    "japanese": "よし、裏らぞくとー!",
+    "avg_logprob": -0.4743971091050368,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.66,
+        "word": "よし、",
+        "probability": 0.6706457138061523
+      },
+      {
+        "start": 0.98,
+        "end": 1.1,
+        "word": "裏",
+        "probability": 0.890002578496933
+      },
+      {
+        "start": 1.1,
+        "end": 1.22,
+        "word": "ら",
+        "probability": 0.30568185448646545
+      },
+      {
+        "start": 1.22,
+        "end": 1.32,
+        "word": "ぞ",
+        "probability": 0.6101653575897217
+      },
+      {
+        "start": 1.32,
+        "end": 1.5,
+        "word": "く",
+        "probability": 0.7390389442443848
+      },
+      {
+        "start": 1.5,
+        "end": 1.66,
+        "word": "と",
+        "probability": 0.5976439118385315
+      },
+      {
+        "start": 1.66,
+        "end": 1.96,
+        "word": "ー!",
+        "probability": 0.37244293093681335
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:245",
+    "model": "medium",
+    "passage": [
+      0,
+      0.76
+    ],
+    "start": 0.0,
+    "end": 0.74,
+    "japanese": "うらら、拒まん!",
+    "avg_logprob": -0.8730350534121195,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.16,
+        "word": "う",
+        "probability": 0.26392585039138794
+      },
+      {
+        "start": 0.16,
+        "end": 0.24,
+        "word": "ら",
+        "probability": 0.7712699174880981
+      },
+      {
+        "start": 0.24,
+        "end": 0.4,
+        "word": "ら、",
+        "probability": 0.8233567476272583
+      },
+      {
+        "start": 0.5,
+        "end": 0.58,
+        "word": "拒",
+        "probability": 0.46463915705680847
+      },
+      {
+        "start": 0.58,
+        "end": 0.62,
+        "word": "ま",
+        "probability": 0.1020854040980339
+      },
+      {
+        "start": 0.62,
+        "end": 0.74,
+        "word": "ん!",
+        "probability": 0.869540810585022
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:247",
+    "model": "medium",
+    "passage": [
+      0,
+      1.667
+    ],
+    "start": 0.0,
+    "end": 1.12,
+    "japanese": "マレー!",
+    "avg_logprob": -0.8112674270357404,
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.36,
+        "word": "マ",
+        "probability": 0.17119455337524414
+      },
+      {
+        "start": 0.36,
+        "end": 0.64,
+        "word": "レ",
+        "probability": 0.5681743025779724
+      },
+      {
+        "start": 0.64,
+        "end": 1.12,
+        "word": "ー!",
+        "probability": 0.8267563581466675
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 0.64,
+    "end": 1.54,
+    "japanese": "市、市長!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 0.64,
+        "end": 0.96,
+        "word": "市、",
+        "probability": 0.20856569707393646
+      },
+      {
+        "start": 0.96,
+        "end": 1.28,
+        "word": "市",
+        "probability": 0.9985532164573669
+      },
+      {
+        "start": 1.28,
+        "end": 1.54,
+        "word": "長!",
+        "probability": 0.9815164804458618
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 2.94,
+    "end": 5.92,
+    "japanese": "今だ!みんなの踊りエネルギーをアンテナに集めるんだ!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 2.94,
+        "end": 3.26,
+        "word": "今",
+        "probability": 0.20369210839271545
+      },
+      {
+        "start": 3.26,
+        "end": 3.58,
+        "word": "だ!",
+        "probability": 0.8656061887741089
+      },
+      {
+        "start": 3.78,
+        "end": 3.98,
+        "word": "み",
+        "probability": 0.7104530334472656
+      },
+      {
+        "start": 3.98,
+        "end": 4.1,
+        "word": "んな",
+        "probability": 0.9966784715652466
+      },
+      {
+        "start": 4.1,
+        "end": 4.22,
+        "word": "の",
+        "probability": 0.9964867830276489
+      },
+      {
+        "start": 4.22,
+        "end": 4.36,
+        "word": "踊",
+        "probability": 0.9340545237064362
+      },
+      {
+        "start": 4.36,
+        "end": 4.48,
+        "word": "り",
+        "probability": 0.991557240486145
+      },
+      {
+        "start": 4.48,
+        "end": 4.54,
+        "word": "エ",
+        "probability": 0.9685123562812805
+      },
+      {
+        "start": 4.54,
+        "end": 4.68,
+        "word": "ネル",
+        "probability": 0.9959391951560974
+      },
+      {
+        "start": 4.68,
+        "end": 4.72,
+        "word": "ギ",
+        "probability": 0.999507486820221
+      },
+      {
+        "start": 4.72,
+        "end": 4.8,
+        "word": "ー",
+        "probability": 0.9942678213119507
+      },
+      {
+        "start": 4.8,
+        "end": 4.92,
+        "word": "を",
+        "probability": 0.9011731147766113
+      },
+      {
+        "start": 4.92,
+        "end": 5.0,
+        "word": "ア",
+        "probability": 0.5323474407196045
+      },
+      {
+        "start": 5.0,
+        "end": 5.12,
+        "word": "ンテ",
+        "probability": 0.9509325921535492
+      },
+      {
+        "start": 5.12,
+        "end": 5.16,
+        "word": "ナ",
+        "probability": 0.9987157583236694
+      },
+      {
+        "start": 5.16,
+        "end": 5.34,
+        "word": "に",
+        "probability": 0.7381962537765503
+      },
+      {
+        "start": 5.34,
+        "end": 5.46,
+        "word": "集",
+        "probability": 0.9947258830070496
+      },
+      {
+        "start": 5.46,
+        "end": 5.54,
+        "word": "め",
+        "probability": 0.9986072182655334
+      },
+      {
+        "start": 5.54,
+        "end": 5.64,
+        "word": "る",
+        "probability": 0.9931568503379822
+      },
+      {
+        "start": 5.64,
+        "end": 5.92,
+        "word": "んだ!",
+        "probability": 0.980293869972229
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 6.14,
+    "end": 6.88,
+    "japanese": "了解!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 6.14,
+        "end": 6.32,
+        "word": "了",
+        "probability": 0.977908194065094
+      },
+      {
+        "start": 6.32,
+        "end": 6.88,
+        "word": "解!",
+        "probability": 0.9992189407348633
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 7.24,
+    "end": 9.0,
+    "japanese": "ブランク、悪さが過ぎたようね!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 7.24,
+        "end": 7.28,
+        "word": "ブ",
+        "probability": 0.9201539158821106
+      },
+      {
+        "start": 7.28,
+        "end": 7.36,
+        "word": "ラ",
+        "probability": 0.9937809109687805
+      },
+      {
+        "start": 7.36,
+        "end": 7.48,
+        "word": "ン",
+        "probability": 0.9956430196762085
+      },
+      {
+        "start": 7.48,
+        "end": 7.78,
+        "word": "ク、",
+        "probability": 0.9973968267440796
+      },
+      {
+        "start": 8.02,
+        "end": 8.16,
+        "word": "悪",
+        "probability": 0.9930964112281799
+      },
+      {
+        "start": 8.16,
+        "end": 8.3,
+        "word": "さ",
+        "probability": 0.994504988193512
+      },
+      {
+        "start": 8.3,
+        "end": 8.46,
+        "word": "が",
+        "probability": 0.9926130771636963
+      },
+      {
+        "start": 8.46,
+        "end": 8.56,
+        "word": "過",
+        "probability": 0.6918932795524597
+      },
+      {
+        "start": 8.56,
+        "end": 8.66,
+        "word": "ぎ",
+        "probability": 0.9993394017219543
+      },
+      {
+        "start": 8.66,
+        "end": 8.78,
+        "word": "た",
+        "probability": 0.9908986687660217
+      },
+      {
+        "start": 8.78,
+        "end": 8.94,
+        "word": "よう",
+        "probability": 0.4420756697654724
+      },
+      {
+        "start": 8.94,
+        "end": 9.1,
+        "word": "ね!",
+        "probability": 0.9883825182914734
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 10.44,
+    "end": 12.26,
+    "japanese": "真実を歪める奴は許さん!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 10.44,
+        "end": 10.52,
+        "word": "真",
+        "probability": 0.9853900671005249
+      },
+      {
+        "start": 10.52,
+        "end": 10.7,
+        "word": "実",
+        "probability": 0.9988504648208618
+      },
+      {
+        "start": 10.7,
+        "end": 10.9,
+        "word": "を",
+        "probability": 0.9991005659103394
+      },
+      {
+        "start": 10.9,
+        "end": 11.12,
+        "word": "歪",
+        "probability": 0.9418767690658569
+      },
+      {
+        "start": 11.12,
+        "end": 11.26,
+        "word": "め",
+        "probability": 0.9921101927757263
+      },
+      {
+        "start": 11.26,
+        "end": 11.4,
+        "word": "る",
+        "probability": 0.9982206225395203
+      },
+      {
+        "start": 11.4,
+        "end": 11.58,
+        "word": "奴",
+        "probability": 0.8948651254177094
+      },
+      {
+        "start": 11.58,
+        "end": 11.8,
+        "word": "は",
+        "probability": 0.979085385799408
+      },
+      {
+        "start": 11.8,
+        "end": 12.02,
+        "word": "許",
+        "probability": 0.9121655225753784
+      },
+      {
+        "start": 12.02,
+        "end": 12.26,
+        "word": "さん!",
+        "probability": 0.8991627097129822
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 13.34,
+    "end": 16.26,
+    "japanese": "リポーターを動画扱いする奴も許せない!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 13.34,
+        "end": 13.62,
+        "word": "リ",
+        "probability": 0.9837110638618469
+      },
+      {
+        "start": 13.62,
+        "end": 13.72,
+        "word": "ポ",
+        "probability": 0.996661901473999
+      },
+      {
+        "start": 13.72,
+        "end": 13.84,
+        "word": "ー",
+        "probability": 0.9983752965927124
+      },
+      {
+        "start": 13.84,
+        "end": 13.92,
+        "word": "ター",
+        "probability": 0.9861111640930176
+      },
+      {
+        "start": 13.92,
+        "end": 14.34,
+        "word": "を",
+        "probability": 0.9861351251602173
+      },
+      {
+        "start": 14.34,
+        "end": 14.62,
+        "word": "動画",
+        "probability": 0.3876943588256836
+      },
+      {
+        "start": 14.62,
+        "end": 14.9,
+        "word": "扱",
+        "probability": 0.9875682592391968
+      },
+      {
+        "start": 14.9,
+        "end": 14.96,
+        "word": "い",
+        "probability": 0.9738867878913879
+      },
+      {
+        "start": 14.96,
+        "end": 15.12,
+        "word": "する",
+        "probability": 0.9915664792060852
+      },
+      {
+        "start": 15.12,
+        "end": 15.28,
+        "word": "奴",
+        "probability": 0.991289496421814
+      },
+      {
+        "start": 15.28,
+        "end": 15.5,
+        "word": "も",
+        "probability": 0.9963822364807129
+      },
+      {
+        "start": 15.5,
+        "end": 15.7,
+        "word": "許",
+        "probability": 0.9454439878463745
+      },
+      {
+        "start": 15.7,
+        "end": 15.88,
+        "word": "せ",
+        "probability": 0.9988217949867249
+      },
+      {
+        "start": 15.88,
+        "end": 16.26,
+        "word": "ない!",
+        "probability": 0.9993429780006409
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 20.8,
+    "end": 22.54,
+    "japanese": "さあ、みんなで一緒に決めるわよ!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 20.8,
+        "end": 20.84,
+        "word": "さ",
+        "probability": 0.6933315992355347
+      },
+      {
+        "start": 20.84,
+        "end": 20.94,
+        "word": "あ、",
+        "probability": 0.7902757525444031
+      },
+      {
+        "start": 20.94,
+        "end": 21.12,
+        "word": "み",
+        "probability": 0.9697750210762024
+      },
+      {
+        "start": 21.12,
+        "end": 21.24,
+        "word": "んな",
+        "probability": 0.996371865272522
+      },
+      {
+        "start": 21.24,
+        "end": 21.32,
+        "word": "で",
+        "probability": 0.9867432117462158
+      },
+      {
+        "start": 21.32,
+        "end": 21.44,
+        "word": "一",
+        "probability": 0.9918966889381409
+      },
+      {
+        "start": 21.44,
+        "end": 21.5,
+        "word": "緒",
+        "probability": 0.9998011589050293
+      },
+      {
+        "start": 21.5,
+        "end": 21.62,
+        "word": "に",
+        "probability": 0.9985443353652954
+      },
+      {
+        "start": 21.62,
+        "end": 21.74,
+        "word": "決",
+        "probability": 0.989744246006012
+      },
+      {
+        "start": 21.74,
+        "end": 21.8,
+        "word": "め",
+        "probability": 0.9996352195739746
+      },
+      {
+        "start": 21.8,
+        "end": 21.92,
+        "word": "る",
+        "probability": 0.9959996938705444
+      },
+      {
+        "start": 21.92,
+        "end": 22.04,
+        "word": "わ",
+        "probability": 0.9931566119194031
+      },
+      {
+        "start": 22.04,
+        "end": 22.54,
+        "word": "よ!",
+        "probability": 0.9970977306365967
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 23.4,
+    "end": 24.86,
+    "japanese": "タイミングを外すなよ!",
+    "avg_logprob": -0.16423723040545574,
+    "words": [
+      {
+        "start": 23.4,
+        "end": 23.6,
+        "word": "タ",
+        "probability": 0.9798961877822876
+      },
+      {
+        "start": 23.6,
+        "end": 23.68,
+        "word": "イ",
+        "probability": 0.9998131394386292
+      },
+      {
+        "start": 23.68,
+        "end": 23.74,
+        "word": "ミ",
+        "probability": 0.9983002543449402
+      },
+      {
+        "start": 23.74,
+        "end": 23.88,
+        "word": "ング",
+        "probability": 0.9991711378097534
+      },
+      {
+        "start": 23.88,
+        "end": 24.02,
+        "word": "を",
+        "probability": 0.9618885517120361
+      },
+      {
+        "start": 24.02,
+        "end": 24.12,
+        "word": "外",
+        "probability": 0.9520151019096375
+      },
+      {
+        "start": 24.12,
+        "end": 24.32,
+        "word": "す",
+        "probability": 0.9864458441734314
+      },
+      {
+        "start": 24.32,
+        "end": 24.5,
+        "word": "な",
+        "probability": 0.9806870818138123
+      },
+      {
+        "start": 24.5,
+        "end": 24.86,
+        "word": "よ!",
+        "probability": 0.9948500990867615
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:223",
+    "model": "medium",
+    "passage": [
+      0,
+      31.667
+    ],
+    "start": 30.0,
+    "end": 30.64,
+    "japanese": "撃ちます!",
+    "avg_logprob": -0.5655974224209785,
+    "words": [
+      {
+        "start": 30.0,
+        "end": 30.26,
+        "word": "撃",
+        "probability": 0.7671435177326202
+      },
+      {
+        "start": 30.26,
+        "end": 30.34,
+        "word": "ち",
+        "probability": 0.9974120259284973
+      },
+      {
+        "start": 30.34,
+        "end": 30.64,
+        "word": "ます!",
+        "probability": 0.8708713054656982
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "medium",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 0.36,
+    "end": 4.88,
+    "japanese": "また来週ー!",
+    "avg_logprob": -0.262646136539323,
+    "words": [
+      {
+        "start": 0.36,
+        "end": 0.68,
+        "word": "また",
+        "probability": 0.6711478233337402
+      },
+      {
+        "start": 0.68,
+        "end": 0.94,
+        "word": "来",
+        "probability": 0.9476937651634216
+      },
+      {
+        "start": 0.94,
+        "end": 2.1,
+        "word": "週",
+        "probability": 0.1894141584634781
+      },
+      {
+        "start": 2.1,
+        "end": 4.88,
+        "word": "ー!",
+        "probability": 0.12557817995548248
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "medium",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 5.08,
+    "end": 7.9,
+    "japanese": "モノ聖人のお互いが晴れてよかったですね",
+    "avg_logprob": -0.262646136539323,
+    "words": [
+      {
+        "start": 5.08,
+        "end": 5.18,
+        "word": "モ",
+        "probability": 0.822766900062561
+      },
+      {
+        "start": 5.18,
+        "end": 5.32,
+        "word": "ノ",
+        "probability": 0.5439623594284058
+      },
+      {
+        "start": 5.32,
+        "end": 5.44,
+        "word": "聖",
+        "probability": 0.6832733303308487
+      },
+      {
+        "start": 5.44,
+        "end": 5.56,
+        "word": "人",
+        "probability": 0.9292224645614624
+      },
+      {
+        "start": 5.56,
+        "end": 5.7,
+        "word": "の",
+        "probability": 0.9829666614532471
+      },
+      {
+        "start": 5.7,
+        "end": 5.76,
+        "word": "お",
+        "probability": 0.865960419178009
+      },
+      {
+        "start": 5.76,
+        "end": 5.88,
+        "word": "互",
+        "probability": 0.9891502857208252
+      },
+      {
+        "start": 5.88,
+        "end": 5.98,
+        "word": "い",
+        "probability": 0.9992902278900146
+      },
+      {
+        "start": 5.98,
+        "end": 6.06,
+        "word": "が",
+        "probability": 0.9949151277542114
+      },
+      {
+        "start": 6.06,
+        "end": 6.14,
+        "word": "晴",
+        "probability": 0.8346881568431854
+      },
+      {
+        "start": 6.14,
+        "end": 6.64,
+        "word": "れて",
+        "probability": 0.9960480332374573
+      },
+      {
+        "start": 6.64,
+        "end": 7.02,
+        "word": "よ",
+        "probability": 0.3431195020675659
+      },
+      {
+        "start": 7.02,
+        "end": 7.24,
+        "word": "かった",
+        "probability": 0.999426007270813
+      },
+      {
+        "start": 7.24,
+        "end": 7.9,
+        "word": "ですね",
+        "probability": 0.9955925345420837
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "medium",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 8.66,
+    "end": 13.72,
+    "japanese": "以上、モノ聖人襲来の真相救命リポートをうららがお届けしました",
+    "avg_logprob": -0.262646136539323,
+    "words": [
+      {
+        "start": 8.66,
+        "end": 8.98,
+        "word": "以上、",
+        "probability": 0.5560764670372009
+      },
+      {
+        "start": 9.26,
+        "end": 9.4,
+        "word": "モ",
+        "probability": 0.9909337759017944
+      },
+      {
+        "start": 9.4,
+        "end": 9.52,
+        "word": "ノ",
+        "probability": 0.9959000945091248
+      },
+      {
+        "start": 9.52,
+        "end": 9.68,
+        "word": "聖",
+        "probability": 0.9956084191799164
+      },
+      {
+        "start": 9.68,
+        "end": 9.88,
+        "word": "人",
+        "probability": 0.9857764840126038
+      },
+      {
+        "start": 9.88,
+        "end": 10.06,
+        "word": "襲",
+        "probability": 0.7509874701499939
+      },
+      {
+        "start": 10.06,
+        "end": 10.14,
+        "word": "来",
+        "probability": 0.9741010069847107
+      },
+      {
+        "start": 10.14,
+        "end": 10.5,
+        "word": "の",
+        "probability": 0.9978553652763367
+      },
+      {
+        "start": 10.5,
+        "end": 10.7,
+        "word": "真",
+        "probability": 0.4383895695209503
+      },
+      {
+        "start": 10.7,
+        "end": 10.86,
+        "word": "相",
+        "probability": 0.9808650612831116
+      },
+      {
+        "start": 10.86,
+        "end": 11.08,
+        "word": "救",
+        "probability": 0.6646243333816528
+      },
+      {
+        "start": 11.08,
+        "end": 11.14,
+        "word": "命",
+        "probability": 0.9977962970733643
+      },
+      {
+        "start": 11.14,
+        "end": 11.36,
+        "word": "リ",
+        "probability": 0.9693773984909058
+      },
+      {
+        "start": 11.36,
+        "end": 11.44,
+        "word": "ポ",
+        "probability": 0.9972853660583496
+      },
+      {
+        "start": 11.44,
+        "end": 11.7,
+        "word": "ート",
+        "probability": 0.9925701022148132
+      },
+      {
+        "start": 11.7,
+        "end": 12.14,
+        "word": "を",
+        "probability": 0.9877695441246033
+      },
+      {
+        "start": 12.14,
+        "end": 12.24,
+        "word": "う",
+        "probability": 0.35783651471138
+      },
+      {
+        "start": 12.24,
+        "end": 12.32,
+        "word": "ら",
+        "probability": 0.9928569793701172
+      },
+      {
+        "start": 12.32,
+        "end": 12.44,
+        "word": "ら",
+        "probability": 0.9975085258483887
+      },
+      {
+        "start": 12.44,
+        "end": 12.76,
+        "word": "が",
+        "probability": 0.9938854575157166
+      },
+      {
+        "start": 12.76,
+        "end": 12.88,
+        "word": "お",
+        "probability": 0.9788989424705505
+      },
+      {
+        "start": 12.88,
+        "end": 12.98,
+        "word": "届",
+        "probability": 0.9958023130893707
+      },
+      {
+        "start": 12.98,
+        "end": 13.1,
+        "word": "け",
+        "probability": 0.999541163444519
+      },
+      {
+        "start": 13.1,
+        "end": 13.72,
+        "word": "しました",
+        "probability": 0.9949597120285034
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "medium",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 14.1,
+    "end": 16.38,
+    "japanese": "スペースチャンネル5",
+    "avg_logprob": -0.262646136539323,
+    "words": [
+      {
+        "start": 14.1,
+        "end": 14.42,
+        "word": "ス",
+        "probability": 0.4242989718914032
+      },
+      {
+        "start": 14.42,
+        "end": 14.62,
+        "word": "ペ",
+        "probability": 0.9938203990459442
+      },
+      {
+        "start": 14.62,
+        "end": 14.74,
+        "word": "ー",
+        "probability": 0.9555030465126038
+      },
+      {
+        "start": 14.74,
+        "end": 14.92,
+        "word": "ス",
+        "probability": 0.99700528383255
+      },
+      {
+        "start": 14.92,
+        "end": 15.2,
+        "word": "チャンネル",
+        "probability": 0.6848817467689514
+      },
+      {
+        "start": 15.2,
+        "end": 16.38,
+        "word": "5",
+        "probability": 0.47556236386299133
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "medium",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 16.38,
+    "end": 18.46,
+    "japanese": "銀河一よかったぞうらら",
+    "avg_logprob": -0.262646136539323,
+    "words": [
+      {
+        "start": 16.38,
+        "end": 16.98,
+        "word": "銀",
+        "probability": 0.7153283357620239
+      },
+      {
+        "start": 16.98,
+        "end": 17.1,
+        "word": "河",
+        "probability": 0.980593353509903
+      },
+      {
+        "start": 17.1,
+        "end": 17.26,
+        "word": "一",
+        "probability": 0.5579763650894165
+      },
+      {
+        "start": 17.26,
+        "end": 17.4,
+        "word": "よ",
+        "probability": 0.28967753052711487
+      },
+      {
+        "start": 17.4,
+        "end": 17.58,
+        "word": "かった",
+        "probability": 0.999344527721405
+      },
+      {
+        "start": 17.58,
+        "end": 17.72,
+        "word": "ぞ",
+        "probability": 0.9869024753570557
+      },
+      {
+        "start": 17.72,
+        "end": 17.8,
+        "word": "う",
+        "probability": 0.5084537863731384
+      },
+      {
+        "start": 17.8,
+        "end": 17.9,
+        "word": "ら",
+        "probability": 0.9981325268745422
+      },
+      {
+        "start": 17.9,
+        "end": 18.46,
+        "word": "ら",
+        "probability": 0.9993672966957092
+      }
+    ]
+  },
+  {
+    "id": "VOICEDATA.AFS:224",
+    "model": "medium",
+    "passage": [
+      0,
+      25.0
+    ],
+    "start": 18.46,
+    "end": 21.3,
+    "japanese": "さあみんな、銀河の果てまで行進よ!",
+    "avg_logprob": -0.262646136539323,
+    "words": [
+      {
+        "start": 18.46,
+        "end": 18.88,
+        "word": "さ",
+        "probability": 0.5188887715339661
+      },
+      {
+        "start": 18.88,
+        "end": 18.98,
+        "word": "あ",
+        "probability": 0.6975737810134888
+      },
+      {
+        "start": 18.98,
+        "end": 19.12,
+        "word": "み",
+        "probability": 0.7204417586326599
+      },
+      {
+        "start": 19.12,
+        "end": 19.54,
+        "word": "んな、",
+        "probability": 0.9874452352523804
+      },
+      {
+        "start": 19.76,
+        "end": 19.96,
+        "word": "銀",
+        "probability": 0.9875393211841583
+      },
+      {
+        "start": 19.96,
+        "end": 20.06,
+        "word": "河",
+        "probability": 0.999957263469696
+      },
+      {
+        "start": 20.06,
+        "end": 20.16,
+        "word": "の",
+        "probability": 0.9671160578727722
+      },
+      {
+        "start": 20.16,
+        "end": 20.24,
+        "word": "果",
+        "probability": 0.9799855947494507
+      },
+      {
+        "start": 20.24,
+        "end": 20.32,
+        "word": "て",
+        "probability": 0.9948275685310364
+      },
+      {
+        "start": 20.32,
+        "end": 20.46,
+        "word": "まで",
+        "probability": 0.9974587559700012
+      },
+      {
+        "start": 20.46,
+        "end": 20.74,
+        "word": "行",
+        "probability": 0.42809727787971497
+      },
+      {
+        "start": 20.74,
+        "end": 20.84,
+        "word": "進",
+        "probability": 0.974961519241333
+      },
+      {
+        "start": 20.84,
+        "end": 21.3,
+        "word": "よ!",
+        "probability": 0.9455429315567017
+      }
+    ]
+  }
+]

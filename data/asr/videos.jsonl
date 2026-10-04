@@ -1,0 +1,8 @@
+{"id": "DANRAN.SFD", "duration": 22.0, "segments": [], "status": "needs_listening"}
+{"id": "OP.SFD", "duration": 140.867, "segments": [{"start": 7.22, "end": 8.22, "japanese": "チャンネルファイト", "korean": "", "status": "asr_draft"}, {"start": 8.22, "end": 10.22, "japanese": "スペースシップ相談事故の行方不明者", "korean": "", "status": "asr_draft"}, {"start": 10.22, "end": 12.22, "japanese": "最後の一人を発見しました", "korean": "", "status": "asr_draft"}, {"start": 12.22, "end": 16.58, "japanese": "よく頑張ったな", "korean": "", "status": "asr_draft"}, {"start": 16.58, "end": 17.58, "japanese": "もう一人じゃないぞ", "korean": "", "status": "asr_draft"}], "status": "needs_listening"}
+{"id": "R1_MAKUMA.SFD", "duration": 13.734, "segments": [], "status": "needs_listening"}
+{"id": "R23_MAKUMA.SFD", "duration": 91.867, "segments": [], "status": "needs_listening"}
+{"id": "R2_MAKUMA.SFD", "duration": 14.034, "segments": [{"start": 0.0, "end": 1.0, "japanese": "エンディング", "korean": "", "status": "asr_draft"}], "status": "needs_listening"}
+{"id": "R3_MAKUMA.SFD", "duration": 15.0, "segments": [{"start": 0.0, "end": 1.0, "japanese": "エンディング", "korean": "", "status": "asr_draft"}], "status": "needs_listening"}
+{"id": "R4_MAKUMA.SFD", "duration": 53.967, "segments": [{"start": 0.0, "end": 0.5, "japanese": "ん?", "korean": "", "status": "asr_draft"}], "status": "needs_listening"}
+{"id": "R4_MAKUMA_1.SFD", "duration": 15.034, "segments": [], "status": "needs_listening"}

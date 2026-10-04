@@ -1,0 +1,11 @@
+{
+  "HUD_texture_visible": true,
+  "native_voice_captions_visible": true,
+  "restored_instruction_visible": true,
+  "first_rescue_CPU_cheat_accepted": true,
+  "latest_CPU_rating_percent": 12,
+  "HUD_screenshot": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141891069195500.png",
+  "instruction_screenshot": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141895435482100.png",
+  "latest_CPU_screenshot": "work/native-rom/stock-libretro/runs/atlas-uncompressed-20261005/screenshots/frame-1791141960127719000.png",
+  "short_reply_in_this_run": "Not captured at the slower frontend PNG completion rate; cue is retained unchanged. Previous 546-cue ROM reply proof is preserved separately."
+}

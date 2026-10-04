@@ -1,0 +1,67 @@
+{
+  "method": "Maximum FFT cross-correlation divided by full-window energy norms; no resampling or time warping",
+  "sample_rate": 16000,
+  "original_audio_listening_completed": false,
+  "matches": [
+    {
+      "first": "VOICEDATA.AFS:002",
+      "second": "VOICEDATA.AFS:008",
+      "normalized_correlation": 0.9984225524882314
+    },
+    {
+      "first": "VOICEDATA.AFS:002",
+      "second": "VOICEDATA.AFS:017",
+      "normalized_correlation": 0.9644372829382442
+    },
+    {
+      "first": "VOICEDATA.AFS:002",
+      "second": "VOICEDATA.AFS:141",
+      "normalized_correlation": 0.9661631945855221
+    },
+    {
+      "first": "VOICEDATA.AFS:007",
+      "second": "VOICEDATA.AFS:012",
+      "normalized_correlation": 0.9528721643020086
+    },
+    {
+      "first": "VOICEDATA.AFS:008",
+      "second": "VOICEDATA.AFS:017",
+      "normalized_correlation": 0.9521616090323991
+    },
+    {
+      "first": "VOICEDATA.AFS:008",
+      "second": "VOICEDATA.AFS:141",
+      "normalized_correlation": 0.9780374049609435
+    },
+    {
+      "first": "VOICEDATA.AFS:009",
+      "second": "VOICEDATA.AFS:003",
+      "normalized_correlation": 0.9900037601429112
+    },
+    {
+      "first": "VOICEDATA.AFS:011",
+      "second": "VOICEDATA.AFS:016",
+      "normalized_correlation": 0.9650947395648369
+    },
+    {
+      "first": "VOICEDATA.AFS:011",
+      "second": "VOICEDATA.AFS:201",
+      "normalized_correlation": 0.9990122717840266
+    },
+    {
+      "first": "VOICEDATA.AFS:016",
+      "second": "VOICEDATA.AFS:201",
+      "normalized_correlation": 0.9579484172551224
+    },
+    {
+      "first": "VOICEDATA.AFS:017",
+      "second": "VOICEDATA.AFS:141",
+      "normalized_correlation": 0.9858569741694977
+    },
+    {
+      "first": "VOICEDATA.AFS:121",
+      "second": "VOICEDATA.AFS:130",
+      "normalized_correlation": 0.9793186978222027
+    }
+  ]
+}

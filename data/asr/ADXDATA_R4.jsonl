@@ -1,0 +1,20 @@
+{"id": "ADXDATA_R4.AFS:000", "archive": "ADXDATA_R4.AFS", "index": 0, "duration": 26.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:001", "archive": "ADXDATA_R4.AFS", "index": 1, "duration": 43.334, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:002", "archive": "ADXDATA_R4.AFS", "index": 2, "duration": 30.0, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:003", "archive": "ADXDATA_R4.AFS", "index": 3, "duration": 30.0, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:004", "archive": "ADXDATA_R4.AFS", "index": 4, "duration": 158.334, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:005", "archive": "ADXDATA_R4.AFS", "index": 5, "duration": 144.334, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:006", "archive": "ADXDATA_R4.AFS", "index": 6, "duration": 510.343, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:007", "archive": "ADXDATA_R4.AFS", "index": 7, "duration": 41.667, "segments": [{"start": 0.0, "end": 2.0, "japanese": "お疲れ様でした", "korean": "", "status": "asr_draft"}], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:008", "archive": "ADXDATA_R4.AFS", "index": 8, "duration": 26.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:009", "archive": "ADXDATA_R4.AFS", "index": 9, "duration": 26.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:010", "archive": "ADXDATA_R4.AFS", "index": 10, "duration": 35.0, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:011", "archive": "ADXDATA_R4.AFS", "index": 11, "duration": 35.0, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:012", "archive": "ADXDATA_R4.AFS", "index": 12, "duration": 38.334, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:013", "archive": "ADXDATA_R4.AFS", "index": 13, "duration": 26.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:014", "archive": "ADXDATA_R4.AFS", "index": 14, "duration": 26.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:015", "archive": "ADXDATA_R4.AFS", "index": 15, "duration": 21.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:016", "archive": "ADXDATA_R4.AFS", "index": 16, "duration": 43.334, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:017", "archive": "ADXDATA_R4.AFS", "index": 17, "duration": 26.667, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:018", "archive": "ADXDATA_R4.AFS", "index": 18, "duration": 35.0, "segments": [], "status": "needs_listening"}
+{"id": "ADXDATA_R4.AFS:019", "archive": "ADXDATA_R4.AFS", "index": 19, "duration": 35.0, "segments": [], "status": "needs_listening"}
