@@ -104,16 +104,17 @@ def apply(source, output, *, make_chd=True, log=lambda message: None, package=No
 def gui():
     import tkinter as tk
     from tkinter import filedialog, messagebox, ttk
+    version=json.loads((BASE/'manifest.json').read_text('utf-8'))['version']
     root = tk.Tk()
-    root.title('Space Channel 5 한국어 패치 v0.7')
+    root.title(f'Space Channel 5 한국어 패치 {version}')
     root.geometry('690x350')
     root.resizable(False, False)
     frame = ttk.Frame(root, padding=18)
     frame.pack(fill='both', expand=True)
-    ttk.Label(frame, text='Space Channel 5 일본판 → 한국어 v0.7', font=('맑은 고딕', 14)).pack(anchor='w')
+    ttk.Label(frame, text=f'Space Channel 5 일본판 → 한국어 {version}', font=('맑은 고딕', 14)).pack(anchor='w')
     ttk.Label(frame, text='원본 5트랙 CUE/BIN 폴더를 선택하면 GDI와 CHD를 생성합니다.').pack(anchor='w', pady=(6, 18))
     source = tk.StringVar()
-    output = tk.StringVar(value=str(Path.home() / 'Space Channel 5 Korean v0.7'))
+    output = tk.StringVar(value=str(Path.home() / f'Space Channel 5 Korean {version}'))
     chd = tk.BooleanVar(value=True)
     for label, variable, title in [('원본 폴더', source, '일본판 원본 BIN 폴더 선택'), ('출력 폴더', output, '출력할 상위 폴더 선택')]:
         row = ttk.Frame(frame)
@@ -123,7 +124,7 @@ def gui():
         def choose(v=variable, t=title):
             picked = filedialog.askdirectory(parent=root, title=t)
             if picked:
-                v.set(str(Path(picked) / 'Space Channel 5 Korean v0.7') if v is output else picked)
+                v.set(str(Path(picked) / f'Space Channel 5 Korean {version}') if v is output else picked)
         ttk.Button(row, text='선택', command=choose).pack(side='left', padx=(7, 0))
     ttk.Checkbutton(frame, text='CHD도 생성 (GDI와 5개 BIN은 항상 생성)', variable=chd).pack(anchor='w', pady=8)
     status = tk.StringVar(value='대상 원본의 크기와 SHA-256을 검사합니다. 여유 공간 3GB 이상 필요.')

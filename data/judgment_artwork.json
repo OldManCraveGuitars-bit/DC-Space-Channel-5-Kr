@@ -1,0 +1,12 @@
+{
+  "source": "assets/image-edits/SET_JUDGMENT_2.png",
+  "canvas": [
+    429,
+    24
+  ],
+  "digits_start_x": 285,
+  "digit_step": 24,
+  "render_y": 205,
+  "user_approved": true,
+  "preserve_source_pixels_and_spacing": true
+}

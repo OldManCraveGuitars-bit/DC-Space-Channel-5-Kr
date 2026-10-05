@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "executable": "<PROJECT>\\SC5KoreanWorkbench_v8.exe",
+  "sha256": "bfac6a635230ed2ee6619bc13bca21b5a7561e3b95ae7e41ab398f099d4eefa3",
+  "native_judgment_source_matches": true,
+  "approved_png_importer_bundled": true
+}

@@ -1,0 +1,23 @@
+{
+  "VQ_used": false,
+  "original_texture_archive_byte_exact": true,
+  "packing_mode": "native_argb4444_pixels",
+  "glyph_source": "user_approved_png",
+  "rectangles": 2554,
+  "label": "SET JUDGMENT 1 2 3 4 5 6",
+  "label_width": 285,
+  "digit_x": 341,
+  "approved_png": {
+    "source": "assets/image-edits/SET_JUDGMENT_2.png",
+    "sha256": "d3c7443b9f5609991a39c4d15257d2271a1e21295df11e8f5d30d3887887e8a5",
+    "source_size": [
+      429,
+      24
+    ],
+    "source_resampled": false,
+    "source_cleanup": false,
+    "source_layout_preserved": true
+  },
+  "row_y": 205,
+  "all_pixels_match_argb4444": true
+}

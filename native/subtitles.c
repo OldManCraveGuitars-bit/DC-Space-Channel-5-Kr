@@ -113,6 +113,12 @@ static void rectangle(unsigned x, unsigned y, unsigned w, unsigned h, u32 z) {
     u32 b[8] = {bottom, z, left, bottom, 0, 0, 0, 0};
     packet(a); packet(b);
 }
+extern volatile u32 native_judgment_menu_ready;
+extern void native_draw_judgment(void);
+void native_menu_color(u32 color) { header(color); }
+void native_menu_rect(unsigned x,unsigned y,unsigned w,unsigned h) {
+    rectangle(x,y,w,h,0x49742410);
+}
 static void draw(const Cue *cue) {
     unsigned i, j, start = 0, width = 0, lines = 1, max_width = 0;
     unsigned widths[4] = {0,0,0,0}, ends[4] = {0,0,0,0}, line = 0;
@@ -203,7 +209,7 @@ void native_frame(u32 direct_list) {
        cannot cover the subtitles. Transfer this list through the SH-4 store
        queues synchronously; no DMA/EOL race and no extra RAM/VRAM allocation.
        Frames without subtitles retain the original DMA path. */
-    if (cue && direct_list == 0 && native_diagnostics[9] == 32 &&
+    if ((cue || native_judgment_menu_ready) && direct_list == 0 && native_diagnostics[9] == 32 &&
         native_diagnostics[10] == 5) {
         unsigned frame = *(volatile u32 *)0x8c21bf7c;
         unsigned index = 8 + frame;
@@ -220,7 +226,9 @@ void native_frame(u32 direct_list) {
             *(volatile u32 *)0xff000038 = 0x10;
             *(volatile u32 *)0xff00003c = 0x10;
             for (offset = 0; offset < bytes / 4; offset += 8) packet(source + offset);
-            draw(cue);
+            if (cue) draw(cue);
+            if (native_judgment_menu_ready) native_draw_judgment();
+            native_judgment_menu_ready=0;
             /* The SDK stores the EOL just beyond its recorded byte count. */
             packet(source + bytes / 4);
             *(volatile u32 *)0xff000038 = q0;

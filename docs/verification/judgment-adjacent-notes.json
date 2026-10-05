@@ -1,0 +1,84 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "mode": 0,
+      "level": 1,
+      "beat": 8.274799999999999,
+      "pressed_button": 2,
+      "score_code": 0,
+      "expected_score_code": 0,
+      "note_index": 0,
+      "first_note_status": 1,
+      "next_note_status": 0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "level": 6,
+      "beat": 8.274799999999999,
+      "pressed_button": 2,
+      "score_code": 3,
+      "expected_score_code": 3,
+      "note_index": 1,
+      "first_note_status": 1,
+      "next_note_status": 1,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "level": 6,
+      "beat": 8.274799999999999,
+      "pressed_button": 1,
+      "score_code": 2,
+      "expected_score_code": 2,
+      "note_index": 1,
+      "first_note_status": 1,
+      "next_note_status": 1,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "level": 1,
+      "beat": 8.274799999999999,
+      "pressed_button": 2,
+      "score_code": 0,
+      "expected_score_code": 0,
+      "note_index": 0,
+      "first_note_status": 1,
+      "next_note_status": 0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "level": 6,
+      "beat": 8.274799999999999,
+      "pressed_button": 2,
+      "score_code": 3,
+      "expected_score_code": 3,
+      "note_index": 1,
+      "first_note_status": 1,
+      "next_note_status": 1,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "level": 6,
+      "beat": 8.274799999999999,
+      "pressed_button": 1,
+      "score_code": 2,
+      "expected_score_code": 2,
+      "note_index": 1,
+      "first_note_status": 1,
+      "next_note_status": 1,
+      "thresholds_restored": true,
+      "passed": true
+    }
+  ],
+  "scope": "Mechanics verified before the final PNG update; only artwork changed afterwards."
+}

@@ -24,7 +24,8 @@ BASE = 0x8c010000
 PAYLOAD_BASE = 0x8c250000
 HOOKS = [(0x8c06c460, 'frame'), (0x8c056718, 'voice_start'),
          (0x8c056060, 'voice_stop'), (0x8c0570aa, 'movie_start'),
-         (0x8c057280, 'movie_stop')]
+         (0x8c057280, 'movie_stop'), (0x8c028fe8, 'options'),
+         (0x8c021930, 'judgment'), (0x8c021732, 'judgment_alt')]
 
 def generate_data(config, out):
     characters = sorted(set(''.join(c['korean'] for v in config['clips'].values() for c in v)) | set('실기 자막 테스트'))
@@ -133,15 +134,19 @@ def build(diagnostic=False, disc=True):
                  track5=ROOT/'work/poc/Track5_KR.bin') as localized:
         config['afs_bases']={str(e.lba+150):e.name.upper() for e in localized.entries()
                              if e.name.upper().endswith('.AFS')}
+        from .judgment_assets import prepare
+        title_entry, title_bytes, judgment_art = prepare(Project(ROOT),localized,out)
+        title_source_hash = hashlib.sha256(localized.read(title_entry.lba,title_entry.size)).hexdigest()
     stats = generate_data(config,out); trampolines(original,out)
     toolchain = ROOT/'work/native-rom/toolchain/sh-elf/sh-elf/bin'
     gcc = toolchain/'sh-elf-gcc.exe'
     flags = ['-ml','-m4-single-only','-mdiv=call-div1','-Os','-ffreestanding','-fno-builtin','-fno-pic','-fno-common','-fno-unwind-tables','-fno-asynchronous-unwind-tables']
     if diagnostic: flags += ['-DNATIVE_DIAGNOSTIC_CUE=1']
     run([gcc,*flags,'-I',out,'-c',resource_path('native/subtitles.c'),'-o',out/'subtitles.o'])
+    run([gcc,*flags,'-I',out,'-c',resource_path('native/judgment.c'),'-o',out/'judgment.o'])
     run([gcc,*flags,'-c',out/'hooks.S','-o',out/'hooks.o'])
     run([gcc,*flags,'-nostdlib','-Wl,-T,'+str(resource_path('native/link.ld')),'-Wl,-Map,'+str(out/'payload.map'),
-         out/'subtitles.o',out/'hooks.o','-lgcc','-o',out/'payload.elf'])
+         out/'subtitles.o',out/'judgment.o',out/'hooks.o','-lgcc','-o',out/'payload.elf'])
     run([toolchain/'sh-elf-objcopy.exe','-O','binary',out/'payload.elf',out/'payload.bin'])
     symbols={}
     for line in run([toolchain/'sh-elf-nm.exe','-n',out/'payload.elf']).splitlines():
@@ -169,7 +174,8 @@ def build(diagnostic=False, disc=True):
       'executable_sha256':hashlib.sha256(patched).hexdigest(),'payload_size':len(payload),
       'ram_end':hex(symbols['payload_end']),'diagnostics_address':hex(symbols['native_diagnostics']),
       'localized_afs_bases':config['afs_bases'],
-      'stats':stats,'hooks':hooks,'emulator_services':False,'symbols':{k:hex(v) for k,v in symbols.items() if k.startswith(('native','original'))}}
+      'stats':stats,'hooks':hooks,'judgment_art':judgment_art,
+      'emulator_services':False,'symbols':{k:hex(v) for k,v in symbols.items() if k.startswith(('native','original'))}}
     if disc:
         source_track=ROOT/'work/poc/Track5_KR.bin'
         track=out/'Track5_NATIVE_KR.bin'
@@ -205,6 +211,26 @@ def build(diagnostic=False, disc=True):
                     update=update_mode1(raw,block)
                     assert verify_mode1(update)
                     f.seek(pos);f.write(update);changes+=1
+                # Only the unused options-atlas region is new artwork. Other
+                # localized TITLE members come from the existing approved disc.
+                current_title=bytearray()
+                for offset in range(0,len(title_bytes),PAYLOAD):
+                    f.seek((title_entry.lba+offset//PAYLOAD-image.track5_start)*SECTOR)
+                    raw=f.read(SECTOR)
+                    assert verify_mode1(raw)
+                    current_title.extend(raw[16:16+min(PAYLOAD,len(title_bytes)-offset)])
+                expected_title=state.get('judgment_title_sha256',title_source_hash)
+                if hashlib.sha256(current_title).hexdigest()!=expected_title:
+                    raise ValueError('Candidate options textures differ from the recorded build')
+                for offset in range(0,len(title_bytes),PAYLOAD):
+                    pos=(title_entry.lba+offset//PAYLOAD-image.track5_start)*SECTOR
+                    f.seek(pos);raw=f.read(SECTOR)
+                    size=min(PAYLOAD,len(title_bytes)-offset)
+                    if raw[16:16+size]==title_bytes[offset:offset+size]:continue
+                    block=bytearray(raw[16:16+PAYLOAD]);block[:size]=title_bytes[offset:offset+size]
+                    update=update_mode1(raw,block);assert verify_mode1(update)
+                    f.seek(pos);f.write(update);changes+=1
+                state['judgment_title_sha256']=hashlib.sha256(title_bytes).hexdigest()
             write_cue(image,track,out/'Track5_NATIVE_KR.cue',track3_override=ROOT/'work/poc/Track3_KR.bin')
         report['patched_sectors']=changes
         report['cue']=str(out/'Track5_NATIVE_KR.cue')

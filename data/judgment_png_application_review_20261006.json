@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "approved_png": {
+    "source": "assets/image-edits/SET_JUDGMENT_2.png",
+    "sha256": "d3c7443b9f5609991a39c4d15257d2271a1e21295df11e8f5d30d3887887e8a5",
+    "source_size": [
+      429,
+      24
+    ],
+    "source_resampled": false,
+    "source_cleanup": false,
+    "source_layout_preserved": true
+  },
+  "exact_argb4444_pixel_layout": true,
+  "source_resampled": false,
+  "stock_core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "modified_core_used": false,
+  "verified_levels": [
+    1,
+    2,
+    6
+  ],
+  "unselected_alpha": 128,
+  "saved_level": 6,
+  "screenshots": [
+    "work/judgment/stock/screenshots/approved-revision-options-default.png",
+    "work/judgment/stock/screenshots/approved-revision-level2.png",
+    "work/judgment/stock/screenshots/approved-revision-level6.png"
+  ]
+}

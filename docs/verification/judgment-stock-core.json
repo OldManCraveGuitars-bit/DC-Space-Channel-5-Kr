@@ -1,0 +1,74 @@
+{
+  "pid": 27504,
+  "command": [
+    "C:\\CODEX\\tools\\RetroArch-1.22.2\\RetroArch-Win64\\retroarch.exe",
+    "-v",
+    "--log-file",
+    "<PROJECT>\\work\\judgment\\stock\\retroarch.log",
+    "-c",
+    "<PROJECT>\\work\\judgment\\stock\\retroarch.cfg",
+    "-L",
+    "<PROJECT>\\work\\native-rom\\stock-libretro\\flycast_libretro.dll",
+    "<PROJECT>\\output\\native-rom\\Space Channel 5 Korean Native.gdi"
+  ],
+  "port": 56137,
+  "stock_core": true,
+  "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "host_subtitles": false,
+  "core_memory_writes": false,
+  "actions": [
+    {
+      "unix": 1791238074.3981938,
+      "button": "start"
+    },
+    {
+      "unix": 1791238074.6133814,
+      "screenshot": "<PROJECT>\\work\\judgment\\stock\\screenshots\\approved-revision-title.png"
+    },
+    {
+      "unix": 1791238107.9528039,
+      "button": "down"
+    },
+    {
+      "unix": 1791238108.4046574,
+      "button": "down"
+    },
+    {
+      "unix": 1791238109.3676631,
+      "screenshot": "<PROJECT>\\work\\judgment\\stock\\screenshots\\approved-revision-main.png"
+    },
+    {
+      "unix": 1791238119.7902284,
+      "button": "a"
+    },
+    {
+      "unix": 1791238120.753162,
+      "screenshot": "<PROJECT>\\work\\judgment\\stock\\screenshots\\approved-revision-options-default.png"
+    },
+    {
+      "unix": 1791238188.977532,
+      "screenshot": "<PROJECT>\\work\\judgment\\stock\\screenshots\\approved-revision-level2.png"
+    },
+    {
+      "unix": 1791238224.3534243,
+      "button": "a"
+    },
+    {
+      "unix": 1791238224.8055358,
+      "button": "a"
+    },
+    {
+      "unix": 1791238225.2564864,
+      "button": "a"
+    },
+    {
+      "unix": 1791238225.7082236,
+      "button": "a"
+    },
+    {
+      "unix": 1791238226.672093,
+      "screenshot": "<PROJECT>\\work\\judgment\\stock\\screenshots\\approved-revision-level6.png"
+    }
+  ],
+  "launched_unix": 1791238015.608649
+}

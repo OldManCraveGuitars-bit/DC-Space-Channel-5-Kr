@@ -1,0 +1,1806 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": true,
+      "beat": 7.7548,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": false,
+      "beat": 7.7452,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": true,
+      "beat": 8.2452,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": false,
+      "beat": 8.2548,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": true,
+      "beat": 7.6588,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": false,
+      "beat": 7.6492,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": true,
+      "beat": 8.3412,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": false,
+      "beat": 8.3508,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": true,
+      "beat": 7.5628,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": false,
+      "beat": 7.5532,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": true,
+      "beat": 8.4372,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": false,
+      "beat": 8.4468,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": true,
+      "beat": 7.4668,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": false,
+      "beat": 7.4572,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": true,
+      "beat": 8.5332,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": false,
+      "beat": 8.5428,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": true,
+      "beat": 7.3708,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": false,
+      "beat": 7.3612,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": true,
+      "beat": 8.6292,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": false,
+      "beat": 8.6388,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": true,
+      "beat": 7.2748,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": false,
+      "beat": 7.2652,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": true,
+      "beat": 8.725200000000001,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": false,
+      "beat": 8.7348,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": true,
+      "beat": 7.755,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": false,
+      "beat": 7.745,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": true,
+      "beat": 8.245,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": false,
+      "beat": 8.255,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": true,
+      "beat": 7.655,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": false,
+      "beat": 7.645,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": true,
+      "beat": 8.345,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": false,
+      "beat": 8.355,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": true,
+      "beat": 7.555,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": false,
+      "beat": 7.545,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": true,
+      "beat": 8.445,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": false,
+      "beat": 8.455,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": true,
+      "beat": 7.455,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": false,
+      "beat": 7.445,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": true,
+      "beat": 8.545,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": false,
+      "beat": 8.555,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": true,
+      "beat": 7.355,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": false,
+      "beat": 7.345,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": true,
+      "beat": 8.645,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": false,
+      "beat": 8.655,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": true,
+      "beat": 7.255,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": false,
+      "beat": 7.245,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": true,
+      "beat": 8.745000000000001,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": false,
+      "beat": 8.755,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": true,
+      "beat": 7.7548,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": false,
+      "beat": 7.7452,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": true,
+      "beat": 8.2452,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": false,
+      "beat": 8.2548,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": true,
+      "beat": 7.6588,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": false,
+      "beat": 7.6492,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": true,
+      "beat": 8.3412,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": false,
+      "beat": 8.3508,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.09600000083446503,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": true,
+      "beat": 7.5628,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": false,
+      "beat": 7.5532,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": true,
+      "beat": 8.4372,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": false,
+      "beat": 8.4468,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.19200000166893005,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": true,
+      "beat": 7.4668,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": false,
+      "beat": 7.4572,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": true,
+      "beat": 8.5332,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": false,
+      "beat": 8.5428,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.2880000174045563,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": true,
+      "beat": 7.3708,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": false,
+      "beat": 7.3612,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": true,
+      "beat": 8.6292,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": false,
+      "beat": 8.6388,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.3840000033378601,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": true,
+      "beat": 7.2748,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": false,
+      "beat": 7.2652,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": true,
+      "beat": 8.725200000000001,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": false,
+      "beat": 8.7348,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": true,
+      "beat": 7.755,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": -1,
+      "inside": false,
+      "beat": 7.745,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": true,
+      "beat": 8.245,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 1,
+      "side": 1,
+      "inside": false,
+      "beat": 8.255,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.0,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": true,
+      "beat": 7.655,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": -1,
+      "inside": false,
+      "beat": 7.645,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": true,
+      "beat": 8.345,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 2,
+      "side": 1,
+      "inside": false,
+      "beat": 8.355,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.10000000149011612,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": true,
+      "beat": 7.555,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": -1,
+      "inside": false,
+      "beat": 7.545,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": true,
+      "beat": 8.445,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 3,
+      "side": 1,
+      "inside": false,
+      "beat": 8.455,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.20000000298023224,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": true,
+      "beat": 7.455,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": -1,
+      "inside": false,
+      "beat": 7.445,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": true,
+      "beat": 8.545,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 4,
+      "side": 1,
+      "inside": false,
+      "beat": 8.555,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.30000001192092896,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": true,
+      "beat": 7.355,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": -1,
+      "inside": false,
+      "beat": 7.345,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": true,
+      "beat": 8.645,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 5,
+      "side": 1,
+      "inside": false,
+      "beat": 8.655,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.4000000059604645,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": true,
+      "beat": 7.255,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": -1,
+      "inside": false,
+      "beat": 7.245,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": true,
+      "beat": 8.745000000000001,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        5,
+        60
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": false,
+      "beat": 8.755,
+      "expected_button": 1,
+      "pressed_button": 1,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.5,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": false,
+      "beat": 8.634,
+      "expected_button": 1,
+      "pressed_button": 2,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 0,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": true,
+      "beat": 8.634,
+      "expected_button": 5,
+      "pressed_button": 5,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": false,
+      "beat": 8.634,
+      "expected_button": 1,
+      "pressed_button": 2,
+      "score_code": 2,
+      "failure_count": 1,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    },
+    {
+      "mode": 1,
+      "tempo": [
+        4,
+        50
+      ],
+      "level": 6,
+      "side": 1,
+      "inside": true,
+      "beat": 8.634,
+      "expected_button": 5,
+      "pressed_button": 5,
+      "score_code": 3,
+      "failure_count": 0,
+      "extra_beats": 0.47999998927116394,
+      "thresholds_restored": true,
+      "passed": true
+    }
+  ],
+  "scope": "Mechanics verified before the final PNG update; only artwork changed afterwards."
+}

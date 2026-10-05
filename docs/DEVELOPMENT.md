@@ -4,7 +4,7 @@
 
 ## 편집기 사용
 
-Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v6.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
+Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v8.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
 
 ROM 생성과 게임 실행에는 다음의 별도 도구 준비가 필요합니다.
 
@@ -48,7 +48,7 @@ python -m pip install pyinstaller
 python tools/build_native_editor.py --out SC5KoreanWorkbench.exe
 ```
 
-공개한 v6 실행 파일과 현재 소스는 COMMON 비압축 저장 모듈 및 섹터 재배치 도우미를 포함합니다. 최종 ROM 전체 빌드는 로컬 소스 환경에서 검증했으며, 모든 사용자 환경과 별도 도구 배치까지 검증한 배포는 아닙니다.
+공개한 v8 실행 파일과 현재 소스는 COMMON 비압축 저장 모듈 및 섹터 재배치 도우미를 포함합니다. 최종 ROM 전체 빌드는 로컬 소스 환경에서 검증했으며, 모든 사용자 환경과 별도 도구 배치까지 검증한 배포는 아닙니다.
 
 ## 패치 적용기 소스
 
@@ -65,3 +65,11 @@ python tools/build_native_editor.py --out SC5KoreanWorkbench.exe
 - `docs/verification`: 최종 ROM 및 스크린샷 검증 기록.
 
 현재 저장소는 ROM·BIOS·개조 에뮬레이터·원본 음성/영상 파일을 포함하지 않습니다. 원본 미리보기는 사용자가 선택한 디스크에서 추출합니다.
+
+## v0.8 판정 옵션과 사용자 PNG
+
+`native/judgment.c`가 OPTIONS 행과 플레이어 입력 판정을 연결합니다. `sc5/judgment_assets.py`는 `data/judgment_artwork.json`의 `source` PNG를 읽고 7개 표시 범위(문구 + 여섯 숫자)를 만듭니다. 기본 PNG 캔버스는 429×24, 숫자 시작 x=285, 숫자 간격 24px입니다. 크기와 좌표를 유지해 편집하면 ROM 빌드가 같은 파일을 반영합니다. PNG에 없는 픽셀을 새로 만들거나 VQ 압축을 수행하지 않습니다. 게임의 ARGB4444 정밀도로 양자화하고 전체 표시 픽셀을 다시 대조합니다.
+
+판정 단계는 실행 파일의 세션 변수입니다. 별도 설정 파일이나 VMU 변경이 필요하지 않습니다. 106개 판정 검사는 PNG 최종 업데이트 전의 동일 판정 코드 검사입니다. 자료는 `docs/verification/judgment-boundaries.json`, `judgment-adjacent-notes.json`, `judgment-user-png.json`에 있습니다. 실제 화면은 `docs/screenshots/11-judgment-default.png`~`13-judgment-level6.png`입니다.
+
+`tools/prepare_public_v08.py`와 `tools/finalize_public_v08.py`는 이 로컬 공개 배포 준비 기록입니다. 기존 경로와 검증된 디스크를 요구하므로 범용 재빌드 명령으로 사용하지 않습니다.

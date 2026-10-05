@@ -1,0 +1,45 @@
+{
+  "updated_at": "2026-10-06T07:10:29+09:00",
+  "status": "native option implemented; revised user PNG applied and stock menu verified",
+  "added_seconds": [
+    0,
+    0.02,
+    0.04,
+    0.06,
+    0.08,
+    0.1
+  ],
+  "default": 1,
+  "unselected_alpha": 128,
+  "controls": {
+    "A_START_RIGHT": "next",
+    "LEFT": "previous",
+    "UP_DOWN": "menu row"
+  },
+  "cold_boot_resets_to_default": true,
+  "VMU_setting_persistence": false,
+  "native_execution": true,
+  "modified_emulator_required": false,
+  "boundary_cases_passed": 100,
+  "adjacent_note_cases_passed": 6,
+  "actual_stock_menu_verified": true,
+  "physical_console_tested": false,
+  "all_hold_and_dense_note_patterns_tested": false,
+  "chd": "83f00cd80182726b05ad0ac176d2cc6f41e55db207c89b9ba39bcb2f78b8ee34",
+  "executable": "0ad362006fcb10480abef12f98647759eb37a600b24576f550beaa067d8be9ec",
+  "PNG": "assets/image-edits/SET_JUDGMENT_2.png",
+  "PNG_size": [
+    429,
+    24
+  ],
+  "PNG_design": "user revised original PNG; dimensions and pixels preserved",
+  "PNG_automatically_applied_to_ROM": true,
+  "PNG_sha256": "d3c7443b9f5609991a39c4d15257d2271a1e21295df11e8f5d30d3887887e8a5",
+  "PNG_argb4444_pixels_match": true,
+  "current_ROM_artwork": "user-approved revised PNG",
+  "next_step": "Wait for user feedback on the applied options design.",
+  "other_remaining_work": "See runtime_subtitle_limitations and gameplay_atlas_validation in data/localization_progress.json",
+  "mechanics_checks_scope": "106 cases from prior build; judgment code unchanged by this artwork-only update",
+  "editor": "SC5KoreanWorkbench_v8.exe",
+  "editor_bundle_proof": "work/judgment/editor-v8-bundle-proof.json"
+}
