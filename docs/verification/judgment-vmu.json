@@ -1,0 +1,1435 @@
+{
+  "passed": true,
+  "version": "v0.81",
+  "executable_sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+  "stock_core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "modified_core_required": false,
+  "host_subtitles": false,
+  "guest_memory_writes": false,
+  "save_state_loaded": false,
+  "setting_file": "SC5KR_JUDGE",
+  "setting_blocks": 2,
+  "original_Japanese_progress_save_format_changed": false,
+  "existing_progress_files_byte_exact": 6,
+  "cold_boot_without_LOAD_verified": true,
+  "no_VMU_verified": true,
+  "full_VMU_verified": true,
+  "physical_console_tested": false,
+  "scope": "Native VMU setting creation, overwrite, cold-boot restore and error handling. Existing progress save bytes/allocation are unchanged; not a full gameplay or physical-console test.",
+  "cases": [
+    {
+      "label": "saved6",
+      "pid": 31148,
+      "launched_unix": 1791242665.2825367,
+      "stock_core": true,
+      "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+      "host_subtitles": false,
+      "guest_memory_writes": false,
+      "state_loaded": false,
+      "selected_level": 6,
+      "diagnostics": [
+        4,
+        0,
+        6,
+        1,
+        0,
+        12,
+        6,
+        0,
+        6,
+        1,
+        0,
+        6
+      ],
+      "setting_level": 6,
+      "setting_blocks": 2,
+      "original_files_unchanged": true,
+      "original_file_count": 6,
+      "all_package_crcs_valid": true,
+      "executable_sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+      "before": {
+        "image_sha256": "04dd4f04a527acc1e781898c8a6da8dc41b80968423e4615ab463679d27a6e36",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          }
+        ]
+      },
+      "after": {
+        "image_sha256": "b7787691fdb092a2520e8284ed6f6b2634bfccf10acee7096e43da5762a87ddc",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SC5KR_JUDGE",
+            "blocks": [
+              169,
+              168
+            ],
+            "file_sha256": "f0fc1b988ff34947096f7ce6c8172290dee3f6b613a6c5b53121dae116a85d56",
+            "crc_valid": true,
+            "app_id": "SC5KR-JUDGE-V1\u0000\u0000"
+          }
+        ]
+      },
+      "controller_actions": [
+        "start",
+        "up",
+        "a",
+        "up",
+        "left",
+        "start",
+        "start",
+        "up",
+        "a",
+        "up",
+        "left"
+      ]
+    },
+    {
+      "label": "coldboot6",
+      "pid": 28804,
+      "launched_unix": 1791243023.534298,
+      "stock_core": true,
+      "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+      "host_subtitles": false,
+      "guest_memory_writes": false,
+      "state_loaded": false,
+      "selected_level": 6,
+      "diagnostics": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        11,
+        2,
+        0,
+        2,
+        1,
+        0,
+        2
+      ],
+      "setting_level": 6,
+      "setting_blocks": 2,
+      "original_files_unchanged": true,
+      "original_file_count": 6,
+      "all_package_crcs_valid": true,
+      "executable_sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+      "before": {
+        "image_sha256": "04dd4f04a527acc1e781898c8a6da8dc41b80968423e4615ab463679d27a6e36",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          }
+        ]
+      },
+      "after": {
+        "image_sha256": "b7787691fdb092a2520e8284ed6f6b2634bfccf10acee7096e43da5762a87ddc",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SC5KR_JUDGE",
+            "blocks": [
+              169,
+              168
+            ],
+            "file_sha256": "f0fc1b988ff34947096f7ce6c8172290dee3f6b613a6c5b53121dae116a85d56",
+            "crc_valid": true,
+            "app_id": "SC5KR-JUDGE-V1\u0000\u0000"
+          }
+        ]
+      },
+      "controller_actions": []
+    },
+    {
+      "label": "overwritten2",
+      "pid": 28804,
+      "launched_unix": 1791243023.534298,
+      "stock_core": true,
+      "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+      "host_subtitles": false,
+      "guest_memory_writes": false,
+      "state_loaded": false,
+      "selected_level": 2,
+      "diagnostics": [
+        4,
+        0,
+        2,
+        1,
+        0,
+        12,
+        6,
+        0,
+        8,
+        1,
+        0,
+        6
+      ],
+      "setting_level": 2,
+      "setting_blocks": 2,
+      "original_files_unchanged": true,
+      "original_file_count": 6,
+      "all_package_crcs_valid": true,
+      "executable_sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+      "before": {
+        "image_sha256": "04dd4f04a527acc1e781898c8a6da8dc41b80968423e4615ab463679d27a6e36",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          }
+        ]
+      },
+      "after": {
+        "image_sha256": "8618c5af074e12dcb21eac7fb25c83e9714dc65b47b3a75b4eb87b249050b6e2",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SC5KR_JUDGE",
+            "blocks": [
+              169,
+              168
+            ],
+            "file_sha256": "3248b09311151845e972df068f6de6964a333cfdec575611a973c6dbec49afdd",
+            "crc_valid": true,
+            "app_id": "SC5KR-JUDGE-V1\u0000\u0000"
+          }
+        ]
+      },
+      "controller_actions": [
+        "start",
+        "up",
+        "a",
+        "start",
+        "up",
+        "a",
+        "start",
+        "up",
+        "a",
+        "up",
+        "right",
+        "right"
+      ]
+    },
+    {
+      "label": "full6",
+      "pid": 19044,
+      "launched_unix": 1791243335.0646093,
+      "stock_core": true,
+      "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+      "host_subtitles": false,
+      "guest_memory_writes": false,
+      "state_loaded": false,
+      "selected_level": 6,
+      "diagnostics": [
+        5,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4294967044,
+        0,
+        1,
+        0,
+        0
+      ],
+      "setting_level": null,
+      "setting_blocks": 0,
+      "original_files_unchanged": true,
+      "original_file_count": 7,
+      "all_package_crcs_valid": true,
+      "executable_sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+      "before": {
+        "image_sha256": "7fca9ebc334bc8d9897418691d152d090e463a1d3e2d6f26f56a15e170162356",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "QA_FULL_VMU",
+            "blocks": [
+              169,
+              168,
+              167,
+              166,
+              165,
+              164,
+              163,
+              162,
+              161,
+              160,
+              159,
+              158,
+              157,
+              156,
+              155,
+              154,
+              153,
+              152,
+              151,
+              150,
+              149,
+              148,
+              147,
+              146,
+              145,
+              144,
+              143,
+              142,
+              141,
+              140,
+              139,
+              138,
+              137,
+              136,
+              135,
+              134,
+              133,
+              132,
+              131,
+              130,
+              129,
+              128,
+              127,
+              126,
+              125,
+              124,
+              123,
+              122,
+              121,
+              120,
+              119,
+              118,
+              117,
+              116,
+              115,
+              114,
+              113,
+              112,
+              111,
+              110,
+              109,
+              108,
+              107,
+              106,
+              105,
+              104,
+              103,
+              102,
+              101,
+              100,
+              99,
+              98,
+              97,
+              96,
+              95,
+              94,
+              93,
+              92,
+              91,
+              90,
+              89,
+              88,
+              87,
+              86,
+              85,
+              84,
+              83,
+              82,
+              81,
+              80,
+              79,
+              78,
+              77,
+              76,
+              75,
+              74,
+              73,
+              72,
+              71,
+              70,
+              69,
+              68,
+              67,
+              66,
+              65,
+              64,
+              63,
+              62,
+              61,
+              60,
+              59,
+              58,
+              57,
+              56,
+              55,
+              54,
+              53,
+              52,
+              51,
+              50,
+              49,
+              48,
+              47,
+              46,
+              45,
+              44,
+              43,
+              42,
+              41,
+              40,
+              39,
+              38,
+              37,
+              36,
+              35,
+              34,
+              33,
+              32,
+              31,
+              30,
+              29,
+              28,
+              27,
+              26,
+              25,
+              24,
+              23,
+              22,
+              21,
+              20,
+              19,
+              18,
+              17,
+              16,
+              15,
+              14,
+              13,
+              12,
+              11,
+              10,
+              9,
+              8,
+              7,
+              6,
+              5,
+              4,
+              3,
+              2,
+              1,
+              0
+            ],
+            "file_sha256": "478257800be3ee1370e809b7635233ee6af7742708371b5e4a4da1d86e266fb0",
+            "crc_valid": true,
+            "app_id": "SC5KR-QA-FILLER\u0000"
+          }
+        ]
+      },
+      "after": {
+        "image_sha256": "7fca9ebc334bc8d9897418691d152d090e463a1d3e2d6f26f56a15e170162356",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "QA_FULL_VMU",
+            "blocks": [
+              169,
+              168,
+              167,
+              166,
+              165,
+              164,
+              163,
+              162,
+              161,
+              160,
+              159,
+              158,
+              157,
+              156,
+              155,
+              154,
+              153,
+              152,
+              151,
+              150,
+              149,
+              148,
+              147,
+              146,
+              145,
+              144,
+              143,
+              142,
+              141,
+              140,
+              139,
+              138,
+              137,
+              136,
+              135,
+              134,
+              133,
+              132,
+              131,
+              130,
+              129,
+              128,
+              127,
+              126,
+              125,
+              124,
+              123,
+              122,
+              121,
+              120,
+              119,
+              118,
+              117,
+              116,
+              115,
+              114,
+              113,
+              112,
+              111,
+              110,
+              109,
+              108,
+              107,
+              106,
+              105,
+              104,
+              103,
+              102,
+              101,
+              100,
+              99,
+              98,
+              97,
+              96,
+              95,
+              94,
+              93,
+              92,
+              91,
+              90,
+              89,
+              88,
+              87,
+              86,
+              85,
+              84,
+              83,
+              82,
+              81,
+              80,
+              79,
+              78,
+              77,
+              76,
+              75,
+              74,
+              73,
+              72,
+              71,
+              70,
+              69,
+              68,
+              67,
+              66,
+              65,
+              64,
+              63,
+              62,
+              61,
+              60,
+              59,
+              58,
+              57,
+              56,
+              55,
+              54,
+              53,
+              52,
+              51,
+              50,
+              49,
+              48,
+              47,
+              46,
+              45,
+              44,
+              43,
+              42,
+              41,
+              40,
+              39,
+              38,
+              37,
+              36,
+              35,
+              34,
+              33,
+              32,
+              31,
+              30,
+              29,
+              28,
+              27,
+              26,
+              25,
+              24,
+              23,
+              22,
+              21,
+              20,
+              19,
+              18,
+              17,
+              16,
+              15,
+              14,
+              13,
+              12,
+              11,
+              10,
+              9,
+              8,
+              7,
+              6,
+              5,
+              4,
+              3,
+              2,
+              1,
+              0
+            ],
+            "file_sha256": "478257800be3ee1370e809b7635233ee6af7742708371b5e4a4da1d86e266fb0",
+            "crc_valid": true,
+            "app_id": "SC5KR-QA-FILLER\u0000"
+          }
+        ]
+      },
+      "controller_actions": [
+        "start",
+        "up",
+        "a",
+        "up",
+        "left"
+      ]
+    },
+    {
+      "label": "none6",
+      "pid": 25292,
+      "launched_unix": 1791243618.669696,
+      "stock_core": true,
+      "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+      "host_subtitles": false,
+      "guest_memory_writes": false,
+      "state_loaded": false,
+      "selected_level": 6,
+      "diagnostics": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "setting_level": null,
+      "setting_blocks": 0,
+      "original_files_unchanged": true,
+      "original_file_count": 6,
+      "all_package_crcs_valid": true,
+      "executable_sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+      "before": {
+        "image_sha256": "04dd4f04a527acc1e781898c8a6da8dc41b80968423e4615ab463679d27a6e36",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          }
+        ]
+      },
+      "after": {
+        "image_sha256": "04dd4f04a527acc1e781898c8a6da8dc41b80968423e4615ab463679d27a6e36",
+        "files": [
+          {
+            "name": "SPACECH5_001",
+            "blocks": [
+              199,
+              198,
+              197,
+              196,
+              195
+            ],
+            "file_sha256": "6cc8de7900b24efecda294a87bd8685f83b4d8658e340a33b7e6c6d4a1e05f0a",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_002",
+            "blocks": [
+              194,
+              193,
+              192,
+              191,
+              190
+            ],
+            "file_sha256": "f04eaeac346cdbfcdfb38d7ecbc38356d652591ecf935ffb4f3857707ed07eb9",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_003",
+            "blocks": [
+              189,
+              188,
+              187,
+              186,
+              185
+            ],
+            "file_sha256": "ae52d07a1eb27497bfe2cc6bf6a1eb404b1b8102a1a5790528793d505dacdcd8",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_004",
+            "blocks": [
+              184,
+              183,
+              182,
+              181,
+              180
+            ],
+            "file_sha256": "c557be02b6ed7b85645e3384d8abb93d7388a35944803552ec405d049f0bd3b4",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_005",
+            "blocks": [
+              179,
+              178,
+              177,
+              176,
+              175
+            ],
+            "file_sha256": "4eb353d6c73a3cbfde240ca6e2294f9e2c15b6cb6c9c0aae97e14733535e9c1e",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          },
+          {
+            "name": "SPACECH5_006",
+            "blocks": [
+              174,
+              173,
+              172,
+              171,
+              170
+            ],
+            "file_sha256": "bd059708e4175c95646cb97af01a3aa3e5297458c83c41d2adbc6d493e09ab1f",
+            "crc_valid": true,
+            "app_id": "\u001a;\t\u001a\"ES.L6\u0002\u00037\u0000\u0000\u0000"
+          }
+        ]
+      },
+      "controller_actions": [
+        "start",
+        "start",
+        "up",
+        "a",
+        "up",
+        "left"
+      ]
+    }
+  ]
+}

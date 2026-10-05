@@ -1,5 +1,5 @@
 {
-  "version": "v0.8",
+  "version": "v0.81",
   "game": "Space Channel 5 (Japan)",
   "tracks": [
     {
@@ -51,17 +51,17 @@
       "source_sha256": "0aad1f767ebcbe25d78d0e28e7cfc85a9fd2fbee9ccd8074ea75c01156b9e0d4",
       "output_name": "track05.bin",
       "output_size": 1154011152,
-      "output_sha256": "4f0500c2a2c6e7d9dfb8a61b56b58d2a888ee935907deab0fb9c43957e706177",
+      "output_sha256": "0ee8175e6f2f0454778af4f7429b83cccf9c13d5ed5a6cc5c7deb5325d9a1b78",
       "skip_source_bytes": 0,
       "patch": "patches/track05.xdelta",
-      "patch_sha256": "8e85d0bae619475ad7dcb54e32ffa4498c0ef8fc102bd6deb100c7c1f5216134"
+      "patch_sha256": "372b9782eaea90f59649ab213b415301e5250b132da76f33e7ec12ac8547b273"
     }
   ],
   "gdi_name": "Space Channel 5 Korean Native.gdi",
   "gdi_text": "5\n1 0 4 2352 track01.bin 0\n2 997 0 2352 track02.bin 0\n3 45000 4 2352 track03.bin 0\n4 57911 0 2352 track04.bin 0\n5 58499 4 2352 track05.bin 0\n",
   "chd_name": "Space Channel 5 Korean Native.chd",
-  "chd_size": 885003214,
-  "chd_sha256": "83f00cd80182726b05ad0ac176d2cc6f41e55db207c89b9ba39bcb2f78b8ee34",
+  "chd_size": 885004311,
+  "chd_sha256": "34d7d118774fca9bc28dd7c044ef1066ffd94f983d45604fee695d9271f0e3a8",
   "subtitles_embedded": true,
   "external_subtitle_files_required": false,
   "tools": [
@@ -93,9 +93,14 @@
       0.08,
       0.1
     ],
-    "default": 1,
-    "cold_boot_resets_to_default": true,
-    "unselected_alpha": 128
+    "default_without_saved_setting": 1,
+    "cold_boot_resets_to_default": false,
+    "VMU_setting_persistence": true,
+    "setting_filename": "SC5KR_JUDGE",
+    "VMU_blocks": 2,
+    "save_settle_frames": 90,
+    "unselected_alpha": 128,
+    "original_Japanese_progress_save_format_changed": false
   },
-  "editor": "SC5KoreanWorkbench_v8.exe"
+  "editor": "SC5KoreanWorkbench_v9.exe"
 }

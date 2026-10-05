@@ -1,0 +1,54 @@
+{
+  "judgment_option": {
+    "updated_at": "2026-10-06T08:41:48+09:00",
+    "status": "native judgment setting automatically saved to VMU and restored on cold boot; latest user PNG applied",
+    "added_seconds": [
+      0,
+      0.02,
+      0.04,
+      0.06,
+      0.08,
+      0.1
+    ],
+    "default": 1,
+    "unselected_alpha": 128,
+    "controls": {
+      "A_START_RIGHT": "next",
+      "LEFT": "previous",
+      "UP_DOWN": "menu row"
+    },
+    "cold_boot_resets_to_default": false,
+    "VMU_setting_persistence": true,
+    "VMU_setting_filename": "SC5KR_JUDGE",
+    "VMU_setting_blocks": 2,
+    "VMU_verification": "work/judgment/v081-stock/vmu-validation.json",
+    "original_Japanese_progress_save_format_changed": false,
+    "native_execution": true,
+    "modified_emulator_required": false,
+    "boundary_cases_passed": 100,
+    "adjacent_note_cases_passed": 6,
+    "actual_stock_menu_verified": true,
+    "physical_console_tested": false,
+    "all_hold_and_dense_note_patterns_tested": false,
+    "chd": "34d7d118774fca9bc28dd7c044ef1066ffd94f983d45604fee695d9271f0e3a8",
+    "executable": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+    "PNG": "assets/image-edits/SET_JUDGMENT_2.png",
+    "PNG_size": [
+      429,
+      24
+    ],
+    "PNG_design": "user revised original PNG; dimensions and pixels preserved",
+    "PNG_automatically_applied_to_ROM": true,
+    "PNG_sha256": "721a3276eb747ea74510b5c2b41114a258d556cc36814dace2280f673744d196",
+    "PNG_argb4444_pixels_match": true,
+    "current_ROM_artwork": "user-approved revised PNG",
+    "next_step": "v0.81 publication and checkpoint; physical console and full gameplay coverage remain unverified",
+    "other_remaining_work": "See runtime_subtitle_limitations and gameplay_atlas_validation in data/localization_progress.json",
+    "mechanics_checks_scope": "106 prior v0.8 cases; success-window rules unchanged. v0.81 additionally validates VMU persistence and latest PNG.",
+    "editor": "SC5KoreanWorkbench_v9.exe",
+    "editor_bundle_proof": "work/judgment/editor-v9-bundle-proof.json"
+  },
+  "native_editor": "SC5KoreanWorkbench_v9.exe",
+  "native_editor_status": "v9 includes native VMU setting persistence and latest approved PNG",
+  "latest_batch": "v0.81 native judgment VMU persistence and revised user PNG"
+}

@@ -1,5 +1,5 @@
 {
-  "version": "v0.8",
+  "version": "v0.81",
   "success": true,
   "tracks": [
     {
@@ -24,15 +24,15 @@
     },
     {
       "number": 5,
-      "sha256": "4f0500c2a2c6e7d9dfb8a61b56b58d2a888ee935907deab0fb9c43957e706177",
+      "sha256": "0ee8175e6f2f0454778af4f7429b83cccf9c13d5ed5a6cc5c7deb5325d9a1b78",
       "size": 1154011152
     }
   ],
   "original_files_modified": false,
   "gdi_sha256": "8436b9ebc5b11503f1f0f69090616a57a5b7ca2d5c0696d748e05bdce33f7535",
   "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\r\nRaw SHA1 verification successful!\r\nOverall SHA1 verification successful!\r\nVerifying, 0.0% complete... \rVerifying, 5.0% complete... \rVerifying, 10.0% complete... \rVerifying, 12.5% complete... \rVerifying, 15.0% complete... \rVerifying, 17.5% complete... \rVerifying, 20.0% complete... \rVerifying, 22.5% complete... \rVerifying, 25.0% complete... \rVerifying, 27.5% complete... \rVerifying, 29.9% complete... \rVerifying, 32.4% complete... \rVerifying, 34.9% complete... \rVerifying, 37.4% complete... \rVerifying, 39.9% complete... \rVerifying, 42.4% complete... \rVerifying, 44.9% complete... \rVerifying, 47.4% complete... \rVerifying, 49.9% complete... \rVerifying, 52.4% complete... \rVerifying, 54.9% complete... \rVerifying, 57.4% complete... \rVerifying, 59.9% complete... \rVerifying, 62.4% complete... \rVerifying, 64.9% complete... \rVerifying, 67.4% complete... \rVerifying, 69.9% complete... \rVerifying, 72.4% complete... \rVerifying, 74.9% complete... \rVerifying, 77.4% complete... \rVerifying, 79.9% complete... \rVerifying, 82.4% complete... \rVerifying, 84.8% complete... \rVerifying, 87.3% complete... \rVerifying, 89.8% complete... \rVerifying, 92.3% complete... \rVerifying, 94.8% complete... \rVerifying, 97.3% complete... \rVerifying, 99.8% complete... \r",
-  "chd_sha256": "83f00cd80182726b05ad0ac176d2cc6f41e55db207c89b9ba39bcb2f78b8ee34",
-  "patcher_exe_sha256": "66cceba5db5d1dd36428c4fe11f5097778b6d10cbe98ae0a07272f808f7eff11",
-  "test_method": "Packaged v0.8 Windows executable CLI, original five BIN tracks, complete GDI/CHD generation",
+  "chd_sha256": "34d7d118774fca9bc28dd7c044ef1066ffd94f983d45604fee695d9271f0e3a8",
+  "patcher_exe_sha256": "29e17523a3abbc675b8d306cea5683af322690b5c63bcbeba090e1eeb65a1d90",
+  "test_method": "Packaged v0.81 Windows executable CLI, original five BIN tracks, complete GDI/CHD generation",
   "original_hashes_rechecked_after_apply": true
 }

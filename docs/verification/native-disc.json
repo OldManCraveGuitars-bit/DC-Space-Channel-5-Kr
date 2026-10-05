@@ -2,14 +2,14 @@
   "passed": true,
   "gdi": "<PROJECT>\\output\\native-rom\\Space Channel 5 Korean Native.gdi",
   "track5_start_lba": 58499,
-  "track5_sha256": "4f0500c2a2c6e7d9dfb8a61b56b58d2a888ee935907deab0fb9c43957e706177",
+  "track5_sha256": "0ee8175e6f2f0454778af4f7429b83cccf9c13d5ed5a6cc5c7deb5325d9a1b78",
   "track5_size": 1154011152,
   "files": [
     {
       "name": "1ST_READ.BIN",
       "lba": 547784,
       "size": 2490368,
-      "sha256": "0ad362006fcb10480abef12f98647759eb37a600b24576f550beaa067d8be9ec",
+      "sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
       "valid_edc_ecc_sectors": 1216
     },
     {
@@ -35,7 +35,7 @@
     }
   ],
   "payload_diagnostic": false,
-  "chd_sha256": "83f00cd80182726b05ad0ac176d2cc6f41e55db207c89b9ba39bcb2f78b8ee34",
+  "chd_sha256": "34d7d118774fca9bc28dd7c044ef1066ffd94f983d45604fee695d9271f0e3a8",
   "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
   "source_disc_modified": false,
   "external_subtitle_files_required": false,

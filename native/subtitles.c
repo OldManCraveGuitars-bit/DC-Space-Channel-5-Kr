@@ -193,6 +193,7 @@ static const Cue *current_cue(void) {
     }
     return chosen;
 }
+extern void native_judgment_vmu_tick(void);
 void native_frame(u32 direct_list) {
     const Cue *cue;
     native_diagnostics[0] = 0x5343354b;
@@ -200,6 +201,7 @@ void native_frame(u32 direct_list) {
     native_diagnostics[8] = direct_list;
     native_diagnostics[9] = *(volatile u32 *)0x8c21c040;
     native_diagnostics[10] = *(volatile u32 *)0x8c21c088;
+    if(direct_list==0) native_judgment_vmu_tick();
     cue = current_cue();
 #ifdef NATIVE_DIAGNOSTIC_CUE
     if (!cue) cue = &diagnostic_cue;

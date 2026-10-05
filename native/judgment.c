@@ -10,8 +10,9 @@ extern void original_options(j_u32 *menu);
 extern void original_judgment(void *,void *,float);
 extern void original_judgment_alt(void *,void *,float);
 
-/* This is session state in the executable; 1 is the cold-boot default. */
+/* Default until a validated settings package is read from the VMU. */
 volatile j_u32 native_judgment_level = 1;
+extern void native_judgment_vmu_changed(void);
 volatile j_u32 native_judgment_diagnostics[8];
 volatile j_u32 native_judgment_menu_ready;
 static j_u32 judgment_menu_focus;
@@ -57,9 +58,11 @@ void native_options(j_u32 *menu) {
                 menu[1]=0; mask_repeat=32; menu_sound();
             } else if (pressed & (4|8|128)) {
                 native_judgment_level = native_judgment_level==6 ? 1 : native_judgment_level+1;
+                native_judgment_vmu_changed();
                 mask_pressed=4|8|128; menu_sound();
             } else if (pressed & 64) {
                 native_judgment_level = native_judgment_level==1 ? 6 : native_judgment_level-1;
+                native_judgment_vmu_changed();
                 mask_pressed=64; menu_sound();
             }
         }

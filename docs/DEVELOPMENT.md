@@ -4,7 +4,7 @@
 
 ## 편집기 사용
 
-Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v8.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
+Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v9.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
 
 ROM 생성과 게임 실행에는 다음의 별도 도구 준비가 필요합니다.
 
@@ -48,7 +48,7 @@ python -m pip install pyinstaller
 python tools/build_native_editor.py --out SC5KoreanWorkbench.exe
 ```
 
-공개한 v8 실행 파일과 현재 소스는 COMMON 비압축 저장 모듈 및 섹터 재배치 도우미를 포함합니다. 최종 ROM 전체 빌드는 로컬 소스 환경에서 검증했으며, 모든 사용자 환경과 별도 도구 배치까지 검증한 배포는 아닙니다.
+공개한 v9 실행 파일과 현재 소스는 COMMON 비압축 저장 모듈 및 섹터 재배치 도우미를 포함합니다. 최종 ROM 전체 빌드는 로컬 소스 환경에서 검증했으며, 모든 사용자 환경과 별도 도구 배치까지 검증한 배포는 아닙니다.
 
 ## 패치 적용기 소스
 
@@ -70,6 +70,10 @@ python tools/build_native_editor.py --out SC5KoreanWorkbench.exe
 
 `native/judgment.c`가 OPTIONS 행과 플레이어 입력 판정을 연결합니다. `sc5/judgment_assets.py`는 `data/judgment_artwork.json`의 `source` PNG를 읽고 7개 표시 범위(문구 + 여섯 숫자)를 만듭니다. 기본 PNG 캔버스는 429×24, 숫자 시작 x=285, 숫자 간격 24px입니다. 크기와 좌표를 유지해 편집하면 ROM 빌드가 같은 파일을 반영합니다. PNG에 없는 픽셀을 새로 만들거나 VQ 압축을 수행하지 않습니다. 게임의 ARGB4444 정밀도로 양자화하고 전체 표시 픽셀을 다시 대조합니다.
 
-판정 단계는 실행 파일의 세션 변수입니다. 별도 설정 파일이나 VMU 변경이 필요하지 않습니다. 106개 판정 검사는 PNG 최종 업데이트 전의 동일 판정 코드 검사입니다. 자료는 `docs/verification/judgment-boundaries.json`, `judgment-adjacent-notes.json`, `judgment-user-png.json`에 있습니다. 실제 화면은 `docs/screenshots/11-judgment-default.png`~`13-judgment-level6.png`입니다.
+v0.81은 `native/judgment_vmu.c`에서 원래 게임의 비동기 VMU 드라이버로 `SC5KR_JUDGE` 설정 파일 2블록을 기록하고 부팅 시 읽습니다. 기존 `SPACECH5_001` 등의 진행 파일 형식은 바꾸지 않습니다. 숫자 변경 후 90프레임 동안 추가 변경이 없으면 저장을 시작합니다. 106개 판정 검사는 PNG 최종 업데이트 전의 동일 판정 코드 검사입니다. 자료는 `docs/verification/judgment-boundaries.json`, `judgment-adjacent-notes.json`, `judgment-user-png.json`에 있습니다. 실제 화면은 `docs/screenshots/11-judgment-default.png`~`13-judgment-level6.png`입니다.
 
 `tools/prepare_public_v08.py`와 `tools/finalize_public_v08.py`는 이 로컬 공개 배포 준비 기록입니다. 기존 경로와 검증된 디스크를 요구하므로 범용 재빌드 명령으로 사용하지 않습니다.
+
+## v0.81 공개 준비
+
+`tools/prepare_public_v081.py`, `document_public_v081.py`, `finalize_public_v081.py`는 검증된 로컬 디스크를 사용하는 배포 준비 기록입니다. `docs/verification/judgment-vmu.json`에는 공식 코어의 완전 종료/새 부팅, 일본판 진행 파일 보존, VMU 미연결/공간 부족 검증을 기록합니다. 새 스크린샷은 추가하지 않았습니다.

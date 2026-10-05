@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "file": "native/judgment.c",
+      "matches": true
+    },
+    {
+      "file": "native/judgment_vmu.c",
+      "matches": true
+    },
+    {
+      "file": "native/subtitles.c",
+      "matches": true
+    }
+  ]
+}

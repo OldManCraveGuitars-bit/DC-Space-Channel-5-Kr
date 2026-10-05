@@ -25,7 +25,8 @@ PAYLOAD_BASE = 0x8c250000
 HOOKS = [(0x8c06c460, 'frame'), (0x8c056718, 'voice_start'),
          (0x8c056060, 'voice_stop'), (0x8c0570aa, 'movie_start'),
          (0x8c057280, 'movie_stop'), (0x8c028fe8, 'options'),
-         (0x8c021930, 'judgment'), (0x8c021732, 'judgment_alt')]
+         (0x8c021930, 'judgment'), (0x8c021732, 'judgment_alt'),
+         (0x8c01073c, 'vmu_result'), (0x8c0106c8, 'vmu_completion')]
 
 def generate_data(config, out):
     characters = sorted(set(''.join(c['korean'] for v in config['clips'].values() for c in v)) | set('실기 자막 테스트'))
@@ -144,9 +145,10 @@ def build(diagnostic=False, disc=True):
     if diagnostic: flags += ['-DNATIVE_DIAGNOSTIC_CUE=1']
     run([gcc,*flags,'-I',out,'-c',resource_path('native/subtitles.c'),'-o',out/'subtitles.o'])
     run([gcc,*flags,'-I',out,'-c',resource_path('native/judgment.c'),'-o',out/'judgment.o'])
+    run([gcc,*flags,'-I',out,'-c',resource_path('native/judgment_vmu.c'),'-o',out/'judgment_vmu.o'])
     run([gcc,*flags,'-c',out/'hooks.S','-o',out/'hooks.o'])
     run([gcc,*flags,'-nostdlib','-Wl,-T,'+str(resource_path('native/link.ld')),'-Wl,-Map,'+str(out/'payload.map'),
-         out/'subtitles.o',out/'judgment.o',out/'hooks.o','-lgcc','-o',out/'payload.elf'])
+         out/'subtitles.o',out/'judgment.o',out/'judgment_vmu.o',out/'hooks.o','-lgcc','-o',out/'payload.elf'])
     run([toolchain/'sh-elf-objcopy.exe','-O','binary',out/'payload.elf',out/'payload.bin'])
     symbols={}
     for line in run([toolchain/'sh-elf-nm.exe','-n',out/'payload.elf']).splitlines():
