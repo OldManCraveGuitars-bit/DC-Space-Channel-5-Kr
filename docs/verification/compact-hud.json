@@ -1,0 +1,107 @@
+{
+  "source_png": "<PROJECT>\\assets\\image-edits\\COMMON_DATA.PVM_114.png",
+  "source_sha256": "53755aeca12ea434b19ed4512bc56e831cbb50f10b13c81e1153270a9e332fc3",
+  "source_retouching": false,
+  "source_resampling": false,
+  "ARGB4444_pixels_exact": true,
+  "palette_sizes": [
+    197,
+    139,
+    111
+  ],
+  "overlay_vram_bytes": 65536,
+  "old_uncompressed_hud_vram_bytes": 524288,
+  "restored_VQ_hud_vram_bytes": 67584,
+  "maps": [
+    [
+      20,
+      170,
+      178,
+      21,
+      2,
+      2,
+      0
+    ],
+    [
+      18,
+      201,
+      179,
+      21,
+      2,
+      25,
+      0
+    ],
+    [
+      19,
+      232,
+      187,
+      21,
+      2,
+      48,
+      0
+    ],
+    [
+      18,
+      265,
+      178,
+      20,
+      194,
+      2,
+      1
+    ],
+    [
+      18,
+      297,
+      177,
+      20,
+      194,
+      24,
+      1
+    ],
+    [
+      18,
+      328,
+      109,
+      22,
+      194,
+      46,
+      1
+    ],
+    [
+      389,
+      289,
+      108,
+      31,
+      388,
+      2,
+      2
+    ],
+    [
+      95,
+      443,
+      118,
+      32,
+      388,
+      35,
+      0
+    ],
+    [
+      350,
+      428,
+      135,
+      26,
+      194,
+      70,
+      1
+    ]
+  ],
+  "global_id": "0x4b520001",
+  "cleared_original": {
+    "edited_blocks": 13916,
+    "available_entries": 14,
+    "unique_edited_blocks": 1,
+    "premultiplied_rmse": 0.0,
+    "outside_regions_exact": true,
+    "length_unchanged": true
+  }
+}

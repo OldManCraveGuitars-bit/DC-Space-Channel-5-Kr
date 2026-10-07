@@ -1,0 +1,131 @@
+{
+  "status": "save-warning-and-report1-boss-fixes-built-and-verified",
+  "font": "Yeongdeok Blueroad",
+  "warning_rendered_at_native_pixel_size": true,
+  "boss_fix": "Restore original VQ common atlas plus lossless PAL8 Korean text overlays, prevent movie buffer overlap",
+  "hud_source_retouching": false,
+  "hud_vram_saved_bytes": 391168,
+  "physical_console_tested": false,
+  "other_reports_regression_tested": false,
+  "stock_core_modified": false,
+  "package": {
+    "gdi": "<PROJECT>\\output\\native-rom-fixed\\Space Channel 5 Korean Native.gdi",
+    "subtitles_embedded": true,
+    "external_caption_files": false,
+    "track5_index00_data_preserved": true,
+    "track5_start_lba": 58499,
+    "chd": "<PROJECT>\\output\\Space Channel 5 Korean Fixed.chd",
+    "verification": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
+    "chd_sha256": "6e2fed5e4431f5da3e2cf91e26478cb4f7a01c350648b20b7f69f538ff5b023a"
+  },
+  "boss_vram_proof": {
+    "route": "combined",
+    "label": "boss-playing-clean",
+    "ram_state_offset": 11027945,
+    "report_holder": "0x8c15d008",
+    "report_object": "0x8caf99e0",
+    "report_hex": "000c000000010000010100006056af8c0000000000000000000000000000000000000000000000000000000000000000",
+    "cpu_enabled": true,
+    "report_index": 0,
+    "game_progress": "01",
+    "stock_core": true,
+    "state_loaded": false,
+    "snapshot_operation_loaded_state": false,
+    "RAM_written": false,
+    "unix": 1791389602.902517,
+    "state": "<PROJECT>\\work\\save-boss-review-20261007\\combined\\boss-playing-clean.state",
+    "vram_state_offset": 2599898,
+    "boss_textures": [
+      {
+        "global_id": 15125,
+        "vram_address": "0x713140",
+        "size": 23904,
+        "byte_exact": true,
+        "expected_sha256": "436c5706db1e2d9d420b7877677f17a5b2d10055c1365def133d0cbdc3828ad6",
+        "actual_sha256": "436c5706db1e2d9d420b7877677f17a5b2d10055c1365def133d0cbdc3828ad6"
+      },
+      {
+        "global_id": 15126,
+        "vram_address": "0x718ea0",
+        "size": 7520,
+        "byte_exact": true,
+        "expected_sha256": "92ea09423674fda132c8f471ef8de5f53f5edd4ce5afebaca5b51ac2f27caeba",
+        "actual_sha256": "92ea09423674fda132c8f471ef8de5f53f5edd4ce5afebaca5b51ac2f27caeba"
+      },
+      {
+        "global_id": 15127,
+        "vram_address": "0x71ac00",
+        "size": 7520,
+        "byte_exact": true,
+        "expected_sha256": "144dc28770f8dd9f8dfcdb6f45732d2e37337f79d2015fe391d762bc4221aeb6",
+        "actual_sha256": "144dc28770f8dd9f8dfcdb6f45732d2e37337f79d2015fe391d762bc4221aeb6"
+      },
+      {
+        "global_id": 15128,
+        "vram_address": "0x71c960",
+        "size": 3424,
+        "byte_exact": true,
+        "expected_sha256": "66b1e7a2e2522146b0b043b462d3eda701f9ae09972ac6ff99a76792475b3937",
+        "actual_sha256": "66b1e7a2e2522146b0b043b462d3eda701f9ae09972ac6ff99a76792475b3937"
+      },
+      {
+        "global_id": 15129,
+        "vram_address": "0x71d6c0",
+        "size": 3424,
+        "byte_exact": true,
+        "expected_sha256": "f25603b1a08336a40b746f576dc6ad6500a15b6201a9b6805ef6c6ef2bfab4f4",
+        "actual_sha256": "f25603b1a08336a40b746f576dc6ad6500a15b6201a9b6805ef6c6ef2bfab4f4"
+      },
+      {
+        "global_id": 15130,
+        "vram_address": "0x71e420",
+        "size": 7520,
+        "byte_exact": true,
+        "expected_sha256": "003c098e017f599dcd0c71c5f99ffe0fa1cf4a527efbdd90a6639114cc34f283",
+        "actual_sha256": "003c098e017f599dcd0c71c5f99ffe0fa1cf4a527efbdd90a6639114cc34f283"
+      },
+      {
+        "global_id": 15131,
+        "vram_address": "0x720180",
+        "size": 3424,
+        "byte_exact": true,
+        "expected_sha256": "72fae5bcff12c47ec0b4ac620d011526533d71a59ec72bc98db928a72865bb26",
+        "actual_sha256": "72fae5bcff12c47ec0b4ac620d011526533d71a59ec72bc98db928a72865bb26"
+      }
+    ],
+    "all_loaded_boss_textures_byte_exact": true,
+    "video_vram_range": [
+      "0x3a6760",
+      "0x3cbf60"
+    ],
+    "video_boss_ranges_disjoint": true
+  },
+  "screenshots": {
+    "save_warning": "<PROJECT>\\work\\save-boss-review-20261007\\save-warning-fixed-in-game.png",
+    "boss_gameplay": "<PROJECT>\\work\\save-boss-review-20261007\\combined\\screenshots\\boss-play-011.png"
+  },
+  "source_sha256": {
+    "native/hud.c": "2456a5e73fdf07ddb9381024df6e2b0b7465c6c047b50cf47c8e7a773a3257ac",
+    "sc5/compact_hud.py": "1856d50c5c9875a99fcc8ae36eb4cac6b403e7635db889e6c2abfacd56970d06",
+    "sc5/warning_layout.py": "281aa4930dd51b7e79c6385255aa8113945b679b7b0bf5abca690b2fcfdd770f",
+    "sc5/texture_text.py": "cf2e637ae0f65bfd3b7bd5adefc50453886609251c6942fe1737b6151bed810d",
+    "sc5/build_images.py": "e0a6bf59e02a4cf2acf34fe03e3750ec823b7ee45b512baad90800fae4e756ca",
+    "sc5/build_text.py": "fa2d548e93f8db43878e2932dac82fcc9d40845ab798b5db8ff22480f8516877",
+    "sc5/common_atlas_storage.py": "fdd631d0192bd66271952086f5b31bdd9640c227dd7d3649d68b9c24310d09d7",
+    "sc5/native_subtitles.py": "b4adf534ccdcb5ea883516bc4d33b91b83b33dc79a653dc8dd21830043d91fb1",
+    "sc5/editor_project.py": "92bd1aa10dd71e820a80f8cc2830b25a2fa5923564d350252c791717ada87b9f",
+    "data/edits.json": "cfe735e4b5e707138aaa580c93a4e519f398aad93c6e8f2e41d11599e6feb6f7",
+    "assets/image-edits/COMMON_DATA.PVM_114.png": "53755aeca12ea434b19ed4512bc56e831cbb50f10b13c81e1153270a9e332fc3",
+    "assets/image-edits/COMMON_DATA.PVM_291.png": "3be8a22a0fd3481066fc886509c7d7a3168df036eec83997c475aa4cbd731722"
+  },
+  "editor": {
+    "executable": "<PROJECT>\\SC5KoreanWorkbench_v12.exe",
+    "size": 92807199,
+    "sha256": "e060ff47f3e9bae32222ebbf129bdcb2dd6ed11ebad6d6b25420dca93242cf16",
+    "console": false,
+    "font": "Yeongdeok Blueroad",
+    "format": "Windows native Tk, single executable",
+    "python_required_for_editor": false,
+    "runtime_game_subtitles": "SH-4 ROM renderer, embedded glyphs/cues, CHD/GDI packaging, unmodified official player"
+  }
+}

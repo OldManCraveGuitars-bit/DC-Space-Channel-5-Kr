@@ -4,7 +4,7 @@
 
 ## 편집기 사용
 
-Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v9.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
+Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v12.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
 
 ROM 생성과 게임 실행에는 다음의 별도 도구 준비가 필요합니다.
 
@@ -48,7 +48,7 @@ python -m pip install pyinstaller
 python tools/build_native_editor.py --out SC5KoreanWorkbench.exe
 ```
 
-공개한 v9 실행 파일과 현재 소스는 COMMON 비압축 저장 모듈 및 섹터 재배치 도우미를 포함합니다. 최종 ROM 전체 빌드는 로컬 소스 환경에서 검증했으며, 모든 사용자 환경과 별도 도구 배치까지 검증한 배포는 아닙니다.
+공개한 v12 실행 파일과 현재 소스는 COMMON VQ + PAL8 한글 표시, 저장 안내문 크기/UV 조정 모듈 및 섹터 재배치 도우미를 포함합니다. 최종 ROM 전체 빌드는 로컬 소스 환경에서 검증했으며, 모든 사용자 환경과 별도 도구 배치까지 검증한 배포는 아닙니다.
 
 ## 패치 적용기 소스
 
@@ -77,3 +77,9 @@ v0.81은 `native/judgment_vmu.c`에서 원래 게임의 비동기 VMU 드라이�
 ## v0.81 공개 준비
 
 `tools/prepare_public_v081.py`, `document_public_v081.py`, `finalize_public_v081.py`는 검증된 로컬 디스크를 사용하는 배포 준비 기록입니다. `docs/verification/judgment-vmu.json`에는 공식 코어의 완전 종료/새 부팅, 일본판 진행 파일 보존, VMU 미연결/공간 부족 검증을 기록합니다. 새 스크린샷은 추가하지 않았습니다.
+
+## v0.85 그래픽 수정
+
+`sc5/compact_hud.py`가 사용자 이미지의 ARGB4444 픽셀을 3개 팔레트와 512×128 PAL8 텍스처로 저장합니다. `native/hud.c`는 원래 스프라이트 함수의 global GBIX 경로로 한글 영역을 표시합니다. `sc5/warning_layout.py`와 `sc5/texture_text.py`는 저장 안내문을 실제 표시 크기로 만들고 원래 UV/배율을 조정합니다. 빌드 방식은 `data/edits.json`의 `common_compact`로 기록됩니다.
+
+`tools/prepare_public_v085.py`, `document_public_v085.py`, `finalize_public_v085.py`는 로컬 배포 준비 기록입니다. `docs/verification`의 보스 VRAM·저장 화면·후보/최종 코드 대조·패치 재적용 결과가 검증 범위를 설명합니다.

@@ -1,5 +1,5 @@
 {
-  "version": "v0.81",
+  "version": "v0.85",
   "game": "Space Channel 5 (Japan)",
   "tracks": [
     {
@@ -29,10 +29,10 @@
       "source_sha256": "73a0c5ff148217fd604cd32877889b021f405a2dbdee107ee1399e09b0d89c02",
       "output_name": "track03.bin",
       "output_size": 30013872,
-      "output_sha256": "b9856bf3157a8989ab0d70ffcc9d0b3b4f5cfcbe0b1f7f239e2cdf1d664ee3e3",
+      "output_sha256": "a6fdcd06e33987b0853408c1c7f6ab3ac5ce44362e102825bcc522b5809fbf1e",
       "skip_source_bytes": 0,
       "patch": "patches/track03.xdelta",
-      "patch_sha256": "173d86661b33a1542b8d4fae26255a056f65a58e035df205605a0081184ed730"
+      "patch_sha256": "2b5628b3416b6896f2ab86804163cf26167cea060cedfc4498085e377999fb10"
     },
     {
       "number": 4,
@@ -51,17 +51,17 @@
       "source_sha256": "0aad1f767ebcbe25d78d0e28e7cfc85a9fd2fbee9ccd8074ea75c01156b9e0d4",
       "output_name": "track05.bin",
       "output_size": 1154011152,
-      "output_sha256": "0ee8175e6f2f0454778af4f7429b83cccf9c13d5ed5a6cc5c7deb5325d9a1b78",
+      "output_sha256": "0050c0ca73e3acfea66690a41dfc370b14c29146920a222b75f9be85e383c238",
       "skip_source_bytes": 0,
       "patch": "patches/track05.xdelta",
-      "patch_sha256": "372b9782eaea90f59649ab213b415301e5250b132da76f33e7ec12ac8547b273"
+      "patch_sha256": "6408dfb8413254e2aa0fee760922146499f129ce16b02f24976f637f3ada1e93"
     }
   ],
   "gdi_name": "Space Channel 5 Korean Native.gdi",
   "gdi_text": "5\n1 0 4 2352 track01.bin 0\n2 997 0 2352 track02.bin 0\n3 45000 4 2352 track03.bin 0\n4 57911 0 2352 track04.bin 0\n5 58499 4 2352 track05.bin 0\n",
   "chd_name": "Space Channel 5 Korean Native.chd",
-  "chd_size": 885004311,
-  "chd_sha256": "34d7d118774fca9bc28dd7c044ef1066ffd94f983d45604fee695d9271f0e3a8",
+  "chd_size": 885268408,
+  "chd_sha256": "6e2fed5e4431f5da3e2cf91e26478cb4f7a01c350648b20b7f69f538ff5b023a",
   "subtitles_embedded": true,
   "external_subtitle_files_required": false,
   "tools": [
@@ -102,5 +102,11 @@
     "unselected_alpha": 128,
     "original_Japanese_progress_save_format_changed": false
   },
-  "editor": "SC5KoreanWorkbench_v9.exe"
+  "editor": "SC5KoreanWorkbench_v12.exe",
+  "graphics_repair": {
+    "native_warning_font_pixels": 16,
+    "HUD_VRAM_saved_bytes": 391168,
+    "boss_original_texture_bytes_preserved": true,
+    "physical_console_tested": false
+  }
 }

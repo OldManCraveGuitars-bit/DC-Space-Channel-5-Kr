@@ -1,5 +1,6 @@
 """Read back native executable and early Track 5 files from the packaged GDI."""
 from pathlib import Path
+import argparse
 import hashlib
 import json
 import sys
@@ -17,7 +18,10 @@ def digest(path):
 
 
 def main():
-    package = json.loads((ROOT/'output/native-rom/package-report.json').read_text('utf-8'))
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--package-report',type=Path,default=ROOT/'output/native-rom/package-report.json')
+    args=parser.parse_args()
+    package = json.loads(args.package_report.read_text('utf-8'))
     build = json.loads((ROOT/'work/native-rom/build/build-report.json').read_text('utf-8'))
     gdi = Path(package['gdi'])
     rows = [line.split() for line in gdi.read_text('ascii').splitlines()[1:]]

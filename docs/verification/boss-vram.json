@@ -1,0 +1,82 @@
+{
+  "route": "combined",
+  "label": "boss-playing-clean",
+  "ram_state_offset": 11027945,
+  "report_holder": "0x8c15d008",
+  "report_object": "0x8caf99e0",
+  "report_hex": "000c000000010000010100006056af8c0000000000000000000000000000000000000000000000000000000000000000",
+  "cpu_enabled": true,
+  "report_index": 0,
+  "game_progress": "01",
+  "stock_core": true,
+  "state_loaded": false,
+  "snapshot_operation_loaded_state": false,
+  "RAM_written": false,
+  "unix": 1791389602.902517,
+  "state": "<PROJECT>\\work\\save-boss-review-20261007\\combined\\boss-playing-clean.state",
+  "vram_state_offset": 2599898,
+  "boss_textures": [
+    {
+      "global_id": 15125,
+      "vram_address": "0x713140",
+      "size": 23904,
+      "byte_exact": true,
+      "expected_sha256": "436c5706db1e2d9d420b7877677f17a5b2d10055c1365def133d0cbdc3828ad6",
+      "actual_sha256": "436c5706db1e2d9d420b7877677f17a5b2d10055c1365def133d0cbdc3828ad6"
+    },
+    {
+      "global_id": 15126,
+      "vram_address": "0x718ea0",
+      "size": 7520,
+      "byte_exact": true,
+      "expected_sha256": "92ea09423674fda132c8f471ef8de5f53f5edd4ce5afebaca5b51ac2f27caeba",
+      "actual_sha256": "92ea09423674fda132c8f471ef8de5f53f5edd4ce5afebaca5b51ac2f27caeba"
+    },
+    {
+      "global_id": 15127,
+      "vram_address": "0x71ac00",
+      "size": 7520,
+      "byte_exact": true,
+      "expected_sha256": "144dc28770f8dd9f8dfcdb6f45732d2e37337f79d2015fe391d762bc4221aeb6",
+      "actual_sha256": "144dc28770f8dd9f8dfcdb6f45732d2e37337f79d2015fe391d762bc4221aeb6"
+    },
+    {
+      "global_id": 15128,
+      "vram_address": "0x71c960",
+      "size": 3424,
+      "byte_exact": true,
+      "expected_sha256": "66b1e7a2e2522146b0b043b462d3eda701f9ae09972ac6ff99a76792475b3937",
+      "actual_sha256": "66b1e7a2e2522146b0b043b462d3eda701f9ae09972ac6ff99a76792475b3937"
+    },
+    {
+      "global_id": 15129,
+      "vram_address": "0x71d6c0",
+      "size": 3424,
+      "byte_exact": true,
+      "expected_sha256": "f25603b1a08336a40b746f576dc6ad6500a15b6201a9b6805ef6c6ef2bfab4f4",
+      "actual_sha256": "f25603b1a08336a40b746f576dc6ad6500a15b6201a9b6805ef6c6ef2bfab4f4"
+    },
+    {
+      "global_id": 15130,
+      "vram_address": "0x71e420",
+      "size": 7520,
+      "byte_exact": true,
+      "expected_sha256": "003c098e017f599dcd0c71c5f99ffe0fa1cf4a527efbdd90a6639114cc34f283",
+      "actual_sha256": "003c098e017f599dcd0c71c5f99ffe0fa1cf4a527efbdd90a6639114cc34f283"
+    },
+    {
+      "global_id": 15131,
+      "vram_address": "0x720180",
+      "size": 3424,
+      "byte_exact": true,
+      "expected_sha256": "72fae5bcff12c47ec0b4ac620d011526533d71a59ec72bc98db928a72865bb26",
+      "actual_sha256": "72fae5bcff12c47ec0b4ac620d011526533d71a59ec72bc98db928a72865bb26"
+    }
+  ],
+  "all_loaded_boss_textures_byte_exact": true,
+  "video_vram_range": [
+    "0x3a6760",
+    "0x3cbf60"
+  ],
+  "video_boss_ranges_disjoint": true
+}

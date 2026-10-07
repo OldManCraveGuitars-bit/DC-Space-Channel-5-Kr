@@ -1,23 +1,23 @@
 {
   "passed": true,
-  "gdi": "<PROJECT>\\output\\native-rom\\Space Channel 5 Korean Native.gdi",
+  "gdi": "output\\native-rom-fixed\\Space Channel 5 Korean Native.gdi",
   "track5_start_lba": 58499,
-  "track5_sha256": "0ee8175e6f2f0454778af4f7429b83cccf9c13d5ed5a6cc5c7deb5325d9a1b78",
+  "track5_sha256": "0050c0ca73e3acfea66690a41dfc370b14c29146920a222b75f9be85e383c238",
   "track5_size": 1154011152,
   "files": [
     {
       "name": "1ST_READ.BIN",
       "lba": 547784,
       "size": 2490368,
-      "sha256": "fe54fab08086bc65bbeff5f793c3da413977af86837d49c7684f5aca5508b1b3",
+      "sha256": "81f1bc61a1fd8c6dc3d32d0ea451be25814f77964772ef8b63f12b16be15940d",
       "valid_edc_ecc_sectors": 1216
     },
     {
       "name": "COMMON_DATA.PVM",
       "lba": 59533,
-      "size": 1241232,
-      "sha256": "d4e763e6a1a1c8f38bbf9d76cb3f229e906dc11690860f37ed32d93a44be8d51",
-      "valid_edc_ecc_sectors": 607
+      "size": 850160,
+      "sha256": "f193af259516ebc953ad8d9165fa99f9f065f2c9dea5968497a3916e35cd3f5d",
+      "valid_edc_ecc_sectors": 416
     },
     {
       "name": "MANATEE.DRV",
@@ -35,7 +35,7 @@
     }
   ],
   "payload_diagnostic": false,
-  "chd_sha256": "34d7d118774fca9bc28dd7c044ef1066ffd94f983d45604fee695d9271f0e3a8",
+  "chd_sha256": "6e2fed5e4431f5da3e2cf91e26478cb4f7a01c350648b20b7f69f538ff5b023a",
   "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
   "source_disc_modified": false,
   "external_subtitle_files_required": false,

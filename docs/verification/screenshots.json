@@ -1,6 +1,6 @@
 {
-  "version": "v0.8",
-  "chd_sha256": "83f00cd80182726b05ad0ac176d2cc6f41e55db207c89b9ba39bcb2f78b8ee34",
+  "version": "v0.85",
+  "chd_sha256": "6e2fed5e4431f5da3e2cf91e26478cb4f7a01c350648b20b7f69f538ff5b023a",
   "screenshots": [
     {
       "file": "01-title.png",
@@ -68,28 +68,28 @@
     {
       "file": "11-judgment-default.png",
       "sha256": "2cb8ad77d611d4591e7be89cdeac6932e4fc2e64c09ee758d4580cfbf831d3f7",
-      "kind": "current_native_rom_capture",
+      "kind": "previous_native_rom_capture",
       "captured_version": "v0.8",
       "source": "work/judgment/stock/screenshots/approved-revision-options-default.png"
     },
     {
       "file": "12-judgment-level2.png",
       "sha256": "fd9860190d3191674fcef7f855b5a93e9cf1704382e2190c0b0d617c77976dc3",
-      "kind": "current_native_rom_capture",
+      "kind": "previous_native_rom_capture",
       "captured_version": "v0.8",
       "source": "work/judgment/stock/screenshots/approved-revision-level2.png"
     },
     {
       "file": "13-judgment-level6.png",
       "sha256": "3f6c5f7b2d990f6a4b588104359141df673086cf767fa63d84e0f75c21944fb1",
-      "kind": "current_native_rom_capture",
+      "kind": "previous_native_rom_capture",
       "captured_version": "v0.8",
       "source": "work/judgment/stock/screenshots/approved-revision-level6.png"
     },
     {
       "file": "14-main-menu-v08.png",
       "sha256": "6aadbe545d5b4e0300f704e60445cb77788ca3afa68a02826d10a2dd761d953a",
-      "kind": "current_native_rom_capture",
+      "kind": "previous_native_rom_capture",
       "captured_version": "v0.8",
       "source": "work/judgment/stock/screenshots/approved-revision-title.png"
     },
@@ -98,6 +98,46 @@
       "sha256": "d3c7443b9f5609991a39c4d15257d2271a1e21295df11e8f5d30d3887887e8a5",
       "kind": "user_approved_asset",
       "captured_version": "v0.8"
+    },
+    {
+      "file": "16-save-screen-v085.png",
+      "sha256": "c84f0a351be4a18a9ef42b233c26b6c05c45df3abcc1cf9e65dc2c2a11dbf0bc",
+      "kind": "native_candidate_capture",
+      "captured_version": "v0.85 repair candidate",
+      "source": "work/save-boss-review-20261007/combined/screenshots/combined-save-check.png",
+      "stock_core_unmodified": true,
+      "savestate_loaded": false,
+      "final_build_difference": "AFS identifier relocation and previously approved COMMON 115 VQ packing; HUD hook, warning, overlay identical"
+    },
+    {
+      "file": "17-save-warning-v085.png",
+      "sha256": "a1a747d1b647e9e4a37e46fb368e3e43bbc6752b158a9ca7b259a8fc445bde63",
+      "kind": "native_candidate_crop_2x_nearest",
+      "captured_version": "v0.85 repair candidate",
+      "source": "work/save-boss-review-20261007/save-warning-fixed-in-game.png",
+      "stock_core_unmodified": true,
+      "savestate_loaded": false,
+      "final_build_difference": "AFS identifier relocation and previously approved COMMON 115 VQ packing; HUD hook, warning, overlay identical"
+    },
+    {
+      "file": "18-boss-gameplay-v085.png",
+      "sha256": "8433782449041eade96396fac04c0a4de685a48a8e6e9a90c61f72fde4fd2d8b",
+      "kind": "native_candidate_capture",
+      "captured_version": "v0.85 repair candidate",
+      "source": "work/save-boss-review-20261007/combined/screenshots/boss-play-011.png",
+      "stock_core_unmodified": true,
+      "savestate_loaded": false,
+      "final_build_difference": "AFS identifier relocation and previously approved COMMON 115 VQ packing; HUD hook, warning, overlay identical"
+    },
+    {
+      "file": "19-gameplay-hud-v085.png",
+      "sha256": "c6f69253a50cccd648b66a8d318dc57fb154837a117b75775094d4a478bf18a2",
+      "kind": "native_candidate_capture",
+      "captured_version": "v0.85 repair candidate",
+      "source": "work/save-boss-review-20261007/combined/screenshots/combined-hud-check.png",
+      "stock_core_unmodified": true,
+      "savestate_loaded": false,
+      "final_build_difference": "AFS identifier relocation and previously approved COMMON 115 VQ packing; HUD hook, warning, overlay identical"
     }
   ]
 }

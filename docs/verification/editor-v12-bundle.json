@@ -1,0 +1,10 @@
+{
+  "executable": "<PROJECT>\\SC5KoreanWorkbench_v12.exe",
+  "size": 92807199,
+  "sha256": "e060ff47f3e9bae32222ebbf129bdcb2dd6ed11ebad6d6b25420dca93242cf16",
+  "console": false,
+  "font": "Yeongdeok Blueroad",
+  "format": "Windows native Tk, single executable",
+  "python_required_for_editor": false,
+  "runtime_game_subtitles": "SH-4 ROM renderer, embedded glyphs/cues, CHD/GDI packaging, unmodified official player"
+}

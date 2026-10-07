@@ -38,6 +38,15 @@ def encode_common_atlas(original,image,regions):
     header=bytearray(original[:p+16]);header[p+9]=1
     struct.pack_into('<I',header,p+4,8+twiddled.nbytes)
     packed=bytes(header)+twiddled.tobytes()
+    # The game's texture uploader consumes 32-byte DMA blocks. Preserve the
+    # original member alignment: each PVRT header starts at 16 modulo 32,
+    # and its data starts at 0. Omitting the original trailing padding shifts
+    # every later member's data by 16 bytes and can corrupt subsequent uploads.
+    padding=(-len(packed))%32
+    packed+=bytes(padding)
+    header=bytearray(packed[:p+16])
+    struct.pack_into('<I',header,p+4,len(packed)-p-8)
+    packed=bytes(header)+packed[p+16:]
     decoded=np.asarray(decode_pvr(packed))
     assert np.array_equal(decoded,channels.astype(np.uint8)*17)
     assert np.array_equal(decoded[~mask],prior[~mask])
@@ -45,6 +54,7 @@ def encode_common_atlas(original,image,regions):
             'pixel_format':'ARGB4444','source_bitmap_retouching':False,
             'outside_regions_pixel_exact':True,'per_pixel_quantization_only':True,
             'original_size':len(original),'new_size':len(packed),
+            'member_alignment':32,'trailing_padding_bytes':padding,
             'source_premultiplied_rmse':float(np.mean((visual(source)-visual(decoded))**2)**.5)}
     return packed,report
 
@@ -54,7 +64,7 @@ def _codec():
         f=getattr(lib,name);f.argtypes=[ctypes.c_void_p,ctypes.c_uint,ctypes.c_uint];f.restype=ctypes.c_int
     return lib
 
-def repack_common(image,replacement,track5,track3):
+def repack_common(image,replacement,track5,track3,packing_mode='common_uncompressed'):
     """Grow COMMON in copies; alias equal MPB files and shift intervening extents."""
     track5,track3=Path(track5),Path(track3)
     if track5.resolve()==image.track5.resolve() or track3.resolve()==image.track3.resolve():
@@ -126,7 +136,7 @@ def repack_common(image,replacement,track5,track3):
             data=update_mode1(old,directory[sector*2048:(sector+1)*2048].ljust(2048,b'\0'))
             assert verify_mode1(data)
             stream.seek(index*SECTOR);stream.write(data)
-    report={'packing_mode':'common_uncompressed','growth_sectors':growth,
+    report={'packing_mode':packing_mode,'growth_sectors':growth,
             'common_size':len(raw),'shared_audio_files':[shared.name,donor.name],
             'shared_audio_sha256':shared_hash,'audio_bytes_preserved':True,
             'shifted_files':proof,'root_directory_sectors':len(dirty),

@@ -26,7 +26,7 @@ HOOKS = [(0x8c06c460, 'frame'), (0x8c056718, 'voice_start'),
          (0x8c056060, 'voice_stop'), (0x8c0570aa, 'movie_start'),
          (0x8c057280, 'movie_stop'), (0x8c028fe8, 'options'),
          (0x8c021930, 'judgment'), (0x8c021732, 'judgment_alt'),
-         (0x8c01073c, 'vmu_result'), (0x8c0106c8, 'vmu_completion')]
+         (0x8c01073c, 'vmu_result'), (0x8c0106c8, 'vmu_completion'), (0x8c0539d8, 'hud')]
 
 def generate_data(config, out):
     characters = sorted(set(''.join(c['korean'] for v in config['clips'].values() for c in v)) | set('실기 자막 테스트'))
@@ -139,6 +139,8 @@ def build(diagnostic=False, disc=True):
         title_entry, title_bytes, judgment_art = prepare(Project(ROOT),localized,out)
         title_source_hash = hashlib.sha256(localized.read(title_entry.lba,title_entry.size)).hexdigest()
     stats = generate_data(config,out); trampolines(original,out)
+    from .compact_hud import prepare as prepare_hud
+    _, _, hud_art = prepare_hud(Project(ROOT),out)
     toolchain = ROOT/'work/native-rom/toolchain/sh-elf/sh-elf/bin'
     gcc = toolchain/'sh-elf-gcc.exe'
     flags = ['-ml','-m4-single-only','-mdiv=call-div1','-Os','-ffreestanding','-fno-builtin','-fno-pic','-fno-common','-fno-unwind-tables','-fno-asynchronous-unwind-tables']
@@ -146,9 +148,10 @@ def build(diagnostic=False, disc=True):
     run([gcc,*flags,'-I',out,'-c',resource_path('native/subtitles.c'),'-o',out/'subtitles.o'])
     run([gcc,*flags,'-I',out,'-c',resource_path('native/judgment.c'),'-o',out/'judgment.o'])
     run([gcc,*flags,'-I',out,'-c',resource_path('native/judgment_vmu.c'),'-o',out/'judgment_vmu.o'])
+    run([gcc,*flags,'-I',out,'-c',resource_path('native/hud.c'),'-o',out/'hud.o'])
     run([gcc,*flags,'-c',out/'hooks.S','-o',out/'hooks.o'])
     run([gcc,*flags,'-nostdlib','-Wl,-T,'+str(resource_path('native/link.ld')),'-Wl,-Map,'+str(out/'payload.map'),
-         out/'subtitles.o',out/'judgment.o',out/'judgment_vmu.o',out/'hooks.o','-lgcc','-o',out/'payload.elf'])
+         out/'subtitles.o',out/'judgment.o',out/'judgment_vmu.o',out/'hud.o',out/'hooks.o','-lgcc','-o',out/'payload.elf'])
     run([toolchain/'sh-elf-objcopy.exe','-O','binary',out/'payload.elf',out/'payload.bin'])
     symbols={}
     for line in run([toolchain/'sh-elf-nm.exe','-n',out/'payload.elf']).splitlines():
@@ -157,6 +160,15 @@ def build(diagnostic=False, disc=True):
     (out/'payload-disassembly.txt').write_text(run([toolchain/'sh-elf-objdump.exe','-d',out/'payload.elf']),'utf-8')
     payload=(out/'payload.bin').read_bytes()
     patched=bytearray(original)
+    # Original SAVE title UV stops six pixels before the E's outer edge.
+    # Keep the original English atlas and extend only that sprite's UV width.
+    save_uv_address=0x8c03acf8
+    save_uv_offset=save_uv_address-BASE
+    assert original[save_uv_offset:save_uv_offset+4]==struct.pack('<f',390/512)
+    assert original[save_uv_offset-16:save_uv_offset-8]==struct.pack('<IHH',114,512,512)
+    patched[save_uv_offset:save_uv_offset+4]=struct.pack('<f',396/512)
+    from .warning_layout import patch_warning_layout
+    warning_repairs = patch_warning_layout(original, patched, Project(ROOT))
     assert len(payload)<=0x20000 and symbols['payload_end']<=0x8c270000
     patched[0x240000:0x240000+len(payload)]=payload
     hooks=[]
@@ -176,7 +188,10 @@ def build(diagnostic=False, disc=True):
       'executable_sha256':hashlib.sha256(patched).hexdigest(),'payload_size':len(payload),
       'ram_end':hex(symbols['payload_end']),'diagnostics_address':hex(symbols['native_diagnostics']),
       'localized_afs_bases':config['afs_bases'],
-      'stats':stats,'hooks':hooks,'judgment_art':judgment_art,
+      'stats':stats,'hooks':hooks,'judgment_art':judgment_art,'hud_art':hud_art,
+      'layout_repairs':[{'asset':'SAVE English title','address':hex(save_uv_address),
+                        'original_right_u':390,'corrected_right_u':396,'atlas_width':512,
+                        'original_English_bitmap_preserved':True}] + warning_repairs,
       'emulator_services':False,'symbols':{k:hex(v) for k,v in symbols.items() if k.startswith(('native','original'))}}
     if disc:
         source_track=ROOT/'work/poc/Track5_KR.bin'
@@ -242,10 +257,10 @@ def build(diagnostic=False, disc=True):
     print(json.dumps({k:v for k,v in report.items() if k not in ('symbols','hooks')},ensure_ascii=False,indent=2))
     return report
 
-def package_rom(chd=True):
+def package_rom(chd=True, output_dir=None, chd_path=None):
     """Package the native executable and localized assets as GDI and one CHD."""
     project=Project(ROOT)
-    out=ROOT/'output/native-rom'
+    out=Path(output_dir) if output_dir else ROOT/'output/native-rom'
     out.mkdir(parents=True,exist_ok=True)
     tracks=[]
     with GDImage(project.disc) as image:
@@ -270,8 +285,8 @@ def package_rom(chd=True):
             'track5_index00_data_preserved':True,'track5_start_lba':starts[5]}
     if chd:
         tool=ROOT/'work/native-rom/toolchain/mame/chdman.exe'
-        target=ROOT/'output/Space Channel 5 Korean Native.chd'
-        pending=ROOT/'output/Space Channel 5 Korean Native.pending.chd'
+        target=Path(chd_path) if chd_path else ROOT/'output/Space Channel 5 Korean Native.chd'
+        pending=target.with_suffix('.pending.chd')
         run([tool,'createcd','-i',gdi,'-o',pending,'-f','-np','8'])
         verification=run([tool,'verify','-i',pending])
         pending.replace(target)

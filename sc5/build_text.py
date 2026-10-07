@@ -95,7 +95,7 @@ def build(disc: Path, output: Path) -> dict:
         lossless = paths.pop("0GDTEX.PVR", None) if any(
             report.get("packing_mode") == "lossless_twiddled" for report in manifest["atlas_images"]) else None
         expanded_common = paths.pop('COMMON_DATA.PVM',None) if any(
-            report.get('packing_mode')=='common_uncompressed' for report in manifest['atlas_images']) else None
+            report.get('packing_mode') in {'common_uncompressed','common_compact'} for report in manifest['atlas_images']) else None
 
         output.parent.mkdir(parents=True, exist_ok=True)
         temporary = output.with_name(output.stem + f".building-{os.getpid()}" + output.suffix)
@@ -110,7 +110,9 @@ def build(disc: Path, output: Path) -> dict:
                 manifest["track3"] = str(track3.resolve())
                 manifest["track3_changed_sectors"] = relocation["track3_sectors"]
             if expanded_common:
-                repacking=repack_common(image,expanded_common,temporary,temporary3)
+                mode=next(r['packing_mode'] for r in manifest['atlas_images']
+                          if r.get('packing_mode') in {'common_uncompressed','common_compact'})
+                repacking=repack_common(image,expanded_common,temporary,temporary3,mode)
                 manifest['common_atlas_storage']=repacking
                 manifest['track3']=str(track3.resolve())
                 manifest['track3_changed_sectors']=manifest.get('track3_changed_sectors',0)+repacking['root_directory_sectors']

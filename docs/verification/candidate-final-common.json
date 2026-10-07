@@ -1,0 +1,9 @@
+{
+  "common_size": 850160,
+  "candidate_to_final_different_members": [
+    115
+  ],
+  "HUD_warning_and_overlay_byte_exact": true,
+  "difference_reason": "Existing approved stable packing retained for COMMON 115",
+  "final_common_sha256": "f193af259516ebc953ad8d9165fa99f9f065f2c9dea5968497a3916e35cd3f5d"
+}

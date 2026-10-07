@@ -210,6 +210,7 @@ class Project:
                 changes[self.replacement(kind, item_id)] = png.getvalue()
                 record["text_matches_image"] = True
                 record["edit_regions"] = [label["region"] for label in record["labels"]]
+                record["edit_regions"] += [label['source_region'] for label in record['labels'] if label.get('source_region')]
             if kind == "text":
                 if not re.fullmatch(r"CPRO\d{2}\.PVR", item_id):
                     raise ValueError("Unsupported text record")

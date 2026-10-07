@@ -7,10 +7,11 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-from .assets import decode_pvr, encode_vq_regions
+from .assets import decode_pvr, encode_vq_regions, pvm_members
 from .editor_project import Project, safe_name
 from .lossless_artwork import encode_lossless_artwork
 from .common_atlas_storage import encode_common_atlas
+from .compact_hud import prepare as prepare_compact_hud, append_overlay
 
 
 def encode_stable_regions(project, original, image, record, all_regions):
@@ -71,7 +72,7 @@ def encode_stable_regions(project, original, image, record, all_regions):
 
 def pack_atlases(project: Project, disc) -> tuple[dict[str, Path], list[dict]]:
     entries = {e.name: e for e in disc.entries()}
-    archives, reports, packed_members = {}, [], {}
+    archives, reports, packed_members, overlays = {}, [], {}, {}
     for item_id, record in sorted(project.edits("images").items()):
         if record.get("status") != "edited" or item_id.startswith("CPRO"):
             continue
@@ -97,9 +98,14 @@ def pack_atlases(project: Project, disc) -> tuple[dict[str, Path], list[dict]]:
         allowed = np.zeros(before.shape[:2], dtype=bool)
         for x, y, w, h in regions:
             allowed[y:y + h, x:x + w] = True
-        if record.get('packing_mode') != 'common_uncompressed' and np.any(before[~allowed] != after[~allowed]):
+        if record.get('packing_mode') not in {'common_uncompressed','common_compact'} and np.any(before[~allowed] != after[~allowed]):
             raise ValueError(f"{item_id}: registered Japanese regions 밖에 수정된 픽셀이 있습니다.")
-        if record.get('packing_mode') == 'common_uncompressed':
+        if record.get('packing_mode') == 'common_compact':
+            if item_id != 'COMMON_DATA.PVM:114':
+                raise ValueError('Compact hardware overlay is limited to game02')
+            packed, overlays[name], report = prepare_compact_hud(project,project.root/'work/native-rom/build')
+            report['packing_mode'] = 'common_compact'
+        elif record.get('packing_mode') == 'common_uncompressed':
             if item_id != 'COMMON_DATA.PVM:114':
                 raise ValueError('Expanded common atlas mode is limited to game02')
             packed,report=encode_common_atlas(original,image,regions)
@@ -116,7 +122,15 @@ def pack_atlases(project: Project, disc) -> tuple[dict[str, Path], list[dict]]:
         reports.append(report)
         preview = project.root / "work/packed-images" / (safe_name(item_id) + ".png")
         preview.parent.mkdir(parents=True, exist_ok=True)
-        decode_pvr(packed).save(preview)
+        if record.get('packing_mode') == 'common_compact':
+            # This member is blanked only where native overlay quads restore
+            # the source pixels. Preview the complete logical atlas.
+            composite=decode_pvr(packed)
+            for x,y,w,h in regions:
+                composite.paste(image.crop((x,y,x+w,y+h)),(x,y))
+            composite.save(preview)
+        else:
+            decode_pvr(packed).save(preview)
     output = project.root / "assets/pvm-edits"
     output.mkdir(parents=True, exist_ok=True)
     paths = {}
@@ -125,6 +139,16 @@ def pack_atlases(project: Project, disc) -> tuple[dict[str, Path], list[dict]]:
         # those edits are applied. Original offsets remain catalog coordinates.
         for offset,size,packed in sorted(packed_members[name],reverse=True):
             raw[offset:offset+size]=packed
+        if name in overlays:
+            raw=bytearray(append_overlay(bytes(raw),overlays[name]))
+        if name == 'COMMON_DATA.PVM':
+            original_members = pvm_members(project.disc_bytes(name),name)
+            final_members = pvm_members(raw,name)
+            if len(final_members) != len(original_members)+(1 if name in overlays else 0):
+                raise ValueError('COMMON texture count changed')
+            for previous,current in zip(original_members,final_members):
+                if (previous['offset']+16)%32 != (current['offset']+16)%32:
+                    raise ValueError(f"COMMON texture data lost its DMA alignment: {current['id']}")
         path = output / name
         path.write_bytes(raw)
         paths[name] = path

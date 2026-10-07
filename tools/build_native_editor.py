@@ -26,6 +26,7 @@ def main():
                "--add-data", str(ROOT / "native/subtitles.c") + ";native",
                "--add-data", str(ROOT / "native/judgment.c") + ";native",
                "--add-data", str(ROOT / "native/judgment_vmu.c") + ";native",
+               "--add-data", str(ROOT / "native/hud.c") + ";native",
                "--add-data", str(ROOT / "native/link.ld") + ";native",
                "--add-data", str(ROOT / "native/sector_retime.dll") + ";native",
                "--console" if args.console else "--windowed"]

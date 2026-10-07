@@ -1354,7 +1354,7 @@
         "whole_texture_import_authorized": true,
         "transparent_white_rgb_kept_as_supplied": true
       },
-      "packing_mode": "common_uncompressed"
+      "packing_mode": "common_compact"
     },
     "TITLE.PVM:090": {
       "status": "edited",
@@ -4280,10 +4280,28 @@
             0,
             0,
             338,
-            26
+            22
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            0,
+            338,
+            26
+          ],
+          "source_y": 0,
+          "font_size": 18,
+          "baseline": 18,
+          "spacing_candidates": [
+            20,
+            19,
+            18
+          ],
+          "latin_scale": 0.6923076923076923,
+          "native_pixel_size": true
         },
         {
           "row": 1,
@@ -4293,12 +4311,30 @@
           "korean": "비주얼 메모리를 인식 중 모로.",
           "region": [
             0,
+            22,
+            390,
+            22
+          ],
+          "source_x": 0,
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
             26,
             390,
             26
           ],
-          "source_x": 0,
-          "align": "left"
+          "source_y": 26,
+          "font_size": 18,
+          "baseline": 18,
+          "spacing_candidates": [
+            20,
+            19,
+            18
+          ],
+          "latin_scale": 0.6923076923076923,
+          "native_pixel_size": true
         },
         {
           "row": 2,
@@ -4313,7 +4349,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            52,
+            468,
+            26
+          ],
+          "source_y": 52,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 3,
@@ -4328,7 +4382,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            78,
+            364,
+            26
+          ],
+          "source_y": 78,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 4,
@@ -4343,7 +4415,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            104,
+            494,
+            26
+          ],
+          "source_y": 104,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 6,
@@ -4355,10 +4445,28 @@
             0,
             156,
             442,
-            26
+            20
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            156,
+            442,
+            26
+          ],
+          "source_y": 156,
+          "font_size": 16,
+          "baseline": 16,
+          "spacing_candidates": [
+            18,
+            17,
+            16
+          ],
+          "latin_scale": 0.6153846153846154,
+          "native_pixel_size": true
         },
         {
           "row": 7,
@@ -4368,12 +4476,30 @@
           "korean": "게임을 계속하려면 B 버튼을 눌러 모로.",
           "region": [
             0,
+            176,
+            494,
+            20
+          ],
+          "source_x": 0,
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
             182,
             494,
             26
           ],
-          "source_x": 0,
-          "align": "left"
+          "source_y": 182,
+          "font_size": 16,
+          "baseline": 16,
+          "spacing_candidates": [
+            18,
+            17,
+            16
+          ],
+          "latin_scale": 0.6153846153846154,
+          "native_pixel_size": true
         },
         {
           "row": 8,
@@ -4388,7 +4514,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            208,
+            338,
+            26
+          ],
+          "source_y": 208,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 9,
@@ -4403,7 +4547,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            234,
+            234,
+            26
+          ],
+          "source_y": 234,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 10,
@@ -4418,7 +4580,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            260,
+            260,
+            26
+          ],
+          "source_y": 260,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 11,
@@ -4433,7 +4613,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            286,
+            234,
+            26
+          ],
+          "source_y": 286,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 12,
@@ -4448,7 +4646,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            312,
+            338,
+            26
+          ],
+          "source_y": 312,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 13,
@@ -4463,7 +4679,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            338,
+            234,
+            26
+          ],
+          "source_y": 338,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 14,
@@ -4478,7 +4712,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            364,
+            338,
+            26
+          ],
+          "source_y": 364,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 15,
@@ -4493,7 +4745,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            390,
+            260,
+            26
+          ],
+          "source_y": 390,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 16,
@@ -4508,7 +4778,25 @@
             26
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            416,
+            338,
+            26
+          ],
+          "source_y": 416,
+          "font_size": 22,
+          "baseline": 20,
+          "spacing_candidates": [
+            24,
+            23,
+            22
+          ],
+          "latin_scale": 0.8461538461538461,
+          "native_pixel_size": true
         },
         {
           "row": 17,
@@ -4520,16 +4808,136 @@
             0,
             442,
             312,
-            26
+            20
           ],
           "source_x": 0,
-          "align": "left"
+          "align": "left",
+          "glyph_rasterization": "coverage_crisp",
+          "glyph_stroke_quarters": 0,
+          "source_region": [
+            0,
+            442,
+            312,
+            26
+          ],
+          "source_y": 442,
+          "font_size": 16,
+          "baseline": 16,
+          "spacing_candidates": [
+            18,
+            17,
+            16
+          ],
+          "latin_scale": 0.6153846153846154,
+          "native_pixel_size": true
         }
       ],
       "status": "edited",
       "renderer": "stage_caption_atlas",
       "text_matches_image": true,
       "edit_regions": [
+        [
+          0,
+          0,
+          338,
+          22
+        ],
+        [
+          0,
+          22,
+          390,
+          22
+        ],
+        [
+          0,
+          52,
+          468,
+          26
+        ],
+        [
+          0,
+          78,
+          364,
+          26
+        ],
+        [
+          0,
+          104,
+          494,
+          26
+        ],
+        [
+          0,
+          156,
+          442,
+          20
+        ],
+        [
+          0,
+          176,
+          494,
+          20
+        ],
+        [
+          0,
+          208,
+          338,
+          26
+        ],
+        [
+          0,
+          234,
+          234,
+          26
+        ],
+        [
+          0,
+          260,
+          260,
+          26
+        ],
+        [
+          0,
+          286,
+          234,
+          26
+        ],
+        [
+          0,
+          312,
+          338,
+          26
+        ],
+        [
+          0,
+          338,
+          234,
+          26
+        ],
+        [
+          0,
+          364,
+          338,
+          26
+        ],
+        [
+          0,
+          390,
+          260,
+          26
+        ],
+        [
+          0,
+          416,
+          338,
+          26
+        ],
+        [
+          0,
+          442,
+          312,
+          20
+        ],
         [
           0,
           0,
@@ -4633,7 +5041,7 @@
           26
         ]
       ],
-      "note": "Shared warning image identified from actual save/load texture dump. Original 26px rows and message UVs, A/B/5 glyph pixels retained. Yeongdeok Blueroad 22px. Pink dialog drawn by game."
+      "note": "Save/load warning: Yeongdeok Blueroad rasterized at screen size (overwrite: 16px, 20px line spacing), 4x area coverage. No stroke expansion, ringing or fractional downscale. English wording preserved; A/B/5 shapes sampled from the source. Exact VQ fit without extra texture memory."
     },
     "ROLL.PVM:000": {
       "status": "english_keep",

@@ -1,0 +1,27 @@
+{
+  "edited_blocks": 38324,
+  "available_entries": 255,
+  "unique_edited_blocks": 190,
+  "premultiplied_rmse": 0.0,
+  "outside_regions_exact": true,
+  "length_unchanged": true,
+  "item": "COMMON_DATA.PVM:291",
+  "font": "<PROJECT>\\assets\\fonts\\yeongdeok-blueroad\\Yeongdeok-Blueroad.ttf",
+  "font_size_by_message": {
+    "controller_or_vmu_busy": 18,
+    "vmu_space_required": 22,
+    "overwrite_or_continue": 16,
+    "load_failed": 22,
+    "file_unusable": 22,
+    "save_failed": 22,
+    "record_invalid": 22,
+    "no_save_file": 22,
+    "power_warning": 16
+  },
+  "overwrite_font_size": 16,
+  "overwrite_line_spacing": 20,
+  "display_scale": 1,
+  "original_english_wording_preserved": true,
+  "glyph_rasterization": "coverage_crisp",
+  "glyph_stroke_quarters": 0
+}

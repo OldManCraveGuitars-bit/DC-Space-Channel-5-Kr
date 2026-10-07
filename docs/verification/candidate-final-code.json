@@ -1,0 +1,6 @@
+{
+  "only_relocated_AFS_identifiers_differ": true,
+  "different_bytes": 476,
+  "binding_table_offset": "0x244e0c",
+  "HUD_hook_warning_layout_and_all_other_code_identical": true
+}
