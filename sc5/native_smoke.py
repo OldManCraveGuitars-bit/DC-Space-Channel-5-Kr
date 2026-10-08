@@ -72,7 +72,7 @@ def run_caption_review(root, disc=None):
         assert any(s["korean"] == original["segments"][1]["korean"] for s in exported)
         result["checks"].append("English_keep_excluded_and_reviewed_caption_exported")
         if "movie:r4_makuma.sfd" in config["clips"]:
-            assert {s.get("bottom_offset") for s in config["clips"]["movie:r4_makuma.sfd"]} == {84}
+            assert {s.get("bottom_offset") for s in config["clips"]["movie:r4_makuma.sfd"]} == {48}
             editor.switch("videos", force=True); editor.pick("R4_MAKUMA.SFD")
             started = time.monotonic()
             while editor.player.duration <= 0:

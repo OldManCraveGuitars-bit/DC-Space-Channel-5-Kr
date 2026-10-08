@@ -4,7 +4,7 @@
 
 ## 편집기 사용
 
-Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v12.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
+Workbench ZIP을 압축 해제하고 `SC5KoreanWorkbench_v16.exe`를 실행합니다. `data/edits.json`이 있는 폴더를 프로젝트로 선택하고, 원본 디스크 선택 버튼으로 일본판 5트랙 폴더를 지정합니다. 번역 저장·원본 비교·음성/영상 재생·CSV 내보내기는 독립 실행형 편집기에서 사용합니다.
 
 ROM 생성과 게임 실행에는 다음의 별도 도구 준비가 필요합니다.
 
@@ -83,3 +83,14 @@ v0.81은 `native/judgment_vmu.c`에서 원래 게임의 비동기 VMU 드라이�
 `sc5/compact_hud.py`가 사용자 이미지의 ARGB4444 픽셀을 3개 팔레트와 512×128 PAL8 텍스처로 저장합니다. `native/hud.c`는 원래 스프라이트 함수의 global GBIX 경로로 한글 영역을 표시합니다. `sc5/warning_layout.py`와 `sc5/texture_text.py`는 저장 안내문을 실제 표시 크기로 만들고 원래 UV/배율을 조정합니다. 빌드 방식은 `data/edits.json`의 `common_compact`로 기록됩니다.
 
 `tools/prepare_public_v085.py`, `document_public_v085.py`, `finalize_public_v085.py`는 로컬 배포 준비 기록입니다. `docs/verification`의 보스 VRAM·저장 화면·후보/최종 코드 대조·패치 재적용 결과가 검증 범위를 설명합니다.
+
+## v1.1 영상 차이 패치와 글자 표시
+
+- `sc5/movie_assets.py`는 `data/movie_replacements.json`의 수정 영상을 미리보기·디스크 빌드에 연결합니다. 공개본에는 `assets/movie-edits/R4_MAKUMA.SFD.xdelta`만 포함합니다.
+- Workbench ZIP의 `bin/xdelta3.exe`를 함께 유지하세요. 소스 체크아웃은 Patch ZIP의 같은 파일을 `bin/xdelta3.exe`로 복사합니다. 원본 영상, 차이 패치, 도구, 복원 결과의 SHA-256을 모두 검사합니다.
+- 원본 영상은 지정한 일본판 디스크에서 읽으며 복원 결과는 `work/movie-replacements/`에 캐시합니다. 영상 원본이나 음성을 저장소에 추가하지 않습니다.
+- `sc5/render_cpro.py`는 79장 프로필을 최종 픽셀 크기로 만들고 `sc5/profile_layout.py`가 본문 세로 축소와 분류 제목 잘림·중앙 정렬을 처리합니다.
+- `native/hud.c`는 한글 팔레트 텍스처 표시 후 원래 활성 머티리얼까지 복원합니다.
+- `tools/prepare_public_v11.py`, `finalize_public_v11.py`는 특정 로컬 경로와 검증 자료를 사용하는 배포 기록입니다. 범용 게임 재빌드 명령은 위의 소스 환경을 따릅니다.
+
+V1.1 배포 패치의 원본→최종 디스크 재생성은 검증했습니다. Workbench ZIP을 완전히 새 개발 환경에 설치해 SH-4 전체 재빌드까지 실행하는 검증과 실기 검증은 별도입니다.

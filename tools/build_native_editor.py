@@ -14,8 +14,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--console", action="store_true")
     parser.add_argument("--out", type=Path, default=ROOT / "SC5KoreanWorkbench.exe")
+    parser.add_argument("--build-dir", type=Path, default=ROOT / "work/native-build")
     args = parser.parse_args()
-    build = ROOT / "work/native-build"
+    build = args.build_dir.resolve()
     build.mkdir(parents=True, exist_ok=True)
     stage = build / "release"
     command = [sys.executable, "-m", "PyInstaller", "--noconfirm", "--onefile", "--noupx",

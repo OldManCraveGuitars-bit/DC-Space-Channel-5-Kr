@@ -1,0 +1,233 @@
+{
+  "status": "fixed-and-verified-on-stock-flycast",
+  "scope": "v0.85 result-label texture state regression; local build",
+  "five_result_labels_visually_verified": [
+    "목표 시청률",
+    "최종 시청률",
+    "최고! 시청률",
+    "구조 달성률",
+    "예상 시청률"
+  ],
+  "visual_result": "No stretched neighboring texture, overlapping glyph strips or opaque rectangular leftovers around the five labels.",
+  "fresh_boot": true,
+  "native_cpu_cheat_used": true,
+  "state_load_used": false,
+  "emulator_core_modified": false,
+  "host_overlay_used": false,
+  "RAM_writes_used": false,
+  "physical_console_tested": false,
+  "other_reports_retested": false,
+  "package": {
+    "gdi": "<PROJECT>\\output\\native-rom-results-fixed\\Space Channel 5 Korean Native.gdi",
+    "subtitles_embedded": true,
+    "external_caption_files": false,
+    "track5_index00_data_preserved": true,
+    "track5_start_lba": 58499,
+    "chd": "<PROJECT>\\output\\Space Channel 5 Korean Results Fixed.chd",
+    "verification": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
+    "chd_sha256": "d3a37d4c5661417311799765d7905a840d71333851dd01146f7d20596d8623fc"
+  },
+  "disc_validation": {
+    "passed": true,
+    "gdi": "<PROJECT>\\output\\native-rom-results-fixed\\Space Channel 5 Korean Native.gdi",
+    "track5_start_lba": 58499,
+    "track5_sha256": "d3f43ae1e82abc33c40bf287a570b19442e58968521790578fa7052b0cb8d3f3",
+    "track5_size": 1154011152,
+    "files": [
+      {
+        "name": "1ST_READ.BIN",
+        "lba": 547784,
+        "size": 2490368,
+        "sha256": "9a6732a9e6079a3c51bbdb1a77f2d3f7dcb9afde5a5f22b2105e809cab2078da",
+        "valid_edc_ecc_sectors": 1216
+      },
+      {
+        "name": "COMMON_DATA.PVM",
+        "lba": 59533,
+        "size": 850160,
+        "sha256": "f193af259516ebc953ad8d9165fa99f9f065f2c9dea5968497a3916e35cd3f5d",
+        "valid_edc_ecc_sectors": 416
+      },
+      {
+        "name": "MANATEE.DRV",
+        "lba": 58734,
+        "size": 36480,
+        "sha256": "1c9cd13f9c6c2528bfa7c4a760d6394f8ef7cdbb2079f54057fdf10edf5f64b7",
+        "valid_edc_ecc_sectors": 18
+      },
+      {
+        "name": "SH_1.MLT",
+        "lba": 58752,
+        "size": 1597632,
+        "sha256": "0821e0467aff51a8eec117d9d06834cde0fe3911bd537c33803baa79e8a49f46",
+        "valid_edc_ecc_sectors": 781
+      }
+    ],
+    "payload_diagnostic": false,
+    "chd_sha256": "d3a37d4c5661417311799765d7905a840d71333851dd01146f7d20596d8623fc",
+    "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
+    "source_disc_modified": false,
+    "external_subtitle_files_required": false,
+    "physical_console_tested": false
+  },
+  "asset_preservation": {
+    "all_asset_and_audio_sectors_unchanged_from_v085": true,
+    "only_1ST_READ_changed": true,
+    "changed_sectors": [
+      548936,
+      548937,
+      548938,
+      548939,
+      548940,
+      548941,
+      548942,
+      548943,
+      548944,
+      548945,
+      548946,
+      548947,
+      548948,
+      548949,
+      548950,
+      548951,
+      548952,
+      548953,
+      548954,
+      548955,
+      548956,
+      548957,
+      548958,
+      548959,
+      548960,
+      548961,
+      548962,
+      548963,
+      548964,
+      548965,
+      548966,
+      548967,
+      548968,
+      548969,
+      548970,
+      548971,
+      548972,
+      548973,
+      548974,
+      548975,
+      548976,
+      548977,
+      548978,
+      548979,
+      548980
+    ],
+    "changed_sector_count": 45,
+    "changed_sector_edc_ecc_valid": true,
+    "approved_hud_png_sha256": "53755aeca12ea434b19ed4512bc56e831cbb50f10b13c81e1153270a9e332fc3",
+    "tracks": [
+      {
+        "track": 1,
+        "before": "18ed77c5abd6da6dda783e7765cc427380b11ad3322d716afc303ca04d756e9e",
+        "after": "18ed77c5abd6da6dda783e7765cc427380b11ad3322d716afc303ca04d756e9e",
+        "unchanged": true
+      },
+      {
+        "track": 2,
+        "before": "7417c595f21a573674de228cedd73cc636868ae77d14af6829d5b9eeada65010",
+        "after": "7417c595f21a573674de228cedd73cc636868ae77d14af6829d5b9eeada65010",
+        "unchanged": true
+      },
+      {
+        "track": 3,
+        "before": "a6fdcd06e33987b0853408c1c7f6ab3ac5ce44362e102825bcc522b5809fbf1e",
+        "after": "a6fdcd06e33987b0853408c1c7f6ab3ac5ce44362e102825bcc522b5809fbf1e",
+        "unchanged": true
+      },
+      {
+        "track": 4,
+        "before": "22c94a31ac57ea8e21de70260fdd8dc50ca0e1613b001720a10dad950b9a4b87",
+        "after": "22c94a31ac57ea8e21de70260fdd8dc50ca0e1613b001720a10dad950b9a4b87",
+        "unchanged": true
+      },
+      {
+        "track": 5,
+        "before": "0050c0ca73e3acfea66690a41dfc370b14c29146920a222b75f9be85e383c238",
+        "after": "d3f43ae1e82abc33c40bf287a570b19442e58968521790578fa7052b0cb8d3f3",
+        "unchanged": false
+      }
+    ]
+  },
+  "editor_validation": {
+    "editor": "<PROJECT>\\SC5KoreanWorkbench_v13.exe",
+    "embedded_native_hud_matches_source": true,
+    "native_hud_sha256": "9564f7ac18ced20a99dc1af53fe1a89219bb48b06c41bf864ef5353bcbb59b8d",
+    "editor_sha256": "4be7dd72a5ee48f6f43248eb97a13d1d8219c339813568d2da17e26d955937d2"
+  },
+  "stock_test": {
+    "pid": 9180,
+    "command": [
+      "C:\\CODEX\\tools\\RetroArch-1.22.2\\RetroArch-Win64\\retroarch.exe",
+      "-v",
+      "--log-file",
+      "<PROJECT>\\work\\save-boss-review-20261007\\results\\retroarch.log",
+      "-c",
+      "<PROJECT>\\work\\save-boss-review-20261007\\results\\retroarch.cfg",
+      "-L",
+      "<PROJECT>\\work\\native-rom\\stock-libretro\\flycast_libretro.dll",
+      "<PROJECT>\\output\\native-rom-results-fixed\\Space Channel 5 Korean Native.gdi"
+    ],
+    "port": 56417,
+    "stock_core": true,
+    "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+    "host_subtitles": false,
+    "core_memory_writes": false,
+    "actions": [
+      {
+        "unix": 1791426517.5320585,
+        "screenshot": "<PROJECT>\\work\\save-boss-review-20261007\\results\\screenshots\\cold-boot.png"
+      },
+      {
+        "unix": 1791426534.9399428,
+        "screenshot": "<PROJECT>\\work\\save-boss-review-20261007\\results\\screenshots\\title.png"
+      },
+      {
+        "unix": 1791426551.464959,
+        "screenshot": "<PROJECT>\\work\\save-boss-review-20261007\\results\\screenshots\\new-game.png"
+      },
+      {
+        "unix": 1791426624.6818707,
+        "cpu_cheat_controller_sequence": true,
+        "queued_poll_packets": true
+      },
+      {
+        "unix": 1791426848.5030096,
+        "screenshot": "<PROJECT>\\work\\save-boss-review-20261007\\results\\screenshots\\stage-progress.png"
+      }
+    ],
+    "launched_unix": 1791426500.2875228
+  },
+  "completed_report_state": {
+    "route": "results",
+    "label": "verified-after-results",
+    "ram_state_offset": 10880393,
+    "report_holder": "0x8c15d008",
+    "report_object": "0x8caf99e0",
+    "report_hex": "030c000000010000010100008087af8c0000000000000000000000000000000000000000000000000000000000000000",
+    "cpu_enabled": true,
+    "report_index": 0,
+    "game_progress": "02",
+    "stock_core": true,
+    "state_loaded": false,
+    "snapshot_operation_loaded_state": false,
+    "RAM_written": false,
+    "unix": 1791427230.72913
+  },
+  "capture_count": 145,
+  "capture_stop": "Stopped the owned capture helper after the five-row results and SAVE screen were captured. Its interrupted exit is intentional.",
+  "boss_vram_audit": "Optional live snapshot request timed out during continuous screenshots; no new byte-level boss VRAM claim. Boss gameplay checked visually; all disc asset sectors unchanged.",
+  "screenshots": {
+    "results": "<PROJECT>\\work\\results-hud-review-20261008\\results-fixed.png",
+    "boss": "<PROJECT>\\work\\results-hud-review-20261008\\boss-fixed.png",
+    "save": "<PROJECT>\\work\\results-hud-review-20261008\\save-warning-preserved.png"
+  },
+  "checkpoint_directory": "<PROJECT>\\work\\results-hud-review-20261008"
+}

@@ -169,6 +169,8 @@ def build(diagnostic=False, disc=True):
     patched[save_uv_offset:save_uv_offset+4]=struct.pack('<f',396/512)
     from .warning_layout import patch_warning_layout
     warning_repairs = patch_warning_layout(original, patched, Project(ROOT))
+    from .profile_layout import patch_profile_layout
+    profile_repairs = patch_profile_layout(original, patched, Project(ROOT))
     assert len(payload)<=0x20000 and symbols['payload_end']<=0x8c270000
     patched[0x240000:0x240000+len(payload)]=payload
     hooks=[]
@@ -191,7 +193,7 @@ def build(diagnostic=False, disc=True):
       'stats':stats,'hooks':hooks,'judgment_art':judgment_art,'hud_art':hud_art,
       'layout_repairs':[{'asset':'SAVE English title','address':hex(save_uv_address),
                         'original_right_u':390,'corrected_right_u':396,'atlas_width':512,
-                        'original_English_bitmap_preserved':True}] + warning_repairs,
+                        'original_English_bitmap_preserved':True}] + warning_repairs + profile_repairs,
       'emulator_services':False,'symbols':{k:hex(v) for k,v in symbols.items() if k.startswith(('native','original'))}}
     if disc:
         source_track=ROOT/'work/poc/Track5_KR.bin'

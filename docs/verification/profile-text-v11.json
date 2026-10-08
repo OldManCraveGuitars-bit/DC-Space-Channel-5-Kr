@@ -1,0 +1,396 @@
+{
+  "updated": "2026-10-08T12:29:41.999730+09:00",
+  "status": "complete local profile revision; not published",
+  "issues_fixed": [
+    "Profile body thin white strokes including upper hieuh in 활 and 하",
+    "춤추는 사람 right edge clipping",
+    "모로성인 bottom clipping",
+    "Profile category centering including 악기인 and 지구인"
+  ],
+  "rasterization": {
+    "font": "Yeongdeok Blueroad",
+    "font_px": 22,
+    "supersampling": 4,
+    "body_line_spacing": 23,
+    "native_body_scale": [
+      1,
+      1
+    ],
+    "white_rgb_under_alpha": true,
+    "alpha_levels": [
+      0,
+      85,
+      170,
+      255
+    ],
+    "vq_roundtrip_exact_cards": 79
+  },
+  "category_artwork_changed": false,
+  "title_090_png_sha256": null,
+  "native_layout_repairs": [
+    {
+      "asset": "SAVE English title",
+      "address": "0x8c03acf8",
+      "original_right_u": 390,
+      "corrected_right_u": 396,
+      "atlas_width": 512,
+      "original_English_bitmap_preserved": true
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "controller_or_vmu_busy",
+      "address": "0x8c036f88",
+      "old_scale": [
+        0.699999988079071,
+        0.699999988079071
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        0,
+        270,
+        44
+      ],
+      "font_size": 18,
+      "line_spacing": 22
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "vmu_space_required",
+      "address": "0x8c036fb0",
+      "old_scale": [
+        1.0,
+        1.0
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        52,
+        418,
+        78
+      ],
+      "font_size": 22,
+      "line_spacing": 26
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "overwrite_or_continue",
+      "address": "0x8c036fd8",
+      "old_scale": [
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        156,
+        318,
+        40
+      ],
+      "font_size": 16,
+      "line_spacing": 20
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "load_failed",
+      "address": "0x8c037000",
+      "old_scale": [
+        1.0,
+        1.0
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        208,
+        278,
+        52
+      ],
+      "font_size": 22,
+      "line_spacing": 26
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "file_unusable",
+      "address": "0x8c037028",
+      "old_scale": [
+        1.0,
+        1.0
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        260,
+        220,
+        52
+      ],
+      "font_size": 22,
+      "line_spacing": 26
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "save_failed",
+      "address": "0x8c037050",
+      "old_scale": [
+        1.0,
+        1.0
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        312,
+        278,
+        52
+      ],
+      "font_size": 22,
+      "line_spacing": 26
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "no_save_file",
+      "address": "0x8c037078",
+      "old_scale": [
+        1.0,
+        1.0
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        390,
+        244,
+        52
+      ],
+      "font_size": 22,
+      "line_spacing": 26
+    },
+    {
+      "asset": "Save/load warning",
+      "message": "power_warning",
+      "address": "0x8c0370a0",
+      "old_scale": [
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "uv_pixels": [
+        0,
+        442,
+        210,
+        20
+      ],
+      "font_size": 16,
+      "line_spacing": 20
+    },
+    {
+      "asset": "Profile category",
+      "korean": "주요 캐릭터",
+      "address": "0x8c03a084",
+      "old_uv_pixels": [
+        10.0,
+        10.0,
+        168.0,
+        33.0
+      ],
+      "uv_pixels": [
+        11,
+        9,
+        167,
+        35
+      ],
+      "centered": true,
+      "artwork_pixels_changed": false
+    },
+    {
+      "asset": "Profile category",
+      "korean": "지구인",
+      "address": "0x8c03a0ac",
+      "old_uv_pixels": [
+        10.0,
+        42.0,
+        168.0,
+        65.0
+      ],
+      "uv_pixels": [
+        9,
+        43,
+        103,
+        69
+      ],
+      "centered": true,
+      "artwork_pixels_changed": false
+    },
+    {
+      "asset": "Profile category",
+      "korean": "춤추는 사람",
+      "address": "0x8c03a0d4",
+      "old_uv_pixels": [
+        10.0,
+        74.0,
+        145.0,
+        100.0
+      ],
+      "uv_pixels": [
+        10,
+        76,
+        156,
+        102
+      ],
+      "centered": true,
+      "artwork_pixels_changed": false
+    },
+    {
+      "asset": "Profile category",
+      "korean": "악기인",
+      "address": "0x8c03a0fc",
+      "old_uv_pixels": [
+        10.0,
+        106.0,
+        151.0,
+        132.0
+      ],
+      "uv_pixels": [
+        11,
+        108,
+        103,
+        136
+      ],
+      "centered": true,
+      "artwork_pixels_changed": false
+    },
+    {
+      "asset": "Profile category",
+      "korean": "모로성인",
+      "address": "0x8c03a124",
+      "old_uv_pixels": [
+        10.0,
+        138.0,
+        184.0,
+        161.0
+      ],
+      "uv_pixels": [
+        10,
+        139,
+        134,
+        167
+      ],
+      "centered": true,
+      "artwork_pixels_changed": false
+    },
+    {
+      "asset": "Profile category",
+      "korean": "보스 캐릭터",
+      "address": "0x8c03a14c",
+      "old_uv_pixels": [
+        10.0,
+        170.0,
+        156.0,
+        193.0
+      ],
+      "uv_pixels": [
+        10,
+        172,
+        160,
+        198
+      ],
+      "centered": true,
+      "artwork_pixels_changed": false
+    },
+    {
+      "asset": "Profile body",
+      "address": "0x8c039f54",
+      "old_scale": [
+        1.0,
+        0.8799999952316284
+      ],
+      "new_scale": [
+        1,
+        1
+      ],
+      "line_spacing": 23,
+      "uv_pixels": [
+        0,
+        26,
+        400,
+        210
+      ],
+      "thin_horizontal_strokes_preserved": true
+    }
+  ],
+  "package": {
+    "gdi": "<PROJECT>\\output\\native-rom-profile-fixed\\Space Channel 5 Korean Native.gdi",
+    "subtitles_embedded": true,
+    "external_caption_files": false,
+    "track5_index00_data_preserved": true,
+    "track5_start_lba": 58499,
+    "chd": "<PROJECT>\\output\\Space Channel 5 Korean Profile Fixed.chd",
+    "verification": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
+    "chd_sha256": "8904637e0566f6868ebd122d43fd6a98a7e1edcd3ef886418e20bdc025068ead"
+  },
+  "chd_size": 885405114,
+  "executable_sha256": "56ff819a18b3b1d11a356681a0f90e3fc70b0cec0e97727de34acfedc15db4d2",
+  "disc_validation": "<PROJECT>\\work\\profile-text-review-20261008\\disc-and-editor-validation.json",
+  "changed_sectors_vs_results_fixed": 1001,
+  "changes_limited_to": [
+    "1ST_READ.BIN",
+    "CPRO01.PVR through CPRO79.PVR"
+  ],
+  "original_disc_modified": false,
+  "stock_core": true,
+  "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "cold_boot": true,
+  "vmus_copied_for_test": true,
+  "host_memory_patches": false,
+  "external_overlays": false,
+  "visual_verification": [
+    "CPRO06 body with visible hieuh top strokes",
+    "Six category titles centered and unclipped"
+  ],
+  "screenshots": {
+    "body-before": "<PROJECT>\\work\\profile-text-review-20261008\\body-before.png",
+    "body-after": "<PROJECT>\\work\\profile-text-review-20261008\\body-after.png",
+    "hieut-before-3x": "<PROJECT>\\work\\profile-text-review-20261008\\hieut-before-3x.png",
+    "hieut-after-3x": "<PROJECT>\\work\\profile-text-review-20261008\\hieut-after-3x.png",
+    "main-category": "<PROJECT>\\work\\profile-text-review-20261008\\main-category.png",
+    "earth": "<PROJECT>\\work\\profile-text-review-20261008\\earth.png",
+    "dancing": "<PROJECT>\\work\\profile-text-review-20261008\\dancing.png",
+    "musicians": "<PROJECT>\\work\\profile-text-review-20261008\\musicians.png",
+    "morolians": "<PROJECT>\\work\\profile-text-review-20261008\\morolians.png",
+    "boss-category": "<PROJECT>\\work\\profile-text-review-20261008\\boss-category.png"
+  },
+  "editor": {
+    "executable": "<PROJECT>\\SC5KoreanWorkbench_v14.exe",
+    "size": 92812074,
+    "sha256": "2e1267136f30ae8dbd1938fe01873e709111e9fbb5c5cdac12c15c3892d1e683",
+    "console": false,
+    "font": "Yeongdeok Blueroad",
+    "format": "Windows native Tk, single executable",
+    "python_required_for_editor": false,
+    "runtime_game_subtitles": "SH-4 ROM renderer, embedded glyphs/cues, CHD/GDI packaging, unmodified official player"
+  },
+  "physical_console_tested": false,
+  "previous_result_boss_save_fixes_preserved": true,
+  "previous_outputs_retained": true
+}

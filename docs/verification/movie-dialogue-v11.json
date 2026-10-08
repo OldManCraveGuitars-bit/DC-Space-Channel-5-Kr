@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-08T13:22:03.894515+09:00",
+  "status": "verified local build; not published",
+  "correction": "Clean encoded Japanese dialogue pixels, preserve established Korean caption presentation; opaque mask experiment rejected",
+  "changed_movie": "R4_MAKUMA.SFD",
+  "dialogue_cues": 12,
+  "title_changes": false,
+  "caption_font": "Yeongdeok Blueroad 22px",
+  "caption_box_alpha": 115,
+  "caption_bottom_offset": 48,
+  "native_renderer_unchanged": true,
+  "audio": {
+    "original": {
+      "frames": 1619,
+      "size": [
+        320,
+        240
+      ],
+      "first_pts": 0.0,
+      "last_pts": 53.92145555555555,
+      "pcm_sha256": "dfa000bbd0835aab27156d8d3c94a6640b7d9c4b2b9bb2f88a6f01022999a388"
+    },
+    "clean": {
+      "frames": 1619,
+      "size": [
+        320,
+        240
+      ],
+      "first_pts": 0.0,
+      "last_pts": 53.98726666666666,
+      "pcm_sha256": "dfa000bbd0835aab27156d8d3c94a6640b7d9c4b2b9bb2f88a6f01022999a388"
+    },
+    "audio_identical": true,
+    "frames_identical_count": true
+  },
+  "video_quality": {
+    "frames": 1619,
+    "non_subtitle_mean_psnr_db": 42.60058217023942,
+    "original_video_reencoded": true,
+    "audio_changed": false
+  },
+  "package": {
+    "gdi": "<PROJECT>\\output\\native-rom-movie-dialogue-fixed\\Space Channel 5 Korean Native.gdi",
+    "subtitles_embedded": true,
+    "external_caption_files": false,
+    "track5_index00_data_preserved": true,
+    "track5_start_lba": 58499,
+    "chd": "<PROJECT>\\output\\Space Channel 5 Korean Movie Dialogue Fixed.chd",
+    "verification": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\nRaw SHA1 verification successful!\nOverall SHA1 verification successful!\n",
+    "chd_sha256": "1f582b3705deb7ce1411f1e98eb846e0927d687a556dba9455154feb49373ae8"
+  },
+  "chd_size": 878242042,
+  "validation": {
+    "passed": true,
+    "modified_files": [
+      {
+        "name": "1ST_READ.BIN",
+        "lba": 547784,
+        "size": 2490368,
+        "sha256": "65f41261445741bd634118c4bf3055e9742bd3b93ec8483c27dfa33f8b8cd633"
+      },
+      {
+        "name": "R4_MAKUMA.SFD",
+        "lba": 409209,
+        "size": 19525632,
+        "sha256": "feda5445eee153c7298801bc65f0ea2b8d4191e05a0706671630f1dd705c9be9"
+      }
+    ],
+    "changed_sectors": 9535,
+    "all_changed_sectors_edc_ecc_valid": true,
+    "all_file_sizes_and_lbas_unchanged": true,
+    "other_movies_images_audio_unchanged": true,
+    "four_title_movies_and_cues_unchanged": true,
+    "previous_profile_hud_boss_save_fixes_preserved": true,
+    "subtitle_renderer_identical_to_prior": true,
+    "box_alpha": 115,
+    "no_opaque_masks": true,
+    "only_dialogue_position_changed": {
+      "movie": "R4_MAKUMA.SFD",
+      "old_bottom": 84,
+      "new_bottom": 48
+    },
+    "editor_source_verified": [
+      "sc5.movie_assets",
+      "sc5.build_text",
+      "sc5.editor_project",
+      "sc5.native_subtitles",
+      "sc5.native_player",
+      "sc5.profile_layout"
+    ],
+    "editor_sha256": "0d29ad4915c8c17ffdc0dab727bb7ca0a7d4ac1c676746c1191d9dfe5a5f6ec3",
+    "track5_sha256": "4e3be5ae5e1b0292206309ce706cf81ac8dce4513b0abdad869e8bccec06f301"
+  },
+  "editor": {
+    "executable": "<PROJECT>\\SC5KoreanWorkbench_v15.exe",
+    "size": 92812664,
+    "sha256": "0d29ad4915c8c17ffdc0dab727bb7ca0a7d4ac1c676746c1191d9dfe5a5f6ec3",
+    "console": false,
+    "font": "Yeongdeok Blueroad",
+    "format": "Windows native Tk, single executable",
+    "python_required_for_editor": false,
+    "runtime_game_subtitles": "SH-4 ROM renderer, embedded glyphs/cues, CHD/GDI packaging, unmodified official player"
+  },
+  "actual_game_screenshot": "<PROJECT>\\work\\movie-dialogue-review-20261008\\movie-dialogue-fixed.png",
+  "actual_game_contact_sheets": [
+    "<PROJECT>\\work\\movie-dialogue-review-20261008\\clean-game-contact-0.png",
+    "<PROJECT>\\work\\movie-dialogue-review-20261008\\clean-game-contact-1.png"
+  ],
+  "stock_core": true,
+  "core_sha256": "848e24ebc9f755472129df927a38bca1a01b5765386136794784f1acccecfa0d",
+  "preview_rom_filename_redirection_restored": true,
+  "playback_verified": "Full interlude and return to gameplay through stock core; diagnostic ROM filename redirect only",
+  "audio_verification": "Full decoded PCM byte match; diagnostic frontend muted",
+  "full_scenario3_replayed": false,
+  "physical_console_tested": false,
+  "original_disc_modified": false,
+  "old_outputs_retained": true,
+  "muxer_source_commit": "40a4fcbff24a30201464523816bb4470e03f3976"
+}

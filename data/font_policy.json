@@ -10,11 +10,11 @@
       24,
       24
     ],
-    "rendering": "monochrome threshold at 96; common baseline and proportional punctuation",
+    "rendering": "4x area coverage, quarter-pixel stroke, alpha 0/85/170/255 with white RGB under transparent pixels; exact VQ",
     "fullwidth_advance_px": 26,
     "punctuation_advance": "font natural advance plus 2px",
     "line_advance_px": 26,
-    "baseline_first_line_px": 19,
+    "baseline_first_line_px": 20,
     "dense_card_overrides_px": {
       "CPRO02.PVR": 25,
       "CPRO03.PVR": 25,
@@ -55,7 +55,23 @@
     "basis": "CPRO01 original first-line glyph starts near x=2,28,54 and line tops near y=4,29,55,81,107,133,159,186",
     "original_card_ink_height_exception_px": {
       "CPRO56.PVR": 231
-    }
+    },
+    "supersampling": 4,
+    "glyph_stroke_quarters": 1,
+    "alpha_levels": [
+      0,
+      85,
+      170,
+      255
+    ],
+    "native_body_pixel_grid": true,
+    "body_line_advance_px": 23,
+    "body_display_scale": [
+      1,
+      1
+    ],
+    "body_raster_vertical_ratio": 0.8846153846153846,
+    "heading_line_height_px": 26
   },
   "previous_trials": [
     "NeoDunggeunmo 16x16 1bpp enlarged to 24x24",
@@ -63,7 +79,7 @@
     "Moneygraphy Pixel 22px in 24x24 cell",
     "Hakgyoansim Geurimilgi 24px in 24x24 cell"
   ],
-  "status": "CPRO01-79 image prototypes packed into same-length PVRs and generated disc copy; gameplay appearance unverified",
+  "status": "CPRO01-79 exact VQ coverage verified; cold-boot stock Flycast CPRO06 hieuh strokes and all six category labels verified 2026-10-08",
   "stage_caption_atlases": {
     "font": "Yeongdeok Blueroad",
     "font_size_px": 22,

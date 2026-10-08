@@ -186,34 +186,51 @@ def render_geurimilgi_at_24(text: str) -> Image.Image:
 
 
 def render_blueroad_at_24(text: str, fullwidth_advance: int = 26, font_path=None) -> Image.Image:
-    """Keep the font baseline and natural punctuation width in 24px CPRO text."""
+    """Keep thin Blueroad strokes and exact VQ coverage in 24px CPRO cells."""
     if fullwidth_advance not in (24, 25, 26):
         raise ValueError("Fullwidth advance must be 24, 25, or 26 pixels")
     font = ImageFont.truetype(str(font_path or BLUEROAD), 22)
+    scale = 4
+    fine_font = ImageFont.truetype(str(font_path or BLUEROAD), 22 * scale)
     mask = Image.new("L", (512, 512), 0)
-    draw = ImageDraw.Draw(mask)
     for line_number, line in enumerate(text.splitlines()):
+        line_mask = Image.new("L", (512 * scale, 26 * scale), 0)
+        draw = ImageDraw.Draw(line_mask)
         x = 2
-        baseline = 19 + line_number * 26
+        baseline = 20
         for char in line:
-            bounds = font.getbbox(char, anchor="ls")
-            glyph_width = bounds[2] - bounds[0]
+            fine_bounds = fine_font.getbbox(char, anchor="ls")
+            glyph_width = fine_bounds[2] - fine_bounds[0]
             fullwidth_letter = (
                 unicodedata.category(char).startswith("L")
                 and unicodedata.east_asian_width(char) in ("W", "F")
             )
-            ink_left = x + (24 - glyph_width) // 2 if fullwidth_letter else x
-            draw.text((ink_left - bounds[0], baseline), char,
-                      font=font, fill=255, anchor="ls")
+            ink_left = x * scale + (24 * scale - glyph_width) // 2 if fullwidth_letter else x * scale
+            draw.text((ink_left - fine_bounds[0], baseline * scale), char,
+                      font=fine_font, fill=255, anchor="ls", stroke_width=1)
             x += fullwidth_advance if fullwidth_letter else round(font.getlength(char)) + 2
         if x > 384:
             raise ValueError(f"Line exceeds original text area: {line}")
-    mask = mask.point(lambda value: 255 if value >= 96 else 0)
+        # The original body sprite squeezes 26px rows to 22.88px. Resolve that
+        # coverage before quantization, on a 23px pixel grid, and draw it at
+        # scale 1 in the game. Thin horizontal strokes then cannot be dropped
+        # by another fractional vertical resampling (notably Hangul hieuh).
+        height = 26 if line_number == 0 else 23
+        y = 0 if line_number == 0 else 26 + (line_number - 1) * 23
+        if y + height > 210:
+            raise ValueError("Text exceeds original CPRO area")
+        mask.paste(line_mask.resize((512, height), Image.Resampling.BOX), (0, y))
+    # Area coverage avoids ringing. A quarter-pixel stroke keeps the selected
+    # font's thin stems intact; four alpha levels need at most 4**4 = 256 VQ
+    # blocks, so every card still fits its original allocation losslessly.
+    mask = mask.point(lambda value: 0 if value < 64 else 85 if value < 112 else 170 if value < 160 else 255)
     bounds = mask.getbbox()
     if bounds and (bounds[2] > 384 or bounds[3] > 210):
         raise ValueError("Text exceeds original CPRO area")
-    image = Image.new("RGBA", (512, 512), (0, 0, 0, 0))
-    image.paste((255, 255, 255, 255), (0, 0, 512, 512), mask)
+    # PVR filters straight RGBA. White RGB under zero alpha prevents dark
+    # interpolation fringes and double attenuation at white-text edges.
+    image = Image.new("RGBA", (512, 512), (255, 255, 255, 0))
+    image.putalpha(mask)
     return image
 
 

@@ -1,0 +1,21 @@
+{
+  "version": "v1.1",
+  "exe": "SC5KoreanWorkbench_v16.exe",
+  "size": 92812977,
+  "sha256": "18f3b8f5fcddcb38a5238ccea776a691e841a381ed1f6dd48f46bb3e5b1195b0",
+  "bundled_modules_match_source": [
+    "sc5.movie_assets",
+    "sc5.build_text",
+    "sc5.editor_project",
+    "sc5.render_cpro",
+    "sc5.profile_layout",
+    "sc5.native_subtitles",
+    "sc5.native_smoke"
+  ],
+  "movie_delta_reconstructed_from_original": true,
+  "movie_reconstructed_sha256": {
+    "R4_MAKUMA.SFD": "feda5445eee153c7298801bc65f0ea2b8d4191e05a0706671630f1dd705c9be9"
+  },
+  "movie_cache_reuse_verified": true,
+  "full_clean_environment_ROM_rebuild_tested": false
+}

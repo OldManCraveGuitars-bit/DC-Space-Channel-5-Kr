@@ -1,6 +1,6 @@
 {
-  "version": "v0.85",
-  "chd_sha256": "6e2fed5e4431f5da3e2cf91e26478cb4f7a01c350648b20b7f69f538ff5b023a",
+  "version": "v1.1",
+  "chd_sha256": "1f582b3705deb7ce1411f1e98eb846e0927d687a556dba9455154feb49373ae8",
   "screenshots": [
     {
       "file": "01-title.png",
@@ -138,6 +138,69 @@
       "stock_core_unmodified": true,
       "savestate_loaded": false,
       "final_build_difference": "AFS identifier relocation and previously approved COMMON 115 VQ packing; HUD hook, warning, overlay identical"
+    },
+    {
+      "file": "20-results-v11.png",
+      "sha256": "1bce77bd84e0985961793752cd34ef689c1a78c589db693a2dbdce23841351f8",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "results-hud-review-20261008/results-fixed.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": null
+    },
+    {
+      "file": "21-profile-body-v11.png",
+      "sha256": "2180d86a5306283469847a0f67bdf87e31a9c99c7f0d0a94fedcfad14a307d52",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "profile-text-review-20261008/body-after.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": null
+    },
+    {
+      "file": "22-profile-dancing-v11.png",
+      "sha256": "0bc7da4c22ed7f3438054e0e4efde0ed6e48e33297dc21228958871766573585",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "profile-text-review-20261008/dancing.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": null
+    },
+    {
+      "file": "23-profile-morolians-v11.png",
+      "sha256": "b3998e2e2dbdae1aacfb852da7851a0203909b2f775b9c5ce2619df84e4be212",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "profile-text-review-20261008/morolians.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": null
+    },
+    {
+      "file": "24-profile-musicians-v11.png",
+      "sha256": "9e613bd5e28ede0f52ac3b9bbd00847bfc42c8f0c26f1b9cd57f6e32851f2288",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "profile-text-review-20261008/musicians.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": null
+    },
+    {
+      "file": "25-profile-earth-v11.png",
+      "sha256": "783c219254bbce541f69844e8ddd19cb4e00bd4a90417e14e864bb35b7107491",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "profile-text-review-20261008/earth.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": null
+    },
+    {
+      "file": "26-movie-dialogue-v11.png",
+      "sha256": "587cdc6f238659aca403112d87028d8a7d3b1f3eadacd47994d124cea274d0f1",
+      "kind": "native_rom_capture",
+      "captured_version": "post-v0.85 correction included in v1.1",
+      "source": "movie-dialogue-review-20261008/movie-dialogue-fixed.png",
+      "stock_core_unmodified": true,
+      "movie_test_note": "Interlude playback test uses a test-only scene filename redirect; final disc restored"
     }
   ]
 }

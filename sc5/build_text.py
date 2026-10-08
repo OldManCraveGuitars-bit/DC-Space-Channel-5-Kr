@@ -92,6 +92,13 @@ def build(disc: Path, output: Path) -> dict:
         paths.update(atlas_paths)
         san_paths, manifest["SAN_animations"] = pack_animations(Project(ROOT, disc), image)
         paths.update(san_paths)
+        from .movie_assets import registered_movies
+        movie_paths, manifest['movie_replacements'] = registered_movies(Project(ROOT, disc))
+        for row in manifest['movie_replacements']:
+            entry = entries[row['name']]
+            assert entry.size == row['original_size']
+            assert hashlib.sha256(image.read(entry.lba,entry.size)).hexdigest() == row['original_sha256']
+        paths.update(movie_paths)
         lossless = paths.pop("0GDTEX.PVR", None) if any(
             report.get("packing_mode") == "lossless_twiddled" for report in manifest["atlas_images"]) else None
         expanded_common = paths.pop('COMMON_DATA.PVM',None) if any(

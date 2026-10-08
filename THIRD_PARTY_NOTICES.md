@@ -35,3 +35,7 @@ MAME 개발자와 기여자의 CHD 도구입니다. MAME 프로젝트의 혼합 
 PyAV는 FFmpeg 라이브러리를 사용합니다. FFmpeg의 소스와 라이선스 조건은 [FFmpeg 공식 사이트](https://ffmpeg.org/legal.html)를 참고하세요. 번들에 사용된 정확한 패키지 버전 및 원래 배포처는 `docs/licenses/runtime-packages.json`에 기록했습니다.
 
 이 안내가 게임 자료나 글꼴에 새로운 라이선스를 부여하지는 않습니다. 각 구성요소에는 각각의 원래 조건이 적용됩니다.
+
+## 후반 영상 제작 도구
+
+R4_MAKUMA.SFD 수정 영상 제작에 FFmpeg와 [SFD_Muxer](https://github.com/nebulas-star/SFD_Muxer/tree/40a4fcbff24a30201464523816bb4470e03f3976)를 사용했습니다. SFD_Muxer는 MIT 라이선스이며 [라이선스 전문](docs/licenses/SFD_Muxer-MIT.txt)을 보존합니다. 해당 도구 실행 파일이나 완성된 게임 영상은 공개 ZIP에 포함하지 않습니다. 영상 수정분은 사용자 원본이 필요한 xdelta로 제공합니다.

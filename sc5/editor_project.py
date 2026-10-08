@@ -290,15 +290,22 @@ class Project:
         return out
 
     def video_path(self, item_id):
-        out = self.cache / "videos" / (safe_name(item_id) + ".mp4")
+        from .movie_assets import registered_movies
+        movie_paths, movie_rows = registered_movies(self)
+        replacement = movie_paths.get(item_id)
+        revision = next((row['sha256'][:12] for row in movie_rows if row['name'] == item_id), '')
+        out = self.cache / "videos" / (safe_name(item_id) + ('.'+revision if revision else '') + ".mp4")
         if out.is_file():
             return out
         out.parent.mkdir(parents=True, exist_ok=True)
         source = out.parent / (safe_name(item_id) + ".source")
         temp = out.with_suffix(".pending.mp4")
-        with GDImage(self.disc) as disc:
-            entry = next(e for e in disc.entries() if e.name.upper() == item_id.upper())
-            disc.export(entry, source)
+        if replacement:
+            source.write_bytes(replacement.read_bytes())
+        else:
+            with GDImage(self.disc) as disc:
+                entry = next(e for e in disc.entries() if e.name.upper() == item_id.upper())
+                disc.export(entry, source)
         try:
             args = ["-y", "-fflags", "+genpts", "-i", str(source), "-c:v", "libx264",
                     "-preset", "ultrafast", "-pix_fmt", "yuv420p"]

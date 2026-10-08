@@ -20297,7 +20297,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:0",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84,
+          "bottom_offset": 48,
           "semantic_review": {
             "date": "2026-10-04",
             "result": "corrected",
@@ -20315,7 +20315,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:1",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84,
+          "bottom_offset": 48,
           "semantic_review": {
             "date": "2026-10-04",
             "result": "corrected",
@@ -20333,7 +20333,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:2",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 12.68,
@@ -20344,7 +20344,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:3",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84,
+          "bottom_offset": 48,
           "semantic_review": {
             "date": "2026-10-04",
             "result": "corrected",
@@ -20362,7 +20362,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:4",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 27.7284,
@@ -20373,7 +20373,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:5",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 29.7304,
@@ -20384,7 +20384,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:6",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 32.3336,
@@ -20395,7 +20395,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:7",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 34.8022,
@@ -20406,7 +20406,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:8",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 37.4388,
@@ -20417,7 +20417,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:9",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         },
         {
           "start": 40.4084,
@@ -20428,7 +20428,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:10",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84,
+          "bottom_offset": 48,
           "semantic_review": {
             "date": "2026-10-04",
             "result": "corrected",
@@ -20446,7 +20446,7 @@
           "source_kind": "encoded_video_text",
           "graphic_id": "R4_MAKUMA.SFD:encoded-text:11",
           "timing_source": "Decoded original SFD frame text appearance and disappearance",
-          "bottom_offset": 84
+          "bottom_offset": 48
         }
       ],
       "status": "in_review",
@@ -20461,7 +20461,8 @@
       "semantic_review": {
         "date": "2026-10-04",
         "scope": "Japanese/Korean meaning comparison; original audio listening is a separate pending gate"
-      }
+      },
+      "layout_review": "2026-10-08: Japanese dialogue removed from video; original subtitle style retained at the original dialogue position; chapter titles unchanged"
     }
   },
   "animations": {

@@ -13,7 +13,7 @@
   "user_report": "First line sounds like 위험하잖아~; recheck requested.",
   "suggested_words_provided_to_ASR": false,
   "original_audio_listening_completed": false,
-  "original_speed_review_audio": "C:\\CODEX\\space-channel-5-kr\\work\\voice225-first-line-20261004\\first-line-original-speed.wav",
+  "original_speed_review_audio": "<PROJECT>\\work\\voice225-first-line-20261004\\first-line-original-speed.wav",
   "results": [
     {
       "recognizer": "reazonspeech-k2-v2",

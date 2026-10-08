@@ -41,7 +41,7 @@
   "PNG_sha256": "721a3276eb747ea74510b5c2b41114a258d556cc36814dace2280f673744d196",
   "PNG_argb4444_pixels_match": true,
   "current_ROM_artwork": "user-approved revised PNG",
-  "next_step": "v0.81 publication and checkpoint; physical console and full gameplay coverage remain unverified",
+  "next_step": "Physical Dreamcast/ODE and complete gameplay pattern/translation verification remain pending.",
   "other_remaining_work": "See runtime_subtitle_limitations and gameplay_atlas_validation in data/localization_progress.json",
   "mechanics_checks_scope": "106 prior v0.8 cases; success-window rules unchanged. v0.81 additionally validates VMU persistence and latest PNG.",
   "editor": "SC5KoreanWorkbench_v9.exe",

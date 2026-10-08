@@ -1,5 +1,5 @@
 {
-  "version": "v0.85",
+  "version": "v1.1",
   "success": true,
   "tracks": [
     {
@@ -24,15 +24,15 @@
     },
     {
       "number": 5,
-      "sha256": "0050c0ca73e3acfea66690a41dfc370b14c29146920a222b75f9be85e383c238",
+      "sha256": "4e3be5ae5e1b0292206309ce706cf81ac8dce4513b0abdad869e8bccec06f301",
       "size": 1154011152
     }
   ],
   "original_files_modified": false,
   "gdi_sha256": "8436b9ebc5b11503f1f0f69090616a57a5b7ca2d5c0696d748e05bdce33f7535",
-  "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\r\nRaw SHA1 verification successful!\r\nOverall SHA1 verification successful!\r\nVerifying, 0.0% complete... \rVerifying, 2.5% complete... \rVerifying, 5.0% complete... \rVerifying, 7.5% complete... \rVerifying, 10.0% complete... \rVerifying, 12.5% complete... \rVerifying, 15.0% complete... \rVerifying, 17.5% complete... \rVerifying, 20.0% complete... \rVerifying, 22.5% complete... \rVerifying, 25.0% complete... \rVerifying, 27.5% complete... \rVerifying, 29.9% complete... \rVerifying, 32.4% complete... \rVerifying, 34.9% complete... \rVerifying, 37.4% complete... \rVerifying, 39.9% complete... \rVerifying, 42.4% complete... \rVerifying, 44.9% complete... \rVerifying, 47.4% complete... \rVerifying, 49.9% complete... \rVerifying, 52.4% complete... \rVerifying, 54.9% complete... \rVerifying, 57.4% complete... \rVerifying, 59.9% complete... \rVerifying, 62.4% complete... \rVerifying, 64.9% complete... \rVerifying, 67.4% complete... \rVerifying, 69.9% complete... \rVerifying, 72.4% complete... \rVerifying, 74.9% complete... \rVerifying, 77.4% complete... \rVerifying, 79.9% complete... \rVerifying, 82.4% complete... \rVerifying, 84.8% complete... \rVerifying, 87.3% complete... \rVerifying, 89.8% complete... \rVerifying, 92.3% complete... \rVerifying, 94.8% complete... \rVerifying, 97.3% complete... \rVerifying, 99.8% complete... \r",
-  "chd_sha256": "6e2fed5e4431f5da3e2cf91e26478cb4f7a01c350648b20b7f69f538ff5b023a",
+  "chd_integrity": "chdman - MAME Compressed Hunks of Data (CHD) manager 0.289 (mame0289)\r\nRaw SHA1 verification successful!\r\nOverall SHA1 verification successful!\r\nVerifying, 0.0% complete... \rVerifying, 5.0% complete... \rVerifying, 10.0% complete... \rVerifying, 12.5% complete... \rVerifying, 15.0% complete... \rVerifying, 17.5% complete... \rVerifying, 20.0% complete... \rVerifying, 22.5% complete... \rVerifying, 25.0% complete... \rVerifying, 27.5% complete... \rVerifying, 29.9% complete... \rVerifying, 32.4% complete... \rVerifying, 34.9% complete... \rVerifying, 37.4% complete... \rVerifying, 39.9% complete... \rVerifying, 42.4% complete... \rVerifying, 44.9% complete... \rVerifying, 47.4% complete... \rVerifying, 49.9% complete... \rVerifying, 52.4% complete... \rVerifying, 54.9% complete... \rVerifying, 57.4% complete... \rVerifying, 59.9% complete... \rVerifying, 62.4% complete... \rVerifying, 64.9% complete... \rVerifying, 67.4% complete... \rVerifying, 69.9% complete... \rVerifying, 72.4% complete... \rVerifying, 74.9% complete... \rVerifying, 77.4% complete... \rVerifying, 79.9% complete... \rVerifying, 82.4% complete... \rVerifying, 84.8% complete... \rVerifying, 87.3% complete... \rVerifying, 89.8% complete... \rVerifying, 92.3% complete... \rVerifying, 94.8% complete... \rVerifying, 97.3% complete... \rVerifying, 99.8% complete... \r",
+  "chd_sha256": "1f582b3705deb7ce1411f1e98eb846e0927d687a556dba9455154feb49373ae8",
   "patcher_exe_sha256": "29e17523a3abbc675b8d306cea5683af322690b5c63bcbeba090e1eeb65a1d90",
-  "test_method": "Packaged v0.85 Windows executable CLI, original JP five BIN tracks, complete GDI/CHD generation",
+  "test_method": "Packaged Windows executable, original JP five BINs, complete GDI/CHD generation",
   "original_hashes_rechecked_after_apply": true
 }

@@ -48,7 +48,9 @@
     "editor": "SC5KoreanWorkbench_v9.exe",
     "editor_bundle_proof": "work/judgment/editor-v9-bundle-proof.json"
   },
-  "native_editor": "SC5KoreanWorkbench_v12.exe",
-  "native_editor_status": "v12 includes native-size warning glyphs and compact lossless HUD packing",
-  "latest_batch": "v0.85 save warning, SAVE UV and Report 1 boss VRAM repairs"
+  "native_editor": "SC5KoreanWorkbench_v16.exe",
+  "native_editor_status": "Latest profile, HUD and movie source; movie delta restored from user original",
+  "latest_batch": "v1.1 results HUD, profile text/layout and movie dialogue corrections",
+  "release": "v1.1",
+  "release_type": "stable unofficial Korean localization"
 }

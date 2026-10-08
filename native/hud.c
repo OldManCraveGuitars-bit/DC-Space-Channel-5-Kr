@@ -68,4 +68,11 @@ void native_hud(const HudAnim *parent,h_u32 texture,h_u32 color,float x,float y,
     }
     cache[0]=cache[1]=0xffffffffu;
     ((int (*)(h_u32))0x8c05dc00)(texture);
+    /* SetTexture changes the temporary polygon header and texture cache.
+     * Commit that header to the active material too: the next sprite copies
+     * the active material back before checking the texture cache. Without
+     * this commit it reuses PAL8 bits with the original atlas's UVs whenever
+     * consecutive sprites share the same source texture (result labels).
+     */
+    ((void (*)(void))0x8c05cec2)();
 }

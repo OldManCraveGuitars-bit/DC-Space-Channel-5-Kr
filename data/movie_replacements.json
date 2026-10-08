@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "name": "R4_MAKUMA.SFD",
+      "path": "assets/movie-edits/R4_MAKUMA.SFD",
+      "original_size": 19525632,
+      "muxed_size": 12011520,
+      "original_sha256": "ce4c5eaea5f78b131cf06e8788e1362a9ccc4db9ff3a4ffce1eb35c4ae13677c",
+      "sha256": "feda5445eee153c7298801bc65f0ea2b8d4191e05a0706671630f1dd705c9be9",
+      "method": "Japanese dialogue pixels removed in video; existing native Korean subtitle style, no opaque cover",
+      "source_rectangle": [
+        22,
+        197,
+        276,
+        24
+      ],
+      "title_movies_changed": false,
+      "audio_pcm_identical": true,
+      "frame_count": 1619,
+      "encoder": "FFmpeg MPEG-1 q2; 320x240; 30000/1001",
+      "muxer": "nebulas-star/SFD_Muxer MIT",
+      "patch": "assets/movie-edits/R4_MAKUMA.SFD.xdelta",
+      "patch_sha256": "0959dea80ee7c5814e1a59aa582ed8e05315d53d3a62f1023fe3743a380356aa",
+      "patch_tool": "bin/xdelta3.exe",
+      "patch_tool_sha256": "2081fb24a7b8a89d068b58e7d9353647d5fc1512a68bb6a37f71fc60ca84d943"
+    }
+  ]
+}
